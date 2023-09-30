@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\Pythagoras\Pythagoras\obj\Debug\net7.0\Pythagoras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\Pythagoras\Pythagoras\obj\Debug\net7.0\Pythagoras.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\Pythagoras\Pythagoras\obj\Debug\net7.0\Pythagoras.AssemblyInfo.cs
+C:\Users\joris\source\repos\Pythagoras\Pythagoras\obj\Debug\net7.0\Pythagoras.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\Pythagoras\Pythagoras\bin\Debug\net7.0\Pythagoras.exe
+C:\Users\joris\source\repos\Pythagoras\Pythagoras\bin\Debug\net7.0\Pythagoras.deps.json
+C:\Users\joris\source\repos\Pythagoras\Pythagoras\bin\Debug\net7.0\Pythagoras.runtimeconfig.json
+C:\Users\joris\source\repos\Pythagoras\Pythagoras\bin\Debug\net7.0\Pythagoras.dll
+C:\Users\joris\source\repos\Pythagoras\Pythagoras\bin\Debug\net7.0\Pythagoras.pdb
+C:\Users\joris\source\repos\Pythagoras\Pythagoras\obj\Debug\net7.0\Pythagoras.dll
+C:\Users\joris\source\repos\Pythagoras\Pythagoras\obj\Debug\net7.0\refint\Pythagoras.dll
+C:\Users\joris\source\repos\Pythagoras\Pythagoras\obj\Debug\net7.0\Pythagoras.pdb
+C:\Users\joris\source\repos\Pythagoras\Pythagoras\obj\Debug\net7.0\Pythagoras.genruntimeconfig.cache
+C:\Users\joris\source\repos\Pythagoras\Pythagoras\obj\Debug\net7.0\ref\Pythagoras.dll

@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\Maandsalaris\Maandsalaris\bin\Debug\net7.0\Maandsalaris.exe
+C:\Users\joris\source\repos\Maandsalaris\Maandsalaris\bin\Debug\net7.0\Maandsalaris.deps.json
+C:\Users\joris\source\repos\Maandsalaris\Maandsalaris\bin\Debug\net7.0\Maandsalaris.runtimeconfig.json
+C:\Users\joris\source\repos\Maandsalaris\Maandsalaris\bin\Debug\net7.0\Maandsalaris.dll
+C:\Users\joris\source\repos\Maandsalaris\Maandsalaris\bin\Debug\net7.0\Maandsalaris.pdb
+C:\Users\joris\source\repos\Maandsalaris\Maandsalaris\obj\Debug\net7.0\Maandsalaris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\Maandsalaris\Maandsalaris\obj\Debug\net7.0\Maandsalaris.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\Maandsalaris\Maandsalaris\obj\Debug\net7.0\Maandsalaris.AssemblyInfo.cs
+C:\Users\joris\source\repos\Maandsalaris\Maandsalaris\obj\Debug\net7.0\Maandsalaris.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\Maandsalaris\Maandsalaris\obj\Debug\net7.0\Maandsalaris.dll
+C:\Users\joris\source\repos\Maandsalaris\Maandsalaris\obj\Debug\net7.0\refint\Maandsalaris.dll
+C:\Users\joris\source\repos\Maandsalaris\Maandsalaris\obj\Debug\net7.0\Maandsalaris.pdb
+C:\Users\joris\source\repos\Maandsalaris\Maandsalaris\obj\Debug\net7.0\Maandsalaris.genruntimeconfig.cache
+C:\Users\joris\source\repos\Maandsalaris\Maandsalaris\obj\Debug\net7.0\ref\Maandsalaris.dll

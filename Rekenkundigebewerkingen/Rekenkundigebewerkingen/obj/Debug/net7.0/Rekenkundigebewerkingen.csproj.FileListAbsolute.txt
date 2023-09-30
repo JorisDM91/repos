@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\Rekenkundigebewerkingen\Rekenkundigebewerkingen\bin\Debug\net7.0\Rekenkundigebewerkingen.exe
+C:\Users\joris\source\repos\Rekenkundigebewerkingen\Rekenkundigebewerkingen\bin\Debug\net7.0\Rekenkundigebewerkingen.deps.json
+C:\Users\joris\source\repos\Rekenkundigebewerkingen\Rekenkundigebewerkingen\bin\Debug\net7.0\Rekenkundigebewerkingen.runtimeconfig.json
+C:\Users\joris\source\repos\Rekenkundigebewerkingen\Rekenkundigebewerkingen\bin\Debug\net7.0\Rekenkundigebewerkingen.dll
+C:\Users\joris\source\repos\Rekenkundigebewerkingen\Rekenkundigebewerkingen\bin\Debug\net7.0\Rekenkundigebewerkingen.pdb
+C:\Users\joris\source\repos\Rekenkundigebewerkingen\Rekenkundigebewerkingen\obj\Debug\net7.0\Rekenkundigebewerkingen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\Rekenkundigebewerkingen\Rekenkundigebewerkingen\obj\Debug\net7.0\Rekenkundigebewerkingen.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\Rekenkundigebewerkingen\Rekenkundigebewerkingen\obj\Debug\net7.0\Rekenkundigebewerkingen.AssemblyInfo.cs
+C:\Users\joris\source\repos\Rekenkundigebewerkingen\Rekenkundigebewerkingen\obj\Debug\net7.0\Rekenkundigebewerkingen.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\Rekenkundigebewerkingen\Rekenkundigebewerkingen\obj\Debug\net7.0\Rekenkundigebewerkingen.dll
+C:\Users\joris\source\repos\Rekenkundigebewerkingen\Rekenkundigebewerkingen\obj\Debug\net7.0\refint\Rekenkundigebewerkingen.dll
+C:\Users\joris\source\repos\Rekenkundigebewerkingen\Rekenkundigebewerkingen\obj\Debug\net7.0\Rekenkundigebewerkingen.pdb
+C:\Users\joris\source\repos\Rekenkundigebewerkingen\Rekenkundigebewerkingen\obj\Debug\net7.0\Rekenkundigebewerkingen.genruntimeconfig.cache
+C:\Users\joris\source\repos\Rekenkundigebewerkingen\Rekenkundigebewerkingen\obj\Debug\net7.0\ref\Rekenkundigebewerkingen.dll

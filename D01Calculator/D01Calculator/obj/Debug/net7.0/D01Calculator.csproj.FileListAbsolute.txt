@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D01Calculator\D01Calculator\bin\Debug\net7.0\D01Calculator.exe
+C:\Users\joris\source\repos\D01Calculator\D01Calculator\bin\Debug\net7.0\D01Calculator.deps.json
+C:\Users\joris\source\repos\D01Calculator\D01Calculator\bin\Debug\net7.0\D01Calculator.runtimeconfig.json
+C:\Users\joris\source\repos\D01Calculator\D01Calculator\bin\Debug\net7.0\D01Calculator.dll
+C:\Users\joris\source\repos\D01Calculator\D01Calculator\bin\Debug\net7.0\D01Calculator.pdb
+C:\Users\joris\source\repos\D01Calculator\D01Calculator\obj\Debug\net7.0\D01Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D01Calculator\D01Calculator\obj\Debug\net7.0\D01Calculator.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D01Calculator\D01Calculator\obj\Debug\net7.0\D01Calculator.AssemblyInfo.cs
+C:\Users\joris\source\repos\D01Calculator\D01Calculator\obj\Debug\net7.0\D01Calculator.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D01Calculator\D01Calculator\obj\Debug\net7.0\D01Calculator.dll
+C:\Users\joris\source\repos\D01Calculator\D01Calculator\obj\Debug\net7.0\refint\D01Calculator.dll
+C:\Users\joris\source\repos\D01Calculator\D01Calculator\obj\Debug\net7.0\D01Calculator.pdb
+C:\Users\joris\source\repos\D01Calculator\D01Calculator\obj\Debug\net7.0\D01Calculator.genruntimeconfig.cache
+C:\Users\joris\source\repos\D01Calculator\D01Calculator\obj\Debug\net7.0\ref\D01Calculator.dll

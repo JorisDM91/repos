@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gR7FPWkZxtzUp97uO/G3PmuacP8+X/sYEICivBHsN0oluBDp/R1GnJjz4DvZ52bsxXwwDMOmUKe0BskVFOknxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joris\\source\\repos\\Oefening D01codepositioneren\\Oefening D01codepositioneren\\Oefening D01codepositioneren.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joris\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.11\\microsoft.netcore.app.runtime.win-x64.7.0.11.nupkg.sha512",
+    "C:\\Users\\joris\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.11\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.11.nupkg.sha512",
+    "C:\\Users\\joris\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.11\\microsoft.aspnetcore.app.runtime.win-x64.7.0.11.nupkg.sha512",
+    "C:\\Users\\joris\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\7.0.11\\microsoft.netcore.app.crossgen2.win-x64.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

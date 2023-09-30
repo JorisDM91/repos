@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: ConsoleApp1, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>ConsoleApp1 -> C:\Users\joris\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 8:44 and took 01,157 seconds ==========

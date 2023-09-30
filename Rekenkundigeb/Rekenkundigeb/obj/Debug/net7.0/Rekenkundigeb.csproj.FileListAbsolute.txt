@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\Rekenkundigeb\Rekenkundigeb\bin\Debug\net7.0\Rekenkundigeb.exe
+C:\Users\joris\source\repos\Rekenkundigeb\Rekenkundigeb\bin\Debug\net7.0\Rekenkundigeb.deps.json
+C:\Users\joris\source\repos\Rekenkundigeb\Rekenkundigeb\bin\Debug\net7.0\Rekenkundigeb.runtimeconfig.json
+C:\Users\joris\source\repos\Rekenkundigeb\Rekenkundigeb\bin\Debug\net7.0\Rekenkundigeb.dll
+C:\Users\joris\source\repos\Rekenkundigeb\Rekenkundigeb\bin\Debug\net7.0\Rekenkundigeb.pdb
+C:\Users\joris\source\repos\Rekenkundigeb\Rekenkundigeb\obj\Debug\net7.0\Rekenkundigeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\Rekenkundigeb\Rekenkundigeb\obj\Debug\net7.0\Rekenkundigeb.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\Rekenkundigeb\Rekenkundigeb\obj\Debug\net7.0\Rekenkundigeb.AssemblyInfo.cs
+C:\Users\joris\source\repos\Rekenkundigeb\Rekenkundigeb\obj\Debug\net7.0\Rekenkundigeb.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\Rekenkundigeb\Rekenkundigeb\obj\Debug\net7.0\Rekenkundigeb.dll
+C:\Users\joris\source\repos\Rekenkundigeb\Rekenkundigeb\obj\Debug\net7.0\refint\Rekenkundigeb.dll
+C:\Users\joris\source\repos\Rekenkundigeb\Rekenkundigeb\obj\Debug\net7.0\Rekenkundigeb.pdb
+C:\Users\joris\source\repos\Rekenkundigeb\Rekenkundigeb\obj\Debug\net7.0\Rekenkundigeb.genruntimeconfig.cache
+C:\Users\joris\source\repos\Rekenkundigeb\Rekenkundigeb\obj\Debug\net7.0\ref\Rekenkundigeb.dll
