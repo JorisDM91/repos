@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\discord\discord\bin\Debug\net7.0\discord.exe
+C:\Users\joris\source\repos\discord\discord\bin\Debug\net7.0\discord.deps.json
+C:\Users\joris\source\repos\discord\discord\bin\Debug\net7.0\discord.runtimeconfig.json
+C:\Users\joris\source\repos\discord\discord\bin\Debug\net7.0\discord.dll
+C:\Users\joris\source\repos\discord\discord\bin\Debug\net7.0\discord.pdb
+C:\Users\joris\source\repos\discord\discord\obj\Debug\net7.0\discord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\discord\discord\obj\Debug\net7.0\discord.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\discord\discord\obj\Debug\net7.0\discord.AssemblyInfo.cs
+C:\Users\joris\source\repos\discord\discord\obj\Debug\net7.0\discord.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\discord\discord\obj\Debug\net7.0\discord.dll
+C:\Users\joris\source\repos\discord\discord\obj\Debug\net7.0\refint\discord.dll
+C:\Users\joris\source\repos\discord\discord\obj\Debug\net7.0\discord.pdb
+C:\Users\joris\source\repos\discord\discord\obj\Debug\net7.0\discord.genruntimeconfig.cache
+C:\Users\joris\source\repos\discord\discord\obj\Debug\net7.0\ref\discord.dll
