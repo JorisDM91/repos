@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D08inhoudwisselen\D08inhoudwisselen\bin\Debug\net7.0\D08inhoudwisselen.exe
+C:\Users\joris\source\repos\D08inhoudwisselen\D08inhoudwisselen\bin\Debug\net7.0\D08inhoudwisselen.deps.json
+C:\Users\joris\source\repos\D08inhoudwisselen\D08inhoudwisselen\bin\Debug\net7.0\D08inhoudwisselen.runtimeconfig.json
+C:\Users\joris\source\repos\D08inhoudwisselen\D08inhoudwisselen\bin\Debug\net7.0\D08inhoudwisselen.dll
+C:\Users\joris\source\repos\D08inhoudwisselen\D08inhoudwisselen\bin\Debug\net7.0\D08inhoudwisselen.pdb
+C:\Users\joris\source\repos\D08inhoudwisselen\D08inhoudwisselen\obj\Debug\net7.0\D08inhoudwisselen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D08inhoudwisselen\D08inhoudwisselen\obj\Debug\net7.0\D08inhoudwisselen.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D08inhoudwisselen\D08inhoudwisselen\obj\Debug\net7.0\D08inhoudwisselen.AssemblyInfo.cs
+C:\Users\joris\source\repos\D08inhoudwisselen\D08inhoudwisselen\obj\Debug\net7.0\D08inhoudwisselen.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D08inhoudwisselen\D08inhoudwisselen\obj\Debug\net7.0\D08inhoudwisselen.dll
+C:\Users\joris\source\repos\D08inhoudwisselen\D08inhoudwisselen\obj\Debug\net7.0\refint\D08inhoudwisselen.dll
+C:\Users\joris\source\repos\D08inhoudwisselen\D08inhoudwisselen\obj\Debug\net7.0\D08inhoudwisselen.pdb
+C:\Users\joris\source\repos\D08inhoudwisselen\D08inhoudwisselen\obj\Debug\net7.0\D08inhoudwisselen.genruntimeconfig.cache
+C:\Users\joris\source\repos\D08inhoudwisselen\D08inhoudwisselen\obj\Debug\net7.0\ref\D08inhoudwisselen.dll

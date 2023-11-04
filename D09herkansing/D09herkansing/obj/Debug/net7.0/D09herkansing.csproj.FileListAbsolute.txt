@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D09herkansing\D09herkansing\bin\Debug\net7.0\D09herkansing.exe
+C:\Users\joris\source\repos\D09herkansing\D09herkansing\bin\Debug\net7.0\D09herkansing.deps.json
+C:\Users\joris\source\repos\D09herkansing\D09herkansing\bin\Debug\net7.0\D09herkansing.runtimeconfig.json
+C:\Users\joris\source\repos\D09herkansing\D09herkansing\bin\Debug\net7.0\D09herkansing.dll
+C:\Users\joris\source\repos\D09herkansing\D09herkansing\bin\Debug\net7.0\D09herkansing.pdb
+C:\Users\joris\source\repos\D09herkansing\D09herkansing\obj\Debug\net7.0\D09herkansing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D09herkansing\D09herkansing\obj\Debug\net7.0\D09herkansing.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D09herkansing\D09herkansing\obj\Debug\net7.0\D09herkansing.AssemblyInfo.cs
+C:\Users\joris\source\repos\D09herkansing\D09herkansing\obj\Debug\net7.0\D09herkansing.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D09herkansing\D09herkansing\obj\Debug\net7.0\D09herkansing.dll
+C:\Users\joris\source\repos\D09herkansing\D09herkansing\obj\Debug\net7.0\refint\D09herkansing.dll
+C:\Users\joris\source\repos\D09herkansing\D09herkansing\obj\Debug\net7.0\D09herkansing.pdb
+C:\Users\joris\source\repos\D09herkansing\D09herkansing\obj\Debug\net7.0\D09herkansing.genruntimeconfig.cache
+C:\Users\joris\source\repos\D09herkansing\D09herkansing\obj\Debug\net7.0\ref\D09herkansing.dll

@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D08toongetallen\D08toongetallen\bin\Debug\net7.0\D08toongetallen.exe
+C:\Users\joris\source\repos\D08toongetallen\D08toongetallen\bin\Debug\net7.0\D08toongetallen.deps.json
+C:\Users\joris\source\repos\D08toongetallen\D08toongetallen\bin\Debug\net7.0\D08toongetallen.runtimeconfig.json
+C:\Users\joris\source\repos\D08toongetallen\D08toongetallen\bin\Debug\net7.0\D08toongetallen.dll
+C:\Users\joris\source\repos\D08toongetallen\D08toongetallen\bin\Debug\net7.0\D08toongetallen.pdb
+C:\Users\joris\source\repos\D08toongetallen\D08toongetallen\obj\Debug\net7.0\D08toongetallen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D08toongetallen\D08toongetallen\obj\Debug\net7.0\D08toongetallen.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D08toongetallen\D08toongetallen\obj\Debug\net7.0\D08toongetallen.AssemblyInfo.cs
+C:\Users\joris\source\repos\D08toongetallen\D08toongetallen\obj\Debug\net7.0\D08toongetallen.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D08toongetallen\D08toongetallen\obj\Debug\net7.0\D08toongetallen.dll
+C:\Users\joris\source\repos\D08toongetallen\D08toongetallen\obj\Debug\net7.0\refint\D08toongetallen.dll
+C:\Users\joris\source\repos\D08toongetallen\D08toongetallen\obj\Debug\net7.0\D08toongetallen.pdb
+C:\Users\joris\source\repos\D08toongetallen\D08toongetallen\obj\Debug\net7.0\D08toongetallen.genruntimeconfig.cache
+C:\Users\joris\source\repos\D08toongetallen\D08toongetallen\obj\Debug\net7.0\ref\D08toongetallen.dll

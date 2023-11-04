@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D04bmiKort\D04bmiKort\bin\Debug\net7.0\D04bmiKort.exe
+C:\Users\joris\source\repos\D04bmiKort\D04bmiKort\bin\Debug\net7.0\D04bmiKort.deps.json
+C:\Users\joris\source\repos\D04bmiKort\D04bmiKort\bin\Debug\net7.0\D04bmiKort.runtimeconfig.json
+C:\Users\joris\source\repos\D04bmiKort\D04bmiKort\bin\Debug\net7.0\D04bmiKort.dll
+C:\Users\joris\source\repos\D04bmiKort\D04bmiKort\bin\Debug\net7.0\D04bmiKort.pdb
+C:\Users\joris\source\repos\D04bmiKort\D04bmiKort\obj\Debug\net7.0\D04bmiKort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D04bmiKort\D04bmiKort\obj\Debug\net7.0\D04bmiKort.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D04bmiKort\D04bmiKort\obj\Debug\net7.0\D04bmiKort.AssemblyInfo.cs
+C:\Users\joris\source\repos\D04bmiKort\D04bmiKort\obj\Debug\net7.0\D04bmiKort.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D04bmiKort\D04bmiKort\obj\Debug\net7.0\D04bmiKort.dll
+C:\Users\joris\source\repos\D04bmiKort\D04bmiKort\obj\Debug\net7.0\refint\D04bmiKort.dll
+C:\Users\joris\source\repos\D04bmiKort\D04bmiKort\obj\Debug\net7.0\D04bmiKort.pdb
+C:\Users\joris\source\repos\D04bmiKort\D04bmiKort\obj\Debug\net7.0\D04bmiKort.genruntimeconfig.cache
+C:\Users\joris\source\repos\D04bmiKort\D04bmiKort\obj\Debug\net7.0\ref\D04bmiKort.dll

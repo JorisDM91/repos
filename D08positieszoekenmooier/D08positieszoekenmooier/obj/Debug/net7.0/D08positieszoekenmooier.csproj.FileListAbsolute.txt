@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D08positieszoekenmooier\D08positieszoekenmooier\bin\Debug\net7.0\D08positieszoekenmooier.exe
+C:\Users\joris\source\repos\D08positieszoekenmooier\D08positieszoekenmooier\bin\Debug\net7.0\D08positieszoekenmooier.deps.json
+C:\Users\joris\source\repos\D08positieszoekenmooier\D08positieszoekenmooier\bin\Debug\net7.0\D08positieszoekenmooier.runtimeconfig.json
+C:\Users\joris\source\repos\D08positieszoekenmooier\D08positieszoekenmooier\bin\Debug\net7.0\D08positieszoekenmooier.dll
+C:\Users\joris\source\repos\D08positieszoekenmooier\D08positieszoekenmooier\bin\Debug\net7.0\D08positieszoekenmooier.pdb
+C:\Users\joris\source\repos\D08positieszoekenmooier\D08positieszoekenmooier\obj\Debug\net7.0\D08positieszoekenmooier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D08positieszoekenmooier\D08positieszoekenmooier\obj\Debug\net7.0\D08positieszoekenmooier.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D08positieszoekenmooier\D08positieszoekenmooier\obj\Debug\net7.0\D08positieszoekenmooier.AssemblyInfo.cs
+C:\Users\joris\source\repos\D08positieszoekenmooier\D08positieszoekenmooier\obj\Debug\net7.0\D08positieszoekenmooier.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D08positieszoekenmooier\D08positieszoekenmooier\obj\Debug\net7.0\D08positieszoekenmooier.dll
+C:\Users\joris\source\repos\D08positieszoekenmooier\D08positieszoekenmooier\obj\Debug\net7.0\refint\D08positieszoekenmooier.dll
+C:\Users\joris\source\repos\D08positieszoekenmooier\D08positieszoekenmooier\obj\Debug\net7.0\D08positieszoekenmooier.pdb
+C:\Users\joris\source\repos\D08positieszoekenmooier\D08positieszoekenmooier\obj\Debug\net7.0\D08positieszoekenmooier.genruntimeconfig.cache
+C:\Users\joris\source\repos\D08positieszoekenmooier\D08positieszoekenmooier\obj\Debug\net7.0\ref\D08positieszoekenmooier.dll

@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\GetalRadenFoutcontrole\GetalRadenFoutcontrole\bin\Debug\net7.0\GetalRadenFoutcontrole.exe
+C:\Users\joris\source\repos\GetalRadenFoutcontrole\GetalRadenFoutcontrole\bin\Debug\net7.0\GetalRadenFoutcontrole.deps.json
+C:\Users\joris\source\repos\GetalRadenFoutcontrole\GetalRadenFoutcontrole\bin\Debug\net7.0\GetalRadenFoutcontrole.runtimeconfig.json
+C:\Users\joris\source\repos\GetalRadenFoutcontrole\GetalRadenFoutcontrole\bin\Debug\net7.0\GetalRadenFoutcontrole.dll
+C:\Users\joris\source\repos\GetalRadenFoutcontrole\GetalRadenFoutcontrole\bin\Debug\net7.0\GetalRadenFoutcontrole.pdb
+C:\Users\joris\source\repos\GetalRadenFoutcontrole\GetalRadenFoutcontrole\obj\Debug\net7.0\GetalRadenFoutcontrole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\GetalRadenFoutcontrole\GetalRadenFoutcontrole\obj\Debug\net7.0\GetalRadenFoutcontrole.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\GetalRadenFoutcontrole\GetalRadenFoutcontrole\obj\Debug\net7.0\GetalRadenFoutcontrole.AssemblyInfo.cs
+C:\Users\joris\source\repos\GetalRadenFoutcontrole\GetalRadenFoutcontrole\obj\Debug\net7.0\GetalRadenFoutcontrole.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\GetalRadenFoutcontrole\GetalRadenFoutcontrole\obj\Debug\net7.0\GetalRadenFoutcontrole.dll
+C:\Users\joris\source\repos\GetalRadenFoutcontrole\GetalRadenFoutcontrole\obj\Debug\net7.0\refint\GetalRadenFoutcontrole.dll
+C:\Users\joris\source\repos\GetalRadenFoutcontrole\GetalRadenFoutcontrole\obj\Debug\net7.0\GetalRadenFoutcontrole.pdb
+C:\Users\joris\source\repos\GetalRadenFoutcontrole\GetalRadenFoutcontrole\obj\Debug\net7.0\GetalRadenFoutcontrole.genruntimeconfig.cache
+C:\Users\joris\source\repos\GetalRadenFoutcontrole\GetalRadenFoutcontrole\obj\Debug\net7.0\ref\GetalRadenFoutcontrole.dll

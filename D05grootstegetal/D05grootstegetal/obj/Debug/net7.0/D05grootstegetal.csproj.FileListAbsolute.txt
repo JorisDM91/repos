@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D05grootstegetal\D05grootstegetal\bin\Debug\net7.0\D05grootstegetal.exe
+C:\Users\joris\source\repos\D05grootstegetal\D05grootstegetal\bin\Debug\net7.0\D05grootstegetal.deps.json
+C:\Users\joris\source\repos\D05grootstegetal\D05grootstegetal\bin\Debug\net7.0\D05grootstegetal.runtimeconfig.json
+C:\Users\joris\source\repos\D05grootstegetal\D05grootstegetal\bin\Debug\net7.0\D05grootstegetal.dll
+C:\Users\joris\source\repos\D05grootstegetal\D05grootstegetal\bin\Debug\net7.0\D05grootstegetal.pdb
+C:\Users\joris\source\repos\D05grootstegetal\D05grootstegetal\obj\Debug\net7.0\D05grootstegetal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D05grootstegetal\D05grootstegetal\obj\Debug\net7.0\D05grootstegetal.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D05grootstegetal\D05grootstegetal\obj\Debug\net7.0\D05grootstegetal.AssemblyInfo.cs
+C:\Users\joris\source\repos\D05grootstegetal\D05grootstegetal\obj\Debug\net7.0\D05grootstegetal.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D05grootstegetal\D05grootstegetal\obj\Debug\net7.0\D05grootstegetal.dll
+C:\Users\joris\source\repos\D05grootstegetal\D05grootstegetal\obj\Debug\net7.0\refint\D05grootstegetal.dll
+C:\Users\joris\source\repos\D05grootstegetal\D05grootstegetal\obj\Debug\net7.0\D05grootstegetal.pdb
+C:\Users\joris\source\repos\D05grootstegetal\D05grootstegetal\obj\Debug\net7.0\D05grootstegetal.genruntimeconfig.cache
+C:\Users\joris\source\repos\D05grootstegetal\D05grootstegetal\obj\Debug\net7.0\ref\D05grootstegetal.dll

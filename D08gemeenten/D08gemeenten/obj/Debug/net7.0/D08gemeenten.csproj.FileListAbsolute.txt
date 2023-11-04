@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D08gemeenten\D08gemeenten\bin\Debug\net7.0\D08gemeenten.exe
+C:\Users\joris\source\repos\D08gemeenten\D08gemeenten\bin\Debug\net7.0\D08gemeenten.deps.json
+C:\Users\joris\source\repos\D08gemeenten\D08gemeenten\bin\Debug\net7.0\D08gemeenten.runtimeconfig.json
+C:\Users\joris\source\repos\D08gemeenten\D08gemeenten\bin\Debug\net7.0\D08gemeenten.dll
+C:\Users\joris\source\repos\D08gemeenten\D08gemeenten\bin\Debug\net7.0\D08gemeenten.pdb
+C:\Users\joris\source\repos\D08gemeenten\D08gemeenten\obj\Debug\net7.0\D08gemeenten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D08gemeenten\D08gemeenten\obj\Debug\net7.0\D08gemeenten.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D08gemeenten\D08gemeenten\obj\Debug\net7.0\D08gemeenten.AssemblyInfo.cs
+C:\Users\joris\source\repos\D08gemeenten\D08gemeenten\obj\Debug\net7.0\D08gemeenten.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D08gemeenten\D08gemeenten\obj\Debug\net7.0\D08gemeenten.dll
+C:\Users\joris\source\repos\D08gemeenten\D08gemeenten\obj\Debug\net7.0\refint\D08gemeenten.dll
+C:\Users\joris\source\repos\D08gemeenten\D08gemeenten\obj\Debug\net7.0\D08gemeenten.pdb
+C:\Users\joris\source\repos\D08gemeenten\D08gemeenten\obj\Debug\net7.0\D08gemeenten.genruntimeconfig.cache
+C:\Users\joris\source\repos\D08gemeenten\D08gemeenten\obj\Debug\net7.0\ref\D08gemeenten.dll

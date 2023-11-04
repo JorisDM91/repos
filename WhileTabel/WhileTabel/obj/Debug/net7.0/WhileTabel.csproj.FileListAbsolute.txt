@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\WhileTabel\WhileTabel\bin\Debug\net7.0\WhileTabel.exe
+C:\Users\joris\source\repos\WhileTabel\WhileTabel\bin\Debug\net7.0\WhileTabel.deps.json
+C:\Users\joris\source\repos\WhileTabel\WhileTabel\bin\Debug\net7.0\WhileTabel.runtimeconfig.json
+C:\Users\joris\source\repos\WhileTabel\WhileTabel\bin\Debug\net7.0\WhileTabel.dll
+C:\Users\joris\source\repos\WhileTabel\WhileTabel\bin\Debug\net7.0\WhileTabel.pdb
+C:\Users\joris\source\repos\WhileTabel\WhileTabel\obj\Debug\net7.0\WhileTabel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\WhileTabel\WhileTabel\obj\Debug\net7.0\WhileTabel.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\WhileTabel\WhileTabel\obj\Debug\net7.0\WhileTabel.AssemblyInfo.cs
+C:\Users\joris\source\repos\WhileTabel\WhileTabel\obj\Debug\net7.0\WhileTabel.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\WhileTabel\WhileTabel\obj\Debug\net7.0\WhileTabel.dll
+C:\Users\joris\source\repos\WhileTabel\WhileTabel\obj\Debug\net7.0\refint\WhileTabel.dll
+C:\Users\joris\source\repos\WhileTabel\WhileTabel\obj\Debug\net7.0\WhileTabel.pdb
+C:\Users\joris\source\repos\WhileTabel\WhileTabel\obj\Debug\net7.0\WhileTabel.genruntimeconfig.cache
+C:\Users\joris\source\repos\WhileTabel\WhileTabel\obj\Debug\net7.0\ref\WhileTabel.dll

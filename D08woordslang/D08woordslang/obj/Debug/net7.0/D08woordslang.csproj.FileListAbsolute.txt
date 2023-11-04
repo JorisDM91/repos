@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D08woordslang\D08woordslang\bin\Debug\net7.0\D08woordslang.exe
+C:\Users\joris\source\repos\D08woordslang\D08woordslang\bin\Debug\net7.0\D08woordslang.deps.json
+C:\Users\joris\source\repos\D08woordslang\D08woordslang\bin\Debug\net7.0\D08woordslang.runtimeconfig.json
+C:\Users\joris\source\repos\D08woordslang\D08woordslang\bin\Debug\net7.0\D08woordslang.dll
+C:\Users\joris\source\repos\D08woordslang\D08woordslang\bin\Debug\net7.0\D08woordslang.pdb
+C:\Users\joris\source\repos\D08woordslang\D08woordslang\obj\Debug\net7.0\D08woordslang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D08woordslang\D08woordslang\obj\Debug\net7.0\D08woordslang.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D08woordslang\D08woordslang\obj\Debug\net7.0\D08woordslang.AssemblyInfo.cs
+C:\Users\joris\source\repos\D08woordslang\D08woordslang\obj\Debug\net7.0\D08woordslang.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D08woordslang\D08woordslang\obj\Debug\net7.0\D08woordslang.dll
+C:\Users\joris\source\repos\D08woordslang\D08woordslang\obj\Debug\net7.0\refint\D08woordslang.dll
+C:\Users\joris\source\repos\D08woordslang\D08woordslang\obj\Debug\net7.0\D08woordslang.pdb
+C:\Users\joris\source\repos\D08woordslang\D08woordslang\obj\Debug\net7.0\D08woordslang.genruntimeconfig.cache
+C:\Users\joris\source\repos\D08woordslang\D08woordslang\obj\Debug\net7.0\ref\D08woordslang.dll

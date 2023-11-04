@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D04weerzonderlogischeoperatoren\D04weerzonderlogischeoperatoren\bin\Debug\net7.0\D04weerzonderlogischeoperatoren.exe
+C:\Users\joris\source\repos\D04weerzonderlogischeoperatoren\D04weerzonderlogischeoperatoren\bin\Debug\net7.0\D04weerzonderlogischeoperatoren.deps.json
+C:\Users\joris\source\repos\D04weerzonderlogischeoperatoren\D04weerzonderlogischeoperatoren\bin\Debug\net7.0\D04weerzonderlogischeoperatoren.runtimeconfig.json
+C:\Users\joris\source\repos\D04weerzonderlogischeoperatoren\D04weerzonderlogischeoperatoren\bin\Debug\net7.0\D04weerzonderlogischeoperatoren.dll
+C:\Users\joris\source\repos\D04weerzonderlogischeoperatoren\D04weerzonderlogischeoperatoren\bin\Debug\net7.0\D04weerzonderlogischeoperatoren.pdb
+C:\Users\joris\source\repos\D04weerzonderlogischeoperatoren\D04weerzonderlogischeoperatoren\obj\Debug\net7.0\D04weerzonderlogischeoperatoren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D04weerzonderlogischeoperatoren\D04weerzonderlogischeoperatoren\obj\Debug\net7.0\D04weerzonderlogischeoperatoren.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D04weerzonderlogischeoperatoren\D04weerzonderlogischeoperatoren\obj\Debug\net7.0\D04weerzonderlogischeoperatoren.AssemblyInfo.cs
+C:\Users\joris\source\repos\D04weerzonderlogischeoperatoren\D04weerzonderlogischeoperatoren\obj\Debug\net7.0\D04weerzonderlogischeoperatoren.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D04weerzonderlogischeoperatoren\D04weerzonderlogischeoperatoren\obj\Debug\net7.0\D04weerzonderlogischeoperatoren.dll
+C:\Users\joris\source\repos\D04weerzonderlogischeoperatoren\D04weerzonderlogischeoperatoren\obj\Debug\net7.0\refint\D04weerzonderlogischeoperatoren.dll
+C:\Users\joris\source\repos\D04weerzonderlogischeoperatoren\D04weerzonderlogischeoperatoren\obj\Debug\net7.0\D04weerzonderlogischeoperatoren.pdb
+C:\Users\joris\source\repos\D04weerzonderlogischeoperatoren\D04weerzonderlogischeoperatoren\obj\Debug\net7.0\D04weerzonderlogischeoperatoren.genruntimeconfig.cache
+C:\Users\joris\source\repos\D04weerzonderlogischeoperatoren\D04weerzonderlogischeoperatoren\obj\Debug\net7.0\ref\D04weerzonderlogischeoperatoren.dll

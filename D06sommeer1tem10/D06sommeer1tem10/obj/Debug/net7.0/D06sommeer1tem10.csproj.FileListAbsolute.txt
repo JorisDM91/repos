@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D06sommeer1tem10\D06sommeer1tem10\bin\Debug\net7.0\D06sommeer1tem10.exe
+C:\Users\joris\source\repos\D06sommeer1tem10\D06sommeer1tem10\bin\Debug\net7.0\D06sommeer1tem10.deps.json
+C:\Users\joris\source\repos\D06sommeer1tem10\D06sommeer1tem10\bin\Debug\net7.0\D06sommeer1tem10.runtimeconfig.json
+C:\Users\joris\source\repos\D06sommeer1tem10\D06sommeer1tem10\bin\Debug\net7.0\D06sommeer1tem10.dll
+C:\Users\joris\source\repos\D06sommeer1tem10\D06sommeer1tem10\bin\Debug\net7.0\D06sommeer1tem10.pdb
+C:\Users\joris\source\repos\D06sommeer1tem10\D06sommeer1tem10\obj\Debug\net7.0\D06sommeer1tem10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D06sommeer1tem10\D06sommeer1tem10\obj\Debug\net7.0\D06sommeer1tem10.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D06sommeer1tem10\D06sommeer1tem10\obj\Debug\net7.0\D06sommeer1tem10.AssemblyInfo.cs
+C:\Users\joris\source\repos\D06sommeer1tem10\D06sommeer1tem10\obj\Debug\net7.0\D06sommeer1tem10.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D06sommeer1tem10\D06sommeer1tem10\obj\Debug\net7.0\D06sommeer1tem10.dll
+C:\Users\joris\source\repos\D06sommeer1tem10\D06sommeer1tem10\obj\Debug\net7.0\refint\D06sommeer1tem10.dll
+C:\Users\joris\source\repos\D06sommeer1tem10\D06sommeer1tem10\obj\Debug\net7.0\D06sommeer1tem10.pdb
+C:\Users\joris\source\repos\D06sommeer1tem10\D06sommeer1tem10\obj\Debug\net7.0\D06sommeer1tem10.genruntimeconfig.cache
+C:\Users\joris\source\repos\D06sommeer1tem10\D06sommeer1tem10\obj\Debug\net7.0\ref\D06sommeer1tem10.dll

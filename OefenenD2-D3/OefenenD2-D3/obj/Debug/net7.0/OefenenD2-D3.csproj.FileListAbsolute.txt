@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\OefenenD2-D3\OefenenD2-D3\bin\Debug\net7.0\OefenenD2-D3.exe
+C:\Users\joris\source\repos\OefenenD2-D3\OefenenD2-D3\bin\Debug\net7.0\OefenenD2-D3.deps.json
+C:\Users\joris\source\repos\OefenenD2-D3\OefenenD2-D3\bin\Debug\net7.0\OefenenD2-D3.runtimeconfig.json
+C:\Users\joris\source\repos\OefenenD2-D3\OefenenD2-D3\bin\Debug\net7.0\OefenenD2-D3.dll
+C:\Users\joris\source\repos\OefenenD2-D3\OefenenD2-D3\bin\Debug\net7.0\OefenenD2-D3.pdb
+C:\Users\joris\source\repos\OefenenD2-D3\OefenenD2-D3\obj\Debug\net7.0\OefenenD2-D3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\OefenenD2-D3\OefenenD2-D3\obj\Debug\net7.0\OefenenD2-D3.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\OefenenD2-D3\OefenenD2-D3\obj\Debug\net7.0\OefenenD2-D3.AssemblyInfo.cs
+C:\Users\joris\source\repos\OefenenD2-D3\OefenenD2-D3\obj\Debug\net7.0\OefenenD2-D3.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\OefenenD2-D3\OefenenD2-D3\obj\Debug\net7.0\OefenenD2-D3.dll
+C:\Users\joris\source\repos\OefenenD2-D3\OefenenD2-D3\obj\Debug\net7.0\refint\OefenenD2-D3.dll
+C:\Users\joris\source\repos\OefenenD2-D3\OefenenD2-D3\obj\Debug\net7.0\OefenenD2-D3.pdb
+C:\Users\joris\source\repos\OefenenD2-D3\OefenenD2-D3\obj\Debug\net7.0\OefenenD2-D3.genruntimeconfig.cache
+C:\Users\joris\source\repos\OefenenD2-D3\OefenenD2-D3\obj\Debug\net7.0\ref\OefenenD2-D3.dll

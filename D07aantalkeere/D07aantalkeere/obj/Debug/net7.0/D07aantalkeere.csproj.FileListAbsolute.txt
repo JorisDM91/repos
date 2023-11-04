@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D07aantalkeere\D07aantalkeere\bin\Debug\net7.0\D07aantalkeere.exe
+C:\Users\joris\source\repos\D07aantalkeere\D07aantalkeere\bin\Debug\net7.0\D07aantalkeere.deps.json
+C:\Users\joris\source\repos\D07aantalkeere\D07aantalkeere\bin\Debug\net7.0\D07aantalkeere.runtimeconfig.json
+C:\Users\joris\source\repos\D07aantalkeere\D07aantalkeere\bin\Debug\net7.0\D07aantalkeere.dll
+C:\Users\joris\source\repos\D07aantalkeere\D07aantalkeere\bin\Debug\net7.0\D07aantalkeere.pdb
+C:\Users\joris\source\repos\D07aantalkeere\D07aantalkeere\obj\Debug\net7.0\D07aantalkeere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D07aantalkeere\D07aantalkeere\obj\Debug\net7.0\D07aantalkeere.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D07aantalkeere\D07aantalkeere\obj\Debug\net7.0\D07aantalkeere.AssemblyInfo.cs
+C:\Users\joris\source\repos\D07aantalkeere\D07aantalkeere\obj\Debug\net7.0\D07aantalkeere.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D07aantalkeere\D07aantalkeere\obj\Debug\net7.0\D07aantalkeere.dll
+C:\Users\joris\source\repos\D07aantalkeere\D07aantalkeere\obj\Debug\net7.0\refint\D07aantalkeere.dll
+C:\Users\joris\source\repos\D07aantalkeere\D07aantalkeere\obj\Debug\net7.0\D07aantalkeere.pdb
+C:\Users\joris\source\repos\D07aantalkeere\D07aantalkeere\obj\Debug\net7.0\D07aantalkeere.genruntimeconfig.cache
+C:\Users\joris\source\repos\D07aantalkeere\D07aantalkeere\obj\Debug\net7.0\ref\D07aantalkeere.dll

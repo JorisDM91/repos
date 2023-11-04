@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D08dagentotaal\D08dagentotaal\bin\Debug\net7.0\D08dagentotaal.exe
+C:\Users\joris\source\repos\D08dagentotaal\D08dagentotaal\bin\Debug\net7.0\D08dagentotaal.deps.json
+C:\Users\joris\source\repos\D08dagentotaal\D08dagentotaal\bin\Debug\net7.0\D08dagentotaal.runtimeconfig.json
+C:\Users\joris\source\repos\D08dagentotaal\D08dagentotaal\bin\Debug\net7.0\D08dagentotaal.dll
+C:\Users\joris\source\repos\D08dagentotaal\D08dagentotaal\bin\Debug\net7.0\D08dagentotaal.pdb
+C:\Users\joris\source\repos\D08dagentotaal\D08dagentotaal\obj\Debug\net7.0\D08dagentotaal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D08dagentotaal\D08dagentotaal\obj\Debug\net7.0\D08dagentotaal.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D08dagentotaal\D08dagentotaal\obj\Debug\net7.0\D08dagentotaal.AssemblyInfo.cs
+C:\Users\joris\source\repos\D08dagentotaal\D08dagentotaal\obj\Debug\net7.0\D08dagentotaal.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D08dagentotaal\D08dagentotaal\obj\Debug\net7.0\D08dagentotaal.dll
+C:\Users\joris\source\repos\D08dagentotaal\D08dagentotaal\obj\Debug\net7.0\refint\D08dagentotaal.dll
+C:\Users\joris\source\repos\D08dagentotaal\D08dagentotaal\obj\Debug\net7.0\D08dagentotaal.pdb
+C:\Users\joris\source\repos\D08dagentotaal\D08dagentotaal\obj\Debug\net7.0\D08dagentotaal.genruntimeconfig.cache
+C:\Users\joris\source\repos\D08dagentotaal\D08dagentotaal\obj\Debug\net7.0\ref\D08dagentotaal.dll

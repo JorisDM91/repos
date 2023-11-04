@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D09geenscheldwoorden\D09geenscheldwoorden\bin\Debug\net7.0\D09geenscheldwoorden.exe
+C:\Users\joris\source\repos\D09geenscheldwoorden\D09geenscheldwoorden\bin\Debug\net7.0\D09geenscheldwoorden.deps.json
+C:\Users\joris\source\repos\D09geenscheldwoorden\D09geenscheldwoorden\bin\Debug\net7.0\D09geenscheldwoorden.runtimeconfig.json
+C:\Users\joris\source\repos\D09geenscheldwoorden\D09geenscheldwoorden\bin\Debug\net7.0\D09geenscheldwoorden.dll
+C:\Users\joris\source\repos\D09geenscheldwoorden\D09geenscheldwoorden\bin\Debug\net7.0\D09geenscheldwoorden.pdb
+C:\Users\joris\source\repos\D09geenscheldwoorden\D09geenscheldwoorden\obj\Debug\net7.0\D09geenscheldwoorden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D09geenscheldwoorden\D09geenscheldwoorden\obj\Debug\net7.0\D09geenscheldwoorden.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D09geenscheldwoorden\D09geenscheldwoorden\obj\Debug\net7.0\D09geenscheldwoorden.AssemblyInfo.cs
+C:\Users\joris\source\repos\D09geenscheldwoorden\D09geenscheldwoorden\obj\Debug\net7.0\D09geenscheldwoorden.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D09geenscheldwoorden\D09geenscheldwoorden\obj\Debug\net7.0\D09geenscheldwoorden.dll
+C:\Users\joris\source\repos\D09geenscheldwoorden\D09geenscheldwoorden\obj\Debug\net7.0\refint\D09geenscheldwoorden.dll
+C:\Users\joris\source\repos\D09geenscheldwoorden\D09geenscheldwoorden\obj\Debug\net7.0\D09geenscheldwoorden.pdb
+C:\Users\joris\source\repos\D09geenscheldwoorden\D09geenscheldwoorden\obj\Debug\net7.0\D09geenscheldwoorden.genruntimeconfig.cache
+C:\Users\joris\source\repos\D09geenscheldwoorden\D09geenscheldwoorden\obj\Debug\net7.0\ref\D09geenscheldwoorden.dll

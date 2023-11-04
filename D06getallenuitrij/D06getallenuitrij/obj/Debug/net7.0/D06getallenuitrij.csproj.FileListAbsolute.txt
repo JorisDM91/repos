@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D06getallenuitrij\D06getallenuitrij\bin\Debug\net7.0\D06getallenuitrij.exe
+C:\Users\joris\source\repos\D06getallenuitrij\D06getallenuitrij\bin\Debug\net7.0\D06getallenuitrij.deps.json
+C:\Users\joris\source\repos\D06getallenuitrij\D06getallenuitrij\bin\Debug\net7.0\D06getallenuitrij.runtimeconfig.json
+C:\Users\joris\source\repos\D06getallenuitrij\D06getallenuitrij\bin\Debug\net7.0\D06getallenuitrij.dll
+C:\Users\joris\source\repos\D06getallenuitrij\D06getallenuitrij\bin\Debug\net7.0\D06getallenuitrij.pdb
+C:\Users\joris\source\repos\D06getallenuitrij\D06getallenuitrij\obj\Debug\net7.0\D06getallenuitrij.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D06getallenuitrij\D06getallenuitrij\obj\Debug\net7.0\D06getallenuitrij.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D06getallenuitrij\D06getallenuitrij\obj\Debug\net7.0\D06getallenuitrij.AssemblyInfo.cs
+C:\Users\joris\source\repos\D06getallenuitrij\D06getallenuitrij\obj\Debug\net7.0\D06getallenuitrij.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D06getallenuitrij\D06getallenuitrij\obj\Debug\net7.0\D06getallenuitrij.dll
+C:\Users\joris\source\repos\D06getallenuitrij\D06getallenuitrij\obj\Debug\net7.0\refint\D06getallenuitrij.dll
+C:\Users\joris\source\repos\D06getallenuitrij\D06getallenuitrij\obj\Debug\net7.0\D06getallenuitrij.pdb
+C:\Users\joris\source\repos\D06getallenuitrij\D06getallenuitrij\obj\Debug\net7.0\D06getallenuitrij.genruntimeconfig.cache
+C:\Users\joris\source\repos\D06getallenuitrij\D06getallenuitrij\obj\Debug\net7.0\ref\D06getallenuitrij.dll

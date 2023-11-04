@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D05som\D05som\bin\Debug\net7.0\D05som.exe
+C:\Users\joris\source\repos\D05som\D05som\bin\Debug\net7.0\D05som.deps.json
+C:\Users\joris\source\repos\D05som\D05som\bin\Debug\net7.0\D05som.runtimeconfig.json
+C:\Users\joris\source\repos\D05som\D05som\bin\Debug\net7.0\D05som.dll
+C:\Users\joris\source\repos\D05som\D05som\bin\Debug\net7.0\D05som.pdb
+C:\Users\joris\source\repos\D05som\D05som\obj\Debug\net7.0\D05som.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D05som\D05som\obj\Debug\net7.0\D05som.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D05som\D05som\obj\Debug\net7.0\D05som.AssemblyInfo.cs
+C:\Users\joris\source\repos\D05som\D05som\obj\Debug\net7.0\D05som.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D05som\D05som\obj\Debug\net7.0\D05som.dll
+C:\Users\joris\source\repos\D05som\D05som\obj\Debug\net7.0\refint\D05som.dll
+C:\Users\joris\source\repos\D05som\D05som\obj\Debug\net7.0\D05som.pdb
+C:\Users\joris\source\repos\D05som\D05som\obj\Debug\net7.0\D05som.genruntimeconfig.cache
+C:\Users\joris\source\repos\D05som\D05som\obj\Debug\net7.0\ref\D05som.dll

@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D09dagnummernaarmaand\D09dagnummernaarmaand\bin\Debug\net7.0\D09dagnummernaarmaand.exe
+C:\Users\joris\source\repos\D09dagnummernaarmaand\D09dagnummernaarmaand\bin\Debug\net7.0\D09dagnummernaarmaand.deps.json
+C:\Users\joris\source\repos\D09dagnummernaarmaand\D09dagnummernaarmaand\bin\Debug\net7.0\D09dagnummernaarmaand.runtimeconfig.json
+C:\Users\joris\source\repos\D09dagnummernaarmaand\D09dagnummernaarmaand\bin\Debug\net7.0\D09dagnummernaarmaand.dll
+C:\Users\joris\source\repos\D09dagnummernaarmaand\D09dagnummernaarmaand\bin\Debug\net7.0\D09dagnummernaarmaand.pdb
+C:\Users\joris\source\repos\D09dagnummernaarmaand\D09dagnummernaarmaand\obj\Debug\net7.0\D09dagnummernaarmaand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D09dagnummernaarmaand\D09dagnummernaarmaand\obj\Debug\net7.0\D09dagnummernaarmaand.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D09dagnummernaarmaand\D09dagnummernaarmaand\obj\Debug\net7.0\D09dagnummernaarmaand.AssemblyInfo.cs
+C:\Users\joris\source\repos\D09dagnummernaarmaand\D09dagnummernaarmaand\obj\Debug\net7.0\D09dagnummernaarmaand.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D09dagnummernaarmaand\D09dagnummernaarmaand\obj\Debug\net7.0\D09dagnummernaarmaand.dll
+C:\Users\joris\source\repos\D09dagnummernaarmaand\D09dagnummernaarmaand\obj\Debug\net7.0\refint\D09dagnummernaarmaand.dll
+C:\Users\joris\source\repos\D09dagnummernaarmaand\D09dagnummernaarmaand\obj\Debug\net7.0\D09dagnummernaarmaand.pdb
+C:\Users\joris\source\repos\D09dagnummernaarmaand\D09dagnummernaarmaand\obj\Debug\net7.0\D09dagnummernaarmaand.genruntimeconfig.cache
+C:\Users\joris\source\repos\D09dagnummernaarmaand\D09dagnummernaarmaand\obj\Debug\net7.0\ref\D09dagnummernaarmaand.dll

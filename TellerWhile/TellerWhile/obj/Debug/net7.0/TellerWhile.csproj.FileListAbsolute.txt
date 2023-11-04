@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\TellerWhile\TellerWhile\bin\Debug\net7.0\TellerWhile.exe
+C:\Users\joris\source\repos\TellerWhile\TellerWhile\bin\Debug\net7.0\TellerWhile.deps.json
+C:\Users\joris\source\repos\TellerWhile\TellerWhile\bin\Debug\net7.0\TellerWhile.runtimeconfig.json
+C:\Users\joris\source\repos\TellerWhile\TellerWhile\bin\Debug\net7.0\TellerWhile.dll
+C:\Users\joris\source\repos\TellerWhile\TellerWhile\bin\Debug\net7.0\TellerWhile.pdb
+C:\Users\joris\source\repos\TellerWhile\TellerWhile\obj\Debug\net7.0\TellerWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\TellerWhile\TellerWhile\obj\Debug\net7.0\TellerWhile.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\TellerWhile\TellerWhile\obj\Debug\net7.0\TellerWhile.AssemblyInfo.cs
+C:\Users\joris\source\repos\TellerWhile\TellerWhile\obj\Debug\net7.0\TellerWhile.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\TellerWhile\TellerWhile\obj\Debug\net7.0\TellerWhile.dll
+C:\Users\joris\source\repos\TellerWhile\TellerWhile\obj\Debug\net7.0\refint\TellerWhile.dll
+C:\Users\joris\source\repos\TellerWhile\TellerWhile\obj\Debug\net7.0\TellerWhile.pdb
+C:\Users\joris\source\repos\TellerWhile\TellerWhile\obj\Debug\net7.0\TellerWhile.genruntimeconfig.cache
+C:\Users\joris\source\repos\TellerWhile\TellerWhile\obj\Debug\net7.0\ref\TellerWhile.dll

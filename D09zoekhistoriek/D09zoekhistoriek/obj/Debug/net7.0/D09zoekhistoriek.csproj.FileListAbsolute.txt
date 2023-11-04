@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D09zoekhistoriek\D09zoekhistoriek\bin\Debug\net7.0\D09zoekhistoriek.exe
+C:\Users\joris\source\repos\D09zoekhistoriek\D09zoekhistoriek\bin\Debug\net7.0\D09zoekhistoriek.deps.json
+C:\Users\joris\source\repos\D09zoekhistoriek\D09zoekhistoriek\bin\Debug\net7.0\D09zoekhistoriek.runtimeconfig.json
+C:\Users\joris\source\repos\D09zoekhistoriek\D09zoekhistoriek\bin\Debug\net7.0\D09zoekhistoriek.dll
+C:\Users\joris\source\repos\D09zoekhistoriek\D09zoekhistoriek\bin\Debug\net7.0\D09zoekhistoriek.pdb
+C:\Users\joris\source\repos\D09zoekhistoriek\D09zoekhistoriek\obj\Debug\net7.0\D09zoekhistoriek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D09zoekhistoriek\D09zoekhistoriek\obj\Debug\net7.0\D09zoekhistoriek.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D09zoekhistoriek\D09zoekhistoriek\obj\Debug\net7.0\D09zoekhistoriek.AssemblyInfo.cs
+C:\Users\joris\source\repos\D09zoekhistoriek\D09zoekhistoriek\obj\Debug\net7.0\D09zoekhistoriek.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D09zoekhistoriek\D09zoekhistoriek\obj\Debug\net7.0\D09zoekhistoriek.dll
+C:\Users\joris\source\repos\D09zoekhistoriek\D09zoekhistoriek\obj\Debug\net7.0\refint\D09zoekhistoriek.dll
+C:\Users\joris\source\repos\D09zoekhistoriek\D09zoekhistoriek\obj\Debug\net7.0\D09zoekhistoriek.pdb
+C:\Users\joris\source\repos\D09zoekhistoriek\D09zoekhistoriek\obj\Debug\net7.0\D09zoekhistoriek.genruntimeconfig.cache
+C:\Users\joris\source\repos\D09zoekhistoriek\D09zoekhistoriek\obj\Debug\net7.0\ref\D09zoekhistoriek.dll

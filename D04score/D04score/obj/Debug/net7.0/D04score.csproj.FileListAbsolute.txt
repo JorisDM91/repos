@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D04score\D04score\bin\Debug\net7.0\D04score.exe
+C:\Users\joris\source\repos\D04score\D04score\bin\Debug\net7.0\D04score.deps.json
+C:\Users\joris\source\repos\D04score\D04score\bin\Debug\net7.0\D04score.runtimeconfig.json
+C:\Users\joris\source\repos\D04score\D04score\bin\Debug\net7.0\D04score.dll
+C:\Users\joris\source\repos\D04score\D04score\bin\Debug\net7.0\D04score.pdb
+C:\Users\joris\source\repos\D04score\D04score\obj\Debug\net7.0\D04score.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D04score\D04score\obj\Debug\net7.0\D04score.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D04score\D04score\obj\Debug\net7.0\D04score.AssemblyInfo.cs
+C:\Users\joris\source\repos\D04score\D04score\obj\Debug\net7.0\D04score.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D04score\D04score\obj\Debug\net7.0\D04score.dll
+C:\Users\joris\source\repos\D04score\D04score\obj\Debug\net7.0\refint\D04score.dll
+C:\Users\joris\source\repos\D04score\D04score\obj\Debug\net7.0\D04score.pdb
+C:\Users\joris\source\repos\D04score\D04score\obj\Debug\net7.0\D04score.genruntimeconfig.cache
+C:\Users\joris\source\repos\D04score\D04score\obj\Debug\net7.0\ref\D04score.dll

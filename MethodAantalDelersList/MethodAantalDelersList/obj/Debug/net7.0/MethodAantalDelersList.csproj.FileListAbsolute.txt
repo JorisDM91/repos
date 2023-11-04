@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\MethodAantalDelersList\MethodAantalDelersList\obj\Debug\net7.0\MethodAantalDelersList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\MethodAantalDelersList\MethodAantalDelersList\obj\Debug\net7.0\MethodAantalDelersList.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\MethodAantalDelersList\MethodAantalDelersList\obj\Debug\net7.0\MethodAantalDelersList.AssemblyInfo.cs
+C:\Users\joris\source\repos\MethodAantalDelersList\MethodAantalDelersList\obj\Debug\net7.0\MethodAantalDelersList.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\MethodAantalDelersList\MethodAantalDelersList\bin\Debug\net7.0\MethodAantalDelersList.exe
+C:\Users\joris\source\repos\MethodAantalDelersList\MethodAantalDelersList\bin\Debug\net7.0\MethodAantalDelersList.deps.json
+C:\Users\joris\source\repos\MethodAantalDelersList\MethodAantalDelersList\bin\Debug\net7.0\MethodAantalDelersList.runtimeconfig.json
+C:\Users\joris\source\repos\MethodAantalDelersList\MethodAantalDelersList\bin\Debug\net7.0\MethodAantalDelersList.dll
+C:\Users\joris\source\repos\MethodAantalDelersList\MethodAantalDelersList\bin\Debug\net7.0\MethodAantalDelersList.pdb
+C:\Users\joris\source\repos\MethodAantalDelersList\MethodAantalDelersList\obj\Debug\net7.0\MethodAantalDelersList.dll
+C:\Users\joris\source\repos\MethodAantalDelersList\MethodAantalDelersList\obj\Debug\net7.0\refint\MethodAantalDelersList.dll
+C:\Users\joris\source\repos\MethodAantalDelersList\MethodAantalDelersList\obj\Debug\net7.0\MethodAantalDelersList.pdb
+C:\Users\joris\source\repos\MethodAantalDelersList\MethodAantalDelersList\obj\Debug\net7.0\MethodAantalDelersList.genruntimeconfig.cache
+C:\Users\joris\source\repos\MethodAantalDelersList\MethodAantalDelersList\obj\Debug\net7.0\ref\MethodAantalDelersList.dll

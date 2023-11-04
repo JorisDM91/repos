@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D03cirkel\D03cirkel\bin\Debug\net7.0\D03cirkel.exe
+C:\Users\joris\source\repos\D03cirkel\D03cirkel\bin\Debug\net7.0\D03cirkel.deps.json
+C:\Users\joris\source\repos\D03cirkel\D03cirkel\bin\Debug\net7.0\D03cirkel.runtimeconfig.json
+C:\Users\joris\source\repos\D03cirkel\D03cirkel\bin\Debug\net7.0\D03cirkel.dll
+C:\Users\joris\source\repos\D03cirkel\D03cirkel\bin\Debug\net7.0\D03cirkel.pdb
+C:\Users\joris\source\repos\D03cirkel\D03cirkel\obj\Debug\net7.0\D03cirkel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D03cirkel\D03cirkel\obj\Debug\net7.0\D03cirkel.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D03cirkel\D03cirkel\obj\Debug\net7.0\D03cirkel.AssemblyInfo.cs
+C:\Users\joris\source\repos\D03cirkel\D03cirkel\obj\Debug\net7.0\D03cirkel.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D03cirkel\D03cirkel\obj\Debug\net7.0\D03cirkel.dll
+C:\Users\joris\source\repos\D03cirkel\D03cirkel\obj\Debug\net7.0\refint\D03cirkel.dll
+C:\Users\joris\source\repos\D03cirkel\D03cirkel\obj\Debug\net7.0\D03cirkel.pdb
+C:\Users\joris\source\repos\D03cirkel\D03cirkel\obj\Debug\net7.0\D03cirkel.genruntimeconfig.cache
+C:\Users\joris\source\repos\D03cirkel\D03cirkel\obj\Debug\net7.0\ref\D03cirkel.dll

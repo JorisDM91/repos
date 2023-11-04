@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D05twintigtotenmettien\D05twintigtotenmettien\bin\Debug\net7.0\D05twintigtotenmettien.exe
+C:\Users\joris\source\repos\D05twintigtotenmettien\D05twintigtotenmettien\bin\Debug\net7.0\D05twintigtotenmettien.deps.json
+C:\Users\joris\source\repos\D05twintigtotenmettien\D05twintigtotenmettien\bin\Debug\net7.0\D05twintigtotenmettien.runtimeconfig.json
+C:\Users\joris\source\repos\D05twintigtotenmettien\D05twintigtotenmettien\bin\Debug\net7.0\D05twintigtotenmettien.dll
+C:\Users\joris\source\repos\D05twintigtotenmettien\D05twintigtotenmettien\bin\Debug\net7.0\D05twintigtotenmettien.pdb
+C:\Users\joris\source\repos\D05twintigtotenmettien\D05twintigtotenmettien\obj\Debug\net7.0\D05twintigtotenmettien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D05twintigtotenmettien\D05twintigtotenmettien\obj\Debug\net7.0\D05twintigtotenmettien.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D05twintigtotenmettien\D05twintigtotenmettien\obj\Debug\net7.0\D05twintigtotenmettien.AssemblyInfo.cs
+C:\Users\joris\source\repos\D05twintigtotenmettien\D05twintigtotenmettien\obj\Debug\net7.0\D05twintigtotenmettien.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D05twintigtotenmettien\D05twintigtotenmettien\obj\Debug\net7.0\D05twintigtotenmettien.dll
+C:\Users\joris\source\repos\D05twintigtotenmettien\D05twintigtotenmettien\obj\Debug\net7.0\refint\D05twintigtotenmettien.dll
+C:\Users\joris\source\repos\D05twintigtotenmettien\D05twintigtotenmettien\obj\Debug\net7.0\D05twintigtotenmettien.pdb
+C:\Users\joris\source\repos\D05twintigtotenmettien\D05twintigtotenmettien\obj\Debug\net7.0\D05twintigtotenmettien.genruntimeconfig.cache
+C:\Users\joris\source\repos\D05twintigtotenmettien\D05twintigtotenmettien\obj\Debug\net7.0\ref\D05twintigtotenmettien.dll

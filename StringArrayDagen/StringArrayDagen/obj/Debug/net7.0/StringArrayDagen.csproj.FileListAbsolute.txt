@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\StringArrayDagen\StringArrayDagen\bin\Debug\net7.0\StringArrayDagen.exe
+C:\Users\joris\source\repos\StringArrayDagen\StringArrayDagen\bin\Debug\net7.0\StringArrayDagen.deps.json
+C:\Users\joris\source\repos\StringArrayDagen\StringArrayDagen\bin\Debug\net7.0\StringArrayDagen.runtimeconfig.json
+C:\Users\joris\source\repos\StringArrayDagen\StringArrayDagen\bin\Debug\net7.0\StringArrayDagen.dll
+C:\Users\joris\source\repos\StringArrayDagen\StringArrayDagen\bin\Debug\net7.0\StringArrayDagen.pdb
+C:\Users\joris\source\repos\StringArrayDagen\StringArrayDagen\obj\Debug\net7.0\StringArrayDagen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\StringArrayDagen\StringArrayDagen\obj\Debug\net7.0\StringArrayDagen.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\StringArrayDagen\StringArrayDagen\obj\Debug\net7.0\StringArrayDagen.AssemblyInfo.cs
+C:\Users\joris\source\repos\StringArrayDagen\StringArrayDagen\obj\Debug\net7.0\StringArrayDagen.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\StringArrayDagen\StringArrayDagen\obj\Debug\net7.0\StringArrayDagen.dll
+C:\Users\joris\source\repos\StringArrayDagen\StringArrayDagen\obj\Debug\net7.0\refint\StringArrayDagen.dll
+C:\Users\joris\source\repos\StringArrayDagen\StringArrayDagen\obj\Debug\net7.0\StringArrayDagen.pdb
+C:\Users\joris\source\repos\StringArrayDagen\StringArrayDagen\obj\Debug\net7.0\StringArrayDagen.genruntimeconfig.cache
+C:\Users\joris\source\repos\StringArrayDagen\StringArrayDagen\obj\Debug\net7.0\ref\StringArrayDagen.dll

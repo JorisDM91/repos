@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\PatroonDriehoek\PatroonDriehoek\bin\Debug\net7.0\PatroonDriehoek.exe
+C:\Users\joris\source\repos\PatroonDriehoek\PatroonDriehoek\bin\Debug\net7.0\PatroonDriehoek.deps.json
+C:\Users\joris\source\repos\PatroonDriehoek\PatroonDriehoek\bin\Debug\net7.0\PatroonDriehoek.runtimeconfig.json
+C:\Users\joris\source\repos\PatroonDriehoek\PatroonDriehoek\bin\Debug\net7.0\PatroonDriehoek.dll
+C:\Users\joris\source\repos\PatroonDriehoek\PatroonDriehoek\bin\Debug\net7.0\PatroonDriehoek.pdb
+C:\Users\joris\source\repos\PatroonDriehoek\PatroonDriehoek\obj\Debug\net7.0\PatroonDriehoek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\PatroonDriehoek\PatroonDriehoek\obj\Debug\net7.0\PatroonDriehoek.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\PatroonDriehoek\PatroonDriehoek\obj\Debug\net7.0\PatroonDriehoek.AssemblyInfo.cs
+C:\Users\joris\source\repos\PatroonDriehoek\PatroonDriehoek\obj\Debug\net7.0\PatroonDriehoek.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\PatroonDriehoek\PatroonDriehoek\obj\Debug\net7.0\PatroonDriehoek.dll
+C:\Users\joris\source\repos\PatroonDriehoek\PatroonDriehoek\obj\Debug\net7.0\refint\PatroonDriehoek.dll
+C:\Users\joris\source\repos\PatroonDriehoek\PatroonDriehoek\obj\Debug\net7.0\PatroonDriehoek.pdb
+C:\Users\joris\source\repos\PatroonDriehoek\PatroonDriehoek\obj\Debug\net7.0\PatroonDriehoek.genruntimeconfig.cache
+C:\Users\joris\source\repos\PatroonDriehoek\PatroonDriehoek\obj\Debug\net7.0\ref\PatroonDriehoek.dll

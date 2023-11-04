@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\HerhalingsstructuurDoWhile\HerhalingsstructuurDoWhile\bin\Debug\net7.0\HerhalingsstructuurDoWhile.exe
+C:\Users\joris\source\repos\HerhalingsstructuurDoWhile\HerhalingsstructuurDoWhile\bin\Debug\net7.0\HerhalingsstructuurDoWhile.deps.json
+C:\Users\joris\source\repos\HerhalingsstructuurDoWhile\HerhalingsstructuurDoWhile\bin\Debug\net7.0\HerhalingsstructuurDoWhile.runtimeconfig.json
+C:\Users\joris\source\repos\HerhalingsstructuurDoWhile\HerhalingsstructuurDoWhile\bin\Debug\net7.0\HerhalingsstructuurDoWhile.dll
+C:\Users\joris\source\repos\HerhalingsstructuurDoWhile\HerhalingsstructuurDoWhile\bin\Debug\net7.0\HerhalingsstructuurDoWhile.pdb
+C:\Users\joris\source\repos\HerhalingsstructuurDoWhile\HerhalingsstructuurDoWhile\obj\Debug\net7.0\HerhalingsstructuurDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\HerhalingsstructuurDoWhile\HerhalingsstructuurDoWhile\obj\Debug\net7.0\HerhalingsstructuurDoWhile.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\HerhalingsstructuurDoWhile\HerhalingsstructuurDoWhile\obj\Debug\net7.0\HerhalingsstructuurDoWhile.AssemblyInfo.cs
+C:\Users\joris\source\repos\HerhalingsstructuurDoWhile\HerhalingsstructuurDoWhile\obj\Debug\net7.0\HerhalingsstructuurDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\HerhalingsstructuurDoWhile\HerhalingsstructuurDoWhile\obj\Debug\net7.0\HerhalingsstructuurDoWhile.dll
+C:\Users\joris\source\repos\HerhalingsstructuurDoWhile\HerhalingsstructuurDoWhile\obj\Debug\net7.0\refint\HerhalingsstructuurDoWhile.dll
+C:\Users\joris\source\repos\HerhalingsstructuurDoWhile\HerhalingsstructuurDoWhile\obj\Debug\net7.0\HerhalingsstructuurDoWhile.pdb
+C:\Users\joris\source\repos\HerhalingsstructuurDoWhile\HerhalingsstructuurDoWhile\obj\Debug\net7.0\HerhalingsstructuurDoWhile.genruntimeconfig.cache
+C:\Users\joris\source\repos\HerhalingsstructuurDoWhile\HerhalingsstructuurDoWhile\obj\Debug\net7.0\ref\HerhalingsstructuurDoWhile.dll

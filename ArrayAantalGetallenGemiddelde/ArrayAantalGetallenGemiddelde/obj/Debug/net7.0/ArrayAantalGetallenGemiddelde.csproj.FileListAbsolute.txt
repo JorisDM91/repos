@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\ArrayAantalGetallenGemiddelde\ArrayAantalGetallenGemiddelde\obj\Debug\net7.0\ArrayAantalGetallenGemiddelde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\ArrayAantalGetallenGemiddelde\ArrayAantalGetallenGemiddelde\obj\Debug\net7.0\ArrayAantalGetallenGemiddelde.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\ArrayAantalGetallenGemiddelde\ArrayAantalGetallenGemiddelde\obj\Debug\net7.0\ArrayAantalGetallenGemiddelde.AssemblyInfo.cs
+C:\Users\joris\source\repos\ArrayAantalGetallenGemiddelde\ArrayAantalGetallenGemiddelde\obj\Debug\net7.0\ArrayAantalGetallenGemiddelde.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\ArrayAantalGetallenGemiddelde\ArrayAantalGetallenGemiddelde\bin\Debug\net7.0\ArrayAantalGetallenGemiddelde.exe
+C:\Users\joris\source\repos\ArrayAantalGetallenGemiddelde\ArrayAantalGetallenGemiddelde\bin\Debug\net7.0\ArrayAantalGetallenGemiddelde.deps.json
+C:\Users\joris\source\repos\ArrayAantalGetallenGemiddelde\ArrayAantalGetallenGemiddelde\bin\Debug\net7.0\ArrayAantalGetallenGemiddelde.runtimeconfig.json
+C:\Users\joris\source\repos\ArrayAantalGetallenGemiddelde\ArrayAantalGetallenGemiddelde\bin\Debug\net7.0\ArrayAantalGetallenGemiddelde.dll
+C:\Users\joris\source\repos\ArrayAantalGetallenGemiddelde\ArrayAantalGetallenGemiddelde\bin\Debug\net7.0\ArrayAantalGetallenGemiddelde.pdb
+C:\Users\joris\source\repos\ArrayAantalGetallenGemiddelde\ArrayAantalGetallenGemiddelde\obj\Debug\net7.0\ArrayAantalGetallenGemiddelde.dll
+C:\Users\joris\source\repos\ArrayAantalGetallenGemiddelde\ArrayAantalGetallenGemiddelde\obj\Debug\net7.0\refint\ArrayAantalGetallenGemiddelde.dll
+C:\Users\joris\source\repos\ArrayAantalGetallenGemiddelde\ArrayAantalGetallenGemiddelde\obj\Debug\net7.0\ArrayAantalGetallenGemiddelde.pdb
+C:\Users\joris\source\repos\ArrayAantalGetallenGemiddelde\ArrayAantalGetallenGemiddelde\obj\Debug\net7.0\ArrayAantalGetallenGemiddelde.genruntimeconfig.cache
+C:\Users\joris\source\repos\ArrayAantalGetallenGemiddelde\ArrayAantalGetallenGemiddelde\obj\Debug\net7.0\ref\ArrayAantalGetallenGemiddelde.dll

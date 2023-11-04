@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D5DriehoekFOR\D5DriehoekFOR\bin\Debug\net7.0\D5DriehoekFOR.exe
+C:\Users\joris\source\repos\D5DriehoekFOR\D5DriehoekFOR\bin\Debug\net7.0\D5DriehoekFOR.deps.json
+C:\Users\joris\source\repos\D5DriehoekFOR\D5DriehoekFOR\bin\Debug\net7.0\D5DriehoekFOR.runtimeconfig.json
+C:\Users\joris\source\repos\D5DriehoekFOR\D5DriehoekFOR\bin\Debug\net7.0\D5DriehoekFOR.dll
+C:\Users\joris\source\repos\D5DriehoekFOR\D5DriehoekFOR\bin\Debug\net7.0\D5DriehoekFOR.pdb
+C:\Users\joris\source\repos\D5DriehoekFOR\D5DriehoekFOR\obj\Debug\net7.0\D5DriehoekFOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D5DriehoekFOR\D5DriehoekFOR\obj\Debug\net7.0\D5DriehoekFOR.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D5DriehoekFOR\D5DriehoekFOR\obj\Debug\net7.0\D5DriehoekFOR.AssemblyInfo.cs
+C:\Users\joris\source\repos\D5DriehoekFOR\D5DriehoekFOR\obj\Debug\net7.0\D5DriehoekFOR.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D5DriehoekFOR\D5DriehoekFOR\obj\Debug\net7.0\D5DriehoekFOR.dll
+C:\Users\joris\source\repos\D5DriehoekFOR\D5DriehoekFOR\obj\Debug\net7.0\refint\D5DriehoekFOR.dll
+C:\Users\joris\source\repos\D5DriehoekFOR\D5DriehoekFOR\obj\Debug\net7.0\D5DriehoekFOR.pdb
+C:\Users\joris\source\repos\D5DriehoekFOR\D5DriehoekFOR\obj\Debug\net7.0\D5DriehoekFOR.genruntimeconfig.cache
+C:\Users\joris\source\repos\D5DriehoekFOR\D5DriehoekFOR\obj\Debug\net7.0\ref\D5DriehoekFOR.dll

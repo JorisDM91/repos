@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\ArrayPositieZoeken\ArrayPositieZoeken\bin\Debug\net7.0\ArrayPositieZoeken.exe
+C:\Users\joris\source\repos\ArrayPositieZoeken\ArrayPositieZoeken\bin\Debug\net7.0\ArrayPositieZoeken.deps.json
+C:\Users\joris\source\repos\ArrayPositieZoeken\ArrayPositieZoeken\bin\Debug\net7.0\ArrayPositieZoeken.runtimeconfig.json
+C:\Users\joris\source\repos\ArrayPositieZoeken\ArrayPositieZoeken\bin\Debug\net7.0\ArrayPositieZoeken.dll
+C:\Users\joris\source\repos\ArrayPositieZoeken\ArrayPositieZoeken\bin\Debug\net7.0\ArrayPositieZoeken.pdb
+C:\Users\joris\source\repos\ArrayPositieZoeken\ArrayPositieZoeken\obj\Debug\net7.0\ArrayPositieZoeken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\ArrayPositieZoeken\ArrayPositieZoeken\obj\Debug\net7.0\ArrayPositieZoeken.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\ArrayPositieZoeken\ArrayPositieZoeken\obj\Debug\net7.0\ArrayPositieZoeken.AssemblyInfo.cs
+C:\Users\joris\source\repos\ArrayPositieZoeken\ArrayPositieZoeken\obj\Debug\net7.0\ArrayPositieZoeken.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\ArrayPositieZoeken\ArrayPositieZoeken\obj\Debug\net7.0\ArrayPositieZoeken.dll
+C:\Users\joris\source\repos\ArrayPositieZoeken\ArrayPositieZoeken\obj\Debug\net7.0\refint\ArrayPositieZoeken.dll
+C:\Users\joris\source\repos\ArrayPositieZoeken\ArrayPositieZoeken\obj\Debug\net7.0\ArrayPositieZoeken.pdb
+C:\Users\joris\source\repos\ArrayPositieZoeken\ArrayPositieZoeken\obj\Debug\net7.0\ArrayPositieZoeken.genruntimeconfig.cache
+C:\Users\joris\source\repos\ArrayPositieZoeken\ArrayPositieZoeken\obj\Debug\net7.0\ref\ArrayPositieZoeken.dll

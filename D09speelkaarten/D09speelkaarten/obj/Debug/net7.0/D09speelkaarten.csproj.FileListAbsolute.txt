@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D09speelkaarten\D09speelkaarten\bin\Debug\net7.0\D09speelkaarten.exe
+C:\Users\joris\source\repos\D09speelkaarten\D09speelkaarten\bin\Debug\net7.0\D09speelkaarten.deps.json
+C:\Users\joris\source\repos\D09speelkaarten\D09speelkaarten\bin\Debug\net7.0\D09speelkaarten.runtimeconfig.json
+C:\Users\joris\source\repos\D09speelkaarten\D09speelkaarten\bin\Debug\net7.0\D09speelkaarten.dll
+C:\Users\joris\source\repos\D09speelkaarten\D09speelkaarten\bin\Debug\net7.0\D09speelkaarten.pdb
+C:\Users\joris\source\repos\D09speelkaarten\D09speelkaarten\obj\Debug\net7.0\D09speelkaarten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D09speelkaarten\D09speelkaarten\obj\Debug\net7.0\D09speelkaarten.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D09speelkaarten\D09speelkaarten\obj\Debug\net7.0\D09speelkaarten.AssemblyInfo.cs
+C:\Users\joris\source\repos\D09speelkaarten\D09speelkaarten\obj\Debug\net7.0\D09speelkaarten.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D09speelkaarten\D09speelkaarten\obj\Debug\net7.0\D09speelkaarten.dll
+C:\Users\joris\source\repos\D09speelkaarten\D09speelkaarten\obj\Debug\net7.0\refint\D09speelkaarten.dll
+C:\Users\joris\source\repos\D09speelkaarten\D09speelkaarten\obj\Debug\net7.0\D09speelkaarten.pdb
+C:\Users\joris\source\repos\D09speelkaarten\D09speelkaarten\obj\Debug\net7.0\D09speelkaarten.genruntimeconfig.cache
+C:\Users\joris\source\repos\D09speelkaarten\D09speelkaarten\obj\Debug\net7.0\ref\D09speelkaarten.dll

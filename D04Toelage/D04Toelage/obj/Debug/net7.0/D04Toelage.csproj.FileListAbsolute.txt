@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D04Toelage\D04Toelage\bin\Debug\net7.0\D04Toelage.exe
+C:\Users\joris\source\repos\D04Toelage\D04Toelage\bin\Debug\net7.0\D04Toelage.deps.json
+C:\Users\joris\source\repos\D04Toelage\D04Toelage\bin\Debug\net7.0\D04Toelage.runtimeconfig.json
+C:\Users\joris\source\repos\D04Toelage\D04Toelage\bin\Debug\net7.0\D04Toelage.dll
+C:\Users\joris\source\repos\D04Toelage\D04Toelage\bin\Debug\net7.0\D04Toelage.pdb
+C:\Users\joris\source\repos\D04Toelage\D04Toelage\obj\Debug\net7.0\D04Toelage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D04Toelage\D04Toelage\obj\Debug\net7.0\D04Toelage.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D04Toelage\D04Toelage\obj\Debug\net7.0\D04Toelage.AssemblyInfo.cs
+C:\Users\joris\source\repos\D04Toelage\D04Toelage\obj\Debug\net7.0\D04Toelage.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D04Toelage\D04Toelage\obj\Debug\net7.0\D04Toelage.dll
+C:\Users\joris\source\repos\D04Toelage\D04Toelage\obj\Debug\net7.0\refint\D04Toelage.dll
+C:\Users\joris\source\repos\D04Toelage\D04Toelage\obj\Debug\net7.0\D04Toelage.pdb
+C:\Users\joris\source\repos\D04Toelage\D04Toelage\obj\Debug\net7.0\D04Toelage.genruntimeconfig.cache
+C:\Users\joris\source\repos\D04Toelage\D04Toelage\obj\Debug\net7.0\ref\D04Toelage.dll

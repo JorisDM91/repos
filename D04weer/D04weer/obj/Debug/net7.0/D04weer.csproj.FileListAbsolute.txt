@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D04weer\D04weer\bin\Debug\net7.0\D04weer.exe
+C:\Users\joris\source\repos\D04weer\D04weer\bin\Debug\net7.0\D04weer.deps.json
+C:\Users\joris\source\repos\D04weer\D04weer\bin\Debug\net7.0\D04weer.runtimeconfig.json
+C:\Users\joris\source\repos\D04weer\D04weer\bin\Debug\net7.0\D04weer.dll
+C:\Users\joris\source\repos\D04weer\D04weer\bin\Debug\net7.0\D04weer.pdb
+C:\Users\joris\source\repos\D04weer\D04weer\obj\Debug\net7.0\D04weer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D04weer\D04weer\obj\Debug\net7.0\D04weer.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D04weer\D04weer\obj\Debug\net7.0\D04weer.AssemblyInfo.cs
+C:\Users\joris\source\repos\D04weer\D04weer\obj\Debug\net7.0\D04weer.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D04weer\D04weer\obj\Debug\net7.0\D04weer.dll
+C:\Users\joris\source\repos\D04weer\D04weer\obj\Debug\net7.0\refint\D04weer.dll
+C:\Users\joris\source\repos\D04weer\D04weer\obj\Debug\net7.0\D04weer.pdb
+C:\Users\joris\source\repos\D04weer\D04weer\obj\Debug\net7.0\D04weer.genruntimeconfig.cache
+C:\Users\joris\source\repos\D04weer\D04weer\obj\Debug\net7.0\ref\D04weer.dll

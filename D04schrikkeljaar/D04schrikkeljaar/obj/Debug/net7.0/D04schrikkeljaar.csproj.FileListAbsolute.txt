@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D04schrikkeljaar\D04schrikkeljaar\bin\Debug\net7.0\D04schrikkeljaar.exe
+C:\Users\joris\source\repos\D04schrikkeljaar\D04schrikkeljaar\bin\Debug\net7.0\D04schrikkeljaar.deps.json
+C:\Users\joris\source\repos\D04schrikkeljaar\D04schrikkeljaar\bin\Debug\net7.0\D04schrikkeljaar.runtimeconfig.json
+C:\Users\joris\source\repos\D04schrikkeljaar\D04schrikkeljaar\bin\Debug\net7.0\D04schrikkeljaar.dll
+C:\Users\joris\source\repos\D04schrikkeljaar\D04schrikkeljaar\bin\Debug\net7.0\D04schrikkeljaar.pdb
+C:\Users\joris\source\repos\D04schrikkeljaar\D04schrikkeljaar\obj\Debug\net7.0\D04schrikkeljaar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D04schrikkeljaar\D04schrikkeljaar\obj\Debug\net7.0\D04schrikkeljaar.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D04schrikkeljaar\D04schrikkeljaar\obj\Debug\net7.0\D04schrikkeljaar.AssemblyInfo.cs
+C:\Users\joris\source\repos\D04schrikkeljaar\D04schrikkeljaar\obj\Debug\net7.0\D04schrikkeljaar.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D04schrikkeljaar\D04schrikkeljaar\obj\Debug\net7.0\D04schrikkeljaar.dll
+C:\Users\joris\source\repos\D04schrikkeljaar\D04schrikkeljaar\obj\Debug\net7.0\refint\D04schrikkeljaar.dll
+C:\Users\joris\source\repos\D04schrikkeljaar\D04schrikkeljaar\obj\Debug\net7.0\D04schrikkeljaar.pdb
+C:\Users\joris\source\repos\D04schrikkeljaar\D04schrikkeljaar\obj\Debug\net7.0\D04schrikkeljaar.genruntimeconfig.cache
+C:\Users\joris\source\repos\D04schrikkeljaar\D04schrikkeljaar\obj\Debug\net7.0\ref\D04schrikkeljaar.dll

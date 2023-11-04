@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D09maximumtemperatuur\D09maximumtemperatuur\bin\Debug\net7.0\D09maximumtemperatuur.exe
+C:\Users\joris\source\repos\D09maximumtemperatuur\D09maximumtemperatuur\bin\Debug\net7.0\D09maximumtemperatuur.deps.json
+C:\Users\joris\source\repos\D09maximumtemperatuur\D09maximumtemperatuur\bin\Debug\net7.0\D09maximumtemperatuur.runtimeconfig.json
+C:\Users\joris\source\repos\D09maximumtemperatuur\D09maximumtemperatuur\bin\Debug\net7.0\D09maximumtemperatuur.dll
+C:\Users\joris\source\repos\D09maximumtemperatuur\D09maximumtemperatuur\bin\Debug\net7.0\D09maximumtemperatuur.pdb
+C:\Users\joris\source\repos\D09maximumtemperatuur\D09maximumtemperatuur\obj\Debug\net7.0\D09maximumtemperatuur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D09maximumtemperatuur\D09maximumtemperatuur\obj\Debug\net7.0\D09maximumtemperatuur.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D09maximumtemperatuur\D09maximumtemperatuur\obj\Debug\net7.0\D09maximumtemperatuur.AssemblyInfo.cs
+C:\Users\joris\source\repos\D09maximumtemperatuur\D09maximumtemperatuur\obj\Debug\net7.0\D09maximumtemperatuur.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D09maximumtemperatuur\D09maximumtemperatuur\obj\Debug\net7.0\D09maximumtemperatuur.dll
+C:\Users\joris\source\repos\D09maximumtemperatuur\D09maximumtemperatuur\obj\Debug\net7.0\refint\D09maximumtemperatuur.dll
+C:\Users\joris\source\repos\D09maximumtemperatuur\D09maximumtemperatuur\obj\Debug\net7.0\D09maximumtemperatuur.pdb
+C:\Users\joris\source\repos\D09maximumtemperatuur\D09maximumtemperatuur\obj\Debug\net7.0\D09maximumtemperatuur.genruntimeconfig.cache
+C:\Users\joris\source\repos\D09maximumtemperatuur\D09maximumtemperatuur\obj\Debug\net7.0\ref\D09maximumtemperatuur.dll

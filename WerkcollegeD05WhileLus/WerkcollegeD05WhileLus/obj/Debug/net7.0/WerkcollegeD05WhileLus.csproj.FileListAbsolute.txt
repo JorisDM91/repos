@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\WerkcollegeD05WhileLus\WerkcollegeD05WhileLus\bin\Debug\net7.0\WerkcollegeD05WhileLus.exe
+C:\Users\joris\source\repos\WerkcollegeD05WhileLus\WerkcollegeD05WhileLus\bin\Debug\net7.0\WerkcollegeD05WhileLus.deps.json
+C:\Users\joris\source\repos\WerkcollegeD05WhileLus\WerkcollegeD05WhileLus\bin\Debug\net7.0\WerkcollegeD05WhileLus.runtimeconfig.json
+C:\Users\joris\source\repos\WerkcollegeD05WhileLus\WerkcollegeD05WhileLus\bin\Debug\net7.0\WerkcollegeD05WhileLus.dll
+C:\Users\joris\source\repos\WerkcollegeD05WhileLus\WerkcollegeD05WhileLus\bin\Debug\net7.0\WerkcollegeD05WhileLus.pdb
+C:\Users\joris\source\repos\WerkcollegeD05WhileLus\WerkcollegeD05WhileLus\obj\Debug\net7.0\WerkcollegeD05WhileLus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\WerkcollegeD05WhileLus\WerkcollegeD05WhileLus\obj\Debug\net7.0\WerkcollegeD05WhileLus.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\WerkcollegeD05WhileLus\WerkcollegeD05WhileLus\obj\Debug\net7.0\WerkcollegeD05WhileLus.AssemblyInfo.cs
+C:\Users\joris\source\repos\WerkcollegeD05WhileLus\WerkcollegeD05WhileLus\obj\Debug\net7.0\WerkcollegeD05WhileLus.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\WerkcollegeD05WhileLus\WerkcollegeD05WhileLus\obj\Debug\net7.0\WerkcollegeD05WhileLus.dll
+C:\Users\joris\source\repos\WerkcollegeD05WhileLus\WerkcollegeD05WhileLus\obj\Debug\net7.0\refint\WerkcollegeD05WhileLus.dll
+C:\Users\joris\source\repos\WerkcollegeD05WhileLus\WerkcollegeD05WhileLus\obj\Debug\net7.0\WerkcollegeD05WhileLus.pdb
+C:\Users\joris\source\repos\WerkcollegeD05WhileLus\WerkcollegeD05WhileLus\obj\Debug\net7.0\WerkcollegeD05WhileLus.genruntimeconfig.cache
+C:\Users\joris\source\repos\WerkcollegeD05WhileLus\WerkcollegeD05WhileLus\obj\Debug\net7.0\ref\WerkcollegeD05WhileLus.dll

@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D08rijen\D08rijen\bin\Debug\net7.0\D08rijen.exe
+C:\Users\joris\source\repos\D08rijen\D08rijen\bin\Debug\net7.0\D08rijen.deps.json
+C:\Users\joris\source\repos\D08rijen\D08rijen\bin\Debug\net7.0\D08rijen.runtimeconfig.json
+C:\Users\joris\source\repos\D08rijen\D08rijen\bin\Debug\net7.0\D08rijen.dll
+C:\Users\joris\source\repos\D08rijen\D08rijen\bin\Debug\net7.0\D08rijen.pdb
+C:\Users\joris\source\repos\D08rijen\D08rijen\obj\Debug\net7.0\D08rijen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D08rijen\D08rijen\obj\Debug\net7.0\D08rijen.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D08rijen\D08rijen\obj\Debug\net7.0\D08rijen.AssemblyInfo.cs
+C:\Users\joris\source\repos\D08rijen\D08rijen\obj\Debug\net7.0\D08rijen.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D08rijen\D08rijen\obj\Debug\net7.0\D08rijen.dll
+C:\Users\joris\source\repos\D08rijen\D08rijen\obj\Debug\net7.0\refint\D08rijen.dll
+C:\Users\joris\source\repos\D08rijen\D08rijen\obj\Debug\net7.0\D08rijen.pdb
+C:\Users\joris\source\repos\D08rijen\D08rijen\obj\Debug\net7.0\D08rijen.genruntimeconfig.cache
+C:\Users\joris\source\repos\D08rijen\D08rijen\obj\Debug\net7.0\ref\D08rijen.dll

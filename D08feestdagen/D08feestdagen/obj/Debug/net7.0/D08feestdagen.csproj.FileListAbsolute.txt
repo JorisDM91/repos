@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D08feestdagen\D08feestdagen\bin\Debug\net7.0\D08feestdagen.exe
+C:\Users\joris\source\repos\D08feestdagen\D08feestdagen\bin\Debug\net7.0\D08feestdagen.deps.json
+C:\Users\joris\source\repos\D08feestdagen\D08feestdagen\bin\Debug\net7.0\D08feestdagen.runtimeconfig.json
+C:\Users\joris\source\repos\D08feestdagen\D08feestdagen\bin\Debug\net7.0\D08feestdagen.dll
+C:\Users\joris\source\repos\D08feestdagen\D08feestdagen\bin\Debug\net7.0\D08feestdagen.pdb
+C:\Users\joris\source\repos\D08feestdagen\D08feestdagen\obj\Debug\net7.0\D08feestdagen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D08feestdagen\D08feestdagen\obj\Debug\net7.0\D08feestdagen.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D08feestdagen\D08feestdagen\obj\Debug\net7.0\D08feestdagen.AssemblyInfo.cs
+C:\Users\joris\source\repos\D08feestdagen\D08feestdagen\obj\Debug\net7.0\D08feestdagen.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D08feestdagen\D08feestdagen\obj\Debug\net7.0\D08feestdagen.dll
+C:\Users\joris\source\repos\D08feestdagen\D08feestdagen\obj\Debug\net7.0\refint\D08feestdagen.dll
+C:\Users\joris\source\repos\D08feestdagen\D08feestdagen\obj\Debug\net7.0\D08feestdagen.pdb
+C:\Users\joris\source\repos\D08feestdagen\D08feestdagen\obj\Debug\net7.0\D08feestdagen.genruntimeconfig.cache
+C:\Users\joris\source\repos\D08feestdagen\D08feestdagen\obj\Debug\net7.0\ref\D08feestdagen.dll

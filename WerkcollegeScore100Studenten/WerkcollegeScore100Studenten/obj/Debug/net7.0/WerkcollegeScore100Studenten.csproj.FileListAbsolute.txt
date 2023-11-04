@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\WerkcollegeScore100Studenten\WerkcollegeScore100Studenten\bin\Debug\net7.0\WerkcollegeScore100Studenten.exe
+C:\Users\joris\source\repos\WerkcollegeScore100Studenten\WerkcollegeScore100Studenten\bin\Debug\net7.0\WerkcollegeScore100Studenten.deps.json
+C:\Users\joris\source\repos\WerkcollegeScore100Studenten\WerkcollegeScore100Studenten\bin\Debug\net7.0\WerkcollegeScore100Studenten.runtimeconfig.json
+C:\Users\joris\source\repos\WerkcollegeScore100Studenten\WerkcollegeScore100Studenten\bin\Debug\net7.0\WerkcollegeScore100Studenten.dll
+C:\Users\joris\source\repos\WerkcollegeScore100Studenten\WerkcollegeScore100Studenten\bin\Debug\net7.0\WerkcollegeScore100Studenten.pdb
+C:\Users\joris\source\repos\WerkcollegeScore100Studenten\WerkcollegeScore100Studenten\obj\Debug\net7.0\WerkcollegeScore100Studenten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\WerkcollegeScore100Studenten\WerkcollegeScore100Studenten\obj\Debug\net7.0\WerkcollegeScore100Studenten.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\WerkcollegeScore100Studenten\WerkcollegeScore100Studenten\obj\Debug\net7.0\WerkcollegeScore100Studenten.AssemblyInfo.cs
+C:\Users\joris\source\repos\WerkcollegeScore100Studenten\WerkcollegeScore100Studenten\obj\Debug\net7.0\WerkcollegeScore100Studenten.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\WerkcollegeScore100Studenten\WerkcollegeScore100Studenten\obj\Debug\net7.0\WerkcollegeScore100Studenten.dll
+C:\Users\joris\source\repos\WerkcollegeScore100Studenten\WerkcollegeScore100Studenten\obj\Debug\net7.0\refint\WerkcollegeScore100Studenten.dll
+C:\Users\joris\source\repos\WerkcollegeScore100Studenten\WerkcollegeScore100Studenten\obj\Debug\net7.0\WerkcollegeScore100Studenten.pdb
+C:\Users\joris\source\repos\WerkcollegeScore100Studenten\WerkcollegeScore100Studenten\obj\Debug\net7.0\WerkcollegeScore100Studenten.genruntimeconfig.cache
+C:\Users\joris\source\repos\WerkcollegeScore100Studenten\WerkcollegeScore100Studenten\obj\Debug\net7.0\ref\WerkcollegeScore100Studenten.dll

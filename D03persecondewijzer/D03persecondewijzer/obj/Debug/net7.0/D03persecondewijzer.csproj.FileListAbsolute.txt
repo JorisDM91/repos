@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D03persecondewijzer\D03persecondewijzer\bin\Debug\net7.0\D03persecondewijzer.exe
+C:\Users\joris\source\repos\D03persecondewijzer\D03persecondewijzer\bin\Debug\net7.0\D03persecondewijzer.deps.json
+C:\Users\joris\source\repos\D03persecondewijzer\D03persecondewijzer\bin\Debug\net7.0\D03persecondewijzer.runtimeconfig.json
+C:\Users\joris\source\repos\D03persecondewijzer\D03persecondewijzer\bin\Debug\net7.0\D03persecondewijzer.dll
+C:\Users\joris\source\repos\D03persecondewijzer\D03persecondewijzer\bin\Debug\net7.0\D03persecondewijzer.pdb
+C:\Users\joris\source\repos\D03persecondewijzer\D03persecondewijzer\obj\Debug\net7.0\D03persecondewijzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D03persecondewijzer\D03persecondewijzer\obj\Debug\net7.0\D03persecondewijzer.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D03persecondewijzer\D03persecondewijzer\obj\Debug\net7.0\D03persecondewijzer.AssemblyInfo.cs
+C:\Users\joris\source\repos\D03persecondewijzer\D03persecondewijzer\obj\Debug\net7.0\D03persecondewijzer.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D03persecondewijzer\D03persecondewijzer\obj\Debug\net7.0\D03persecondewijzer.dll
+C:\Users\joris\source\repos\D03persecondewijzer\D03persecondewijzer\obj\Debug\net7.0\refint\D03persecondewijzer.dll
+C:\Users\joris\source\repos\D03persecondewijzer\D03persecondewijzer\obj\Debug\net7.0\D03persecondewijzer.pdb
+C:\Users\joris\source\repos\D03persecondewijzer\D03persecondewijzer\obj\Debug\net7.0\D03persecondewijzer.genruntimeconfig.cache
+C:\Users\joris\source\repos\D03persecondewijzer\D03persecondewijzer\obj\Debug\net7.0\ref\D03persecondewijzer.dll

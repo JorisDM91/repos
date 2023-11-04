@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\WerkcollegeD5D6oef14Patroon\WerkcollegeD5D6oef14Patroon\bin\Debug\net7.0\WerkcollegeD5D6oef14PatroonSterretjesDriehoek.exe
+C:\Users\joris\source\repos\WerkcollegeD5D6oef14Patroon\WerkcollegeD5D6oef14Patroon\bin\Debug\net7.0\WerkcollegeD5D6oef14PatroonSterretjesDriehoek.deps.json
+C:\Users\joris\source\repos\WerkcollegeD5D6oef14Patroon\WerkcollegeD5D6oef14Patroon\bin\Debug\net7.0\WerkcollegeD5D6oef14PatroonSterretjesDriehoek.runtimeconfig.json
+C:\Users\joris\source\repos\WerkcollegeD5D6oef14Patroon\WerkcollegeD5D6oef14Patroon\bin\Debug\net7.0\WerkcollegeD5D6oef14PatroonSterretjesDriehoek.dll
+C:\Users\joris\source\repos\WerkcollegeD5D6oef14Patroon\WerkcollegeD5D6oef14Patroon\bin\Debug\net7.0\WerkcollegeD5D6oef14PatroonSterretjesDriehoek.pdb
+C:\Users\joris\source\repos\WerkcollegeD5D6oef14Patroon\WerkcollegeD5D6oef14Patroon\obj\Debug\net7.0\WerkcollegeD5D6oef14PatroonSterretjesDriehoek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\WerkcollegeD5D6oef14Patroon\WerkcollegeD5D6oef14Patroon\obj\Debug\net7.0\WerkcollegeD5D6oef14PatroonSterretjesDriehoek.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\WerkcollegeD5D6oef14Patroon\WerkcollegeD5D6oef14Patroon\obj\Debug\net7.0\WerkcollegeD5D6oef14PatroonSterretjesDriehoek.AssemblyInfo.cs
+C:\Users\joris\source\repos\WerkcollegeD5D6oef14Patroon\WerkcollegeD5D6oef14Patroon\obj\Debug\net7.0\WerkcollegeD5D6oef14PatroonSterretjesDriehoek.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\WerkcollegeD5D6oef14Patroon\WerkcollegeD5D6oef14Patroon\obj\Debug\net7.0\WerkcollegeD5D6oef14PatroonSterretjesDriehoek.dll
+C:\Users\joris\source\repos\WerkcollegeD5D6oef14Patroon\WerkcollegeD5D6oef14Patroon\obj\Debug\net7.0\refint\WerkcollegeD5D6oef14PatroonSterretjesDriehoek.dll
+C:\Users\joris\source\repos\WerkcollegeD5D6oef14Patroon\WerkcollegeD5D6oef14Patroon\obj\Debug\net7.0\WerkcollegeD5D6oef14PatroonSterretjesDriehoek.pdb
+C:\Users\joris\source\repos\WerkcollegeD5D6oef14Patroon\WerkcollegeD5D6oef14Patroon\obj\Debug\net7.0\WerkcollegeD5D6oef14PatroonSterretjesDriehoek.genruntimeconfig.cache
+C:\Users\joris\source\repos\WerkcollegeD5D6oef14Patroon\WerkcollegeD5D6oef14Patroon\obj\Debug\net7.0\ref\WerkcollegeD5D6oef14PatroonSterretjesDriehoek.dll

@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D09scrabble\D09scrabble\bin\Debug\net7.0\D09scrabble.exe
+C:\Users\joris\source\repos\D09scrabble\D09scrabble\bin\Debug\net7.0\D09scrabble.deps.json
+C:\Users\joris\source\repos\D09scrabble\D09scrabble\bin\Debug\net7.0\D09scrabble.runtimeconfig.json
+C:\Users\joris\source\repos\D09scrabble\D09scrabble\bin\Debug\net7.0\D09scrabble.dll
+C:\Users\joris\source\repos\D09scrabble\D09scrabble\bin\Debug\net7.0\D09scrabble.pdb
+C:\Users\joris\source\repos\D09scrabble\D09scrabble\obj\Debug\net7.0\D09scrabble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D09scrabble\D09scrabble\obj\Debug\net7.0\D09scrabble.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D09scrabble\D09scrabble\obj\Debug\net7.0\D09scrabble.AssemblyInfo.cs
+C:\Users\joris\source\repos\D09scrabble\D09scrabble\obj\Debug\net7.0\D09scrabble.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D09scrabble\D09scrabble\obj\Debug\net7.0\D09scrabble.dll
+C:\Users\joris\source\repos\D09scrabble\D09scrabble\obj\Debug\net7.0\refint\D09scrabble.dll
+C:\Users\joris\source\repos\D09scrabble\D09scrabble\obj\Debug\net7.0\D09scrabble.pdb
+C:\Users\joris\source\repos\D09scrabble\D09scrabble\obj\Debug\net7.0\D09scrabble.genruntimeconfig.cache
+C:\Users\joris\source\repos\D09scrabble\D09scrabble\obj\Debug\net7.0\ref\D09scrabble.dll

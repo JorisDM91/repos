@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D04groterofgelijk\D04groterofgelijk\bin\Debug\net7.0\D04groterofgelijk.exe
+C:\Users\joris\source\repos\D04groterofgelijk\D04groterofgelijk\bin\Debug\net7.0\D04groterofgelijk.deps.json
+C:\Users\joris\source\repos\D04groterofgelijk\D04groterofgelijk\bin\Debug\net7.0\D04groterofgelijk.runtimeconfig.json
+C:\Users\joris\source\repos\D04groterofgelijk\D04groterofgelijk\bin\Debug\net7.0\D04groterofgelijk.dll
+C:\Users\joris\source\repos\D04groterofgelijk\D04groterofgelijk\bin\Debug\net7.0\D04groterofgelijk.pdb
+C:\Users\joris\source\repos\D04groterofgelijk\D04groterofgelijk\obj\Debug\net7.0\D04groterofgelijk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D04groterofgelijk\D04groterofgelijk\obj\Debug\net7.0\D04groterofgelijk.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D04groterofgelijk\D04groterofgelijk\obj\Debug\net7.0\D04groterofgelijk.AssemblyInfo.cs
+C:\Users\joris\source\repos\D04groterofgelijk\D04groterofgelijk\obj\Debug\net7.0\D04groterofgelijk.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D04groterofgelijk\D04groterofgelijk\obj\Debug\net7.0\D04groterofgelijk.dll
+C:\Users\joris\source\repos\D04groterofgelijk\D04groterofgelijk\obj\Debug\net7.0\refint\D04groterofgelijk.dll
+C:\Users\joris\source\repos\D04groterofgelijk\D04groterofgelijk\obj\Debug\net7.0\D04groterofgelijk.pdb
+C:\Users\joris\source\repos\D04groterofgelijk\D04groterofgelijk\obj\Debug\net7.0\D04groterofgelijk.genruntimeconfig.cache
+C:\Users\joris\source\repos\D04groterofgelijk\D04groterofgelijk\obj\Debug\net7.0\ref\D04groterofgelijk.dll

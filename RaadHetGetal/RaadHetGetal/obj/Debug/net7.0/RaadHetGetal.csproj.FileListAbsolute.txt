@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\RaadHetGetal\RaadHetGetal\bin\Debug\net7.0\RaadHetGetal.exe
+C:\Users\joris\source\repos\RaadHetGetal\RaadHetGetal\bin\Debug\net7.0\RaadHetGetal.deps.json
+C:\Users\joris\source\repos\RaadHetGetal\RaadHetGetal\bin\Debug\net7.0\RaadHetGetal.runtimeconfig.json
+C:\Users\joris\source\repos\RaadHetGetal\RaadHetGetal\bin\Debug\net7.0\RaadHetGetal.dll
+C:\Users\joris\source\repos\RaadHetGetal\RaadHetGetal\bin\Debug\net7.0\RaadHetGetal.pdb
+C:\Users\joris\source\repos\RaadHetGetal\RaadHetGetal\obj\Debug\net7.0\RaadHetGetal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\RaadHetGetal\RaadHetGetal\obj\Debug\net7.0\RaadHetGetal.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\RaadHetGetal\RaadHetGetal\obj\Debug\net7.0\RaadHetGetal.AssemblyInfo.cs
+C:\Users\joris\source\repos\RaadHetGetal\RaadHetGetal\obj\Debug\net7.0\RaadHetGetal.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\RaadHetGetal\RaadHetGetal\obj\Debug\net7.0\RaadHetGetal.dll
+C:\Users\joris\source\repos\RaadHetGetal\RaadHetGetal\obj\Debug\net7.0\refint\RaadHetGetal.dll
+C:\Users\joris\source\repos\RaadHetGetal\RaadHetGetal\obj\Debug\net7.0\RaadHetGetal.pdb
+C:\Users\joris\source\repos\RaadHetGetal\RaadHetGetal\obj\Debug\net7.0\RaadHetGetal.genruntimeconfig.cache
+C:\Users\joris\source\repos\RaadHetGetal\RaadHetGetal\obj\Debug\net7.0\ref\RaadHetGetal.dll

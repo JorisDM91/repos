@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\Werkcollege D05 vraag b\Werkcollege D05 vraag b\bin\Debug\net7.0\Werkcollege D05 vraag b.exe
+C:\Users\joris\source\repos\Werkcollege D05 vraag b\Werkcollege D05 vraag b\bin\Debug\net7.0\Werkcollege D05 vraag b.deps.json
+C:\Users\joris\source\repos\Werkcollege D05 vraag b\Werkcollege D05 vraag b\bin\Debug\net7.0\Werkcollege D05 vraag b.runtimeconfig.json
+C:\Users\joris\source\repos\Werkcollege D05 vraag b\Werkcollege D05 vraag b\bin\Debug\net7.0\Werkcollege D05 vraag b.dll
+C:\Users\joris\source\repos\Werkcollege D05 vraag b\Werkcollege D05 vraag b\bin\Debug\net7.0\Werkcollege D05 vraag b.pdb
+C:\Users\joris\source\repos\Werkcollege D05 vraag b\Werkcollege D05 vraag b\obj\Debug\net7.0\Werkcollege D05 vraag b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\Werkcollege D05 vraag b\Werkcollege D05 vraag b\obj\Debug\net7.0\Werkcollege D05 vraag b.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\Werkcollege D05 vraag b\Werkcollege D05 vraag b\obj\Debug\net7.0\Werkcollege D05 vraag b.AssemblyInfo.cs
+C:\Users\joris\source\repos\Werkcollege D05 vraag b\Werkcollege D05 vraag b\obj\Debug\net7.0\Werkcollege D05 vraag b.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\Werkcollege D05 vraag b\Werkcollege D05 vraag b\obj\Debug\net7.0\Werkcollege D05 vraag b.dll
+C:\Users\joris\source\repos\Werkcollege D05 vraag b\Werkcollege D05 vraag b\obj\Debug\net7.0\refint\Werkcollege D05 vraag b.dll
+C:\Users\joris\source\repos\Werkcollege D05 vraag b\Werkcollege D05 vraag b\obj\Debug\net7.0\Werkcollege D05 vraag b.pdb
+C:\Users\joris\source\repos\Werkcollege D05 vraag b\Werkcollege D05 vraag b\obj\Debug\net7.0\Werkcollege D05 vraag b.genruntimeconfig.cache
+C:\Users\joris\source\repos\Werkcollege D05 vraag b\Werkcollege D05 vraag b\obj\Debug\net7.0\ref\Werkcollege D05 vraag b.dll

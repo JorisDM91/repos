@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D08arrayopvullen\D08arrayopvullen\bin\Debug\net7.0\D08arrayopvullen.exe
+C:\Users\joris\source\repos\D08arrayopvullen\D08arrayopvullen\bin\Debug\net7.0\D08arrayopvullen.deps.json
+C:\Users\joris\source\repos\D08arrayopvullen\D08arrayopvullen\bin\Debug\net7.0\D08arrayopvullen.runtimeconfig.json
+C:\Users\joris\source\repos\D08arrayopvullen\D08arrayopvullen\bin\Debug\net7.0\D08arrayopvullen.dll
+C:\Users\joris\source\repos\D08arrayopvullen\D08arrayopvullen\bin\Debug\net7.0\D08arrayopvullen.pdb
+C:\Users\joris\source\repos\D08arrayopvullen\D08arrayopvullen\obj\Debug\net7.0\D08arrayopvullen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D08arrayopvullen\D08arrayopvullen\obj\Debug\net7.0\D08arrayopvullen.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D08arrayopvullen\D08arrayopvullen\obj\Debug\net7.0\D08arrayopvullen.AssemblyInfo.cs
+C:\Users\joris\source\repos\D08arrayopvullen\D08arrayopvullen\obj\Debug\net7.0\D08arrayopvullen.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D08arrayopvullen\D08arrayopvullen\obj\Debug\net7.0\D08arrayopvullen.dll
+C:\Users\joris\source\repos\D08arrayopvullen\D08arrayopvullen\obj\Debug\net7.0\refint\D08arrayopvullen.dll
+C:\Users\joris\source\repos\D08arrayopvullen\D08arrayopvullen\obj\Debug\net7.0\D08arrayopvullen.pdb
+C:\Users\joris\source\repos\D08arrayopvullen\D08arrayopvullen\obj\Debug\net7.0\D08arrayopvullen.genruntimeconfig.cache
+C:\Users\joris\source\repos\D08arrayopvullen\D08arrayopvullen\obj\Debug\net7.0\ref\D08arrayopvullen.dll

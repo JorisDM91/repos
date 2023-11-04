@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D08positiezoeken\D08positiezoeken\bin\Debug\net7.0\D08positiezoeken.exe
+C:\Users\joris\source\repos\D08positiezoeken\D08positiezoeken\bin\Debug\net7.0\D08positiezoeken.deps.json
+C:\Users\joris\source\repos\D08positiezoeken\D08positiezoeken\bin\Debug\net7.0\D08positiezoeken.runtimeconfig.json
+C:\Users\joris\source\repos\D08positiezoeken\D08positiezoeken\bin\Debug\net7.0\D08positiezoeken.dll
+C:\Users\joris\source\repos\D08positiezoeken\D08positiezoeken\bin\Debug\net7.0\D08positiezoeken.pdb
+C:\Users\joris\source\repos\D08positiezoeken\D08positiezoeken\obj\Debug\net7.0\D08positiezoeken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D08positiezoeken\D08positiezoeken\obj\Debug\net7.0\D08positiezoeken.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D08positiezoeken\D08positiezoeken\obj\Debug\net7.0\D08positiezoeken.AssemblyInfo.cs
+C:\Users\joris\source\repos\D08positiezoeken\D08positiezoeken\obj\Debug\net7.0\D08positiezoeken.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D08positiezoeken\D08positiezoeken\obj\Debug\net7.0\D08positiezoeken.dll
+C:\Users\joris\source\repos\D08positiezoeken\D08positiezoeken\obj\Debug\net7.0\refint\D08positiezoeken.dll
+C:\Users\joris\source\repos\D08positiezoeken\D08positiezoeken\obj\Debug\net7.0\D08positiezoeken.pdb
+C:\Users\joris\source\repos\D08positiezoeken\D08positiezoeken\obj\Debug\net7.0\D08positiezoeken.genruntimeconfig.cache
+C:\Users\joris\source\repos\D08positiezoeken\D08positiezoeken\obj\Debug\net7.0\ref\D08positiezoeken.dll

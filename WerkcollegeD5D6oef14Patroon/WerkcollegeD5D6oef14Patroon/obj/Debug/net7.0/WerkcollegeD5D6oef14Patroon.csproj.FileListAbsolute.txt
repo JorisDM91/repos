@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\WerkcollegeD5D6oef14Patroon\WerkcollegeD5D6oef14Patroon\obj\Debug\net7.0\WerkcollegeD5D6oef14Patroon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\WerkcollegeD5D6oef14Patroon\WerkcollegeD5D6oef14Patroon\obj\Debug\net7.0\WerkcollegeD5D6oef14Patroon.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\WerkcollegeD5D6oef14Patroon\WerkcollegeD5D6oef14Patroon\obj\Debug\net7.0\WerkcollegeD5D6oef14Patroon.AssemblyInfo.cs
+C:\Users\joris\source\repos\WerkcollegeD5D6oef14Patroon\WerkcollegeD5D6oef14Patroon\obj\Debug\net7.0\WerkcollegeD5D6oef14Patroon.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\WerkcollegeD5D6oef14Patroon\WerkcollegeD5D6oef14Patroon\bin\Debug\net7.0\WerkcollegeD5D6oef14Patroon.exe
+C:\Users\joris\source\repos\WerkcollegeD5D6oef14Patroon\WerkcollegeD5D6oef14Patroon\bin\Debug\net7.0\WerkcollegeD5D6oef14Patroon.deps.json
+C:\Users\joris\source\repos\WerkcollegeD5D6oef14Patroon\WerkcollegeD5D6oef14Patroon\bin\Debug\net7.0\WerkcollegeD5D6oef14Patroon.runtimeconfig.json
+C:\Users\joris\source\repos\WerkcollegeD5D6oef14Patroon\WerkcollegeD5D6oef14Patroon\bin\Debug\net7.0\WerkcollegeD5D6oef14Patroon.dll
+C:\Users\joris\source\repos\WerkcollegeD5D6oef14Patroon\WerkcollegeD5D6oef14Patroon\bin\Debug\net7.0\WerkcollegeD5D6oef14Patroon.pdb
+C:\Users\joris\source\repos\WerkcollegeD5D6oef14Patroon\WerkcollegeD5D6oef14Patroon\obj\Debug\net7.0\WerkcollegeD5D6oef14Patroon.dll
+C:\Users\joris\source\repos\WerkcollegeD5D6oef14Patroon\WerkcollegeD5D6oef14Patroon\obj\Debug\net7.0\refint\WerkcollegeD5D6oef14Patroon.dll
+C:\Users\joris\source\repos\WerkcollegeD5D6oef14Patroon\WerkcollegeD5D6oef14Patroon\obj\Debug\net7.0\WerkcollegeD5D6oef14Patroon.pdb
+C:\Users\joris\source\repos\WerkcollegeD5D6oef14Patroon\WerkcollegeD5D6oef14Patroon\obj\Debug\net7.0\WerkcollegeD5D6oef14Patroon.genruntimeconfig.cache
+C:\Users\joris\source\repos\WerkcollegeD5D6oef14Patroon\WerkcollegeD5D6oef14Patroon\obj\Debug\net7.0\ref\WerkcollegeD5D6oef14Patroon.dll

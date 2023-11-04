@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D04muntstukken\D04muntstukken\bin\Debug\net7.0\D04muntstukken.exe
+C:\Users\joris\source\repos\D04muntstukken\D04muntstukken\bin\Debug\net7.0\D04muntstukken.deps.json
+C:\Users\joris\source\repos\D04muntstukken\D04muntstukken\bin\Debug\net7.0\D04muntstukken.runtimeconfig.json
+C:\Users\joris\source\repos\D04muntstukken\D04muntstukken\bin\Debug\net7.0\D04muntstukken.dll
+C:\Users\joris\source\repos\D04muntstukken\D04muntstukken\bin\Debug\net7.0\D04muntstukken.pdb
+C:\Users\joris\source\repos\D04muntstukken\D04muntstukken\obj\Debug\net7.0\D04muntstukken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D04muntstukken\D04muntstukken\obj\Debug\net7.0\D04muntstukken.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D04muntstukken\D04muntstukken\obj\Debug\net7.0\D04muntstukken.AssemblyInfo.cs
+C:\Users\joris\source\repos\D04muntstukken\D04muntstukken\obj\Debug\net7.0\D04muntstukken.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D04muntstukken\D04muntstukken\obj\Debug\net7.0\D04muntstukken.dll
+C:\Users\joris\source\repos\D04muntstukken\D04muntstukken\obj\Debug\net7.0\refint\D04muntstukken.dll
+C:\Users\joris\source\repos\D04muntstukken\D04muntstukken\obj\Debug\net7.0\D04muntstukken.pdb
+C:\Users\joris\source\repos\D04muntstukken\D04muntstukken\obj\Debug\net7.0\D04muntstukken.genruntimeconfig.cache
+C:\Users\joris\source\repos\D04muntstukken\D04muntstukken\obj\Debug\net7.0\ref\D04muntstukken.dll

@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\ForLus51\ForLus51\bin\Debug\net7.0\ForLus51.exe
+C:\Users\joris\source\repos\ForLus51\ForLus51\bin\Debug\net7.0\ForLus51.deps.json
+C:\Users\joris\source\repos\ForLus51\ForLus51\bin\Debug\net7.0\ForLus51.runtimeconfig.json
+C:\Users\joris\source\repos\ForLus51\ForLus51\bin\Debug\net7.0\ForLus51.dll
+C:\Users\joris\source\repos\ForLus51\ForLus51\bin\Debug\net7.0\ForLus51.pdb
+C:\Users\joris\source\repos\ForLus51\ForLus51\obj\Debug\net7.0\ForLus51.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\ForLus51\ForLus51\obj\Debug\net7.0\ForLus51.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\ForLus51\ForLus51\obj\Debug\net7.0\ForLus51.AssemblyInfo.cs
+C:\Users\joris\source\repos\ForLus51\ForLus51\obj\Debug\net7.0\ForLus51.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\ForLus51\ForLus51\obj\Debug\net7.0\ForLus51.dll
+C:\Users\joris\source\repos\ForLus51\ForLus51\obj\Debug\net7.0\refint\ForLus51.dll
+C:\Users\joris\source\repos\ForLus51\ForLus51\obj\Debug\net7.0\ForLus51.pdb
+C:\Users\joris\source\repos\ForLus51\ForLus51\obj\Debug\net7.0\ForLus51.genruntimeconfig.cache
+C:\Users\joris\source\repos\ForLus51\ForLus51\obj\Debug\net7.0\ref\ForLus51.dll

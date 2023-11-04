@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\TweedimensioneleArray\TweedimensioneleArray\obj\Debug\net7.0\TweedimensioneleArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\TweedimensioneleArray\TweedimensioneleArray\obj\Debug\net7.0\TweedimensioneleArray.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\TweedimensioneleArray\TweedimensioneleArray\obj\Debug\net7.0\TweedimensioneleArray.AssemblyInfo.cs
+C:\Users\joris\source\repos\TweedimensioneleArray\TweedimensioneleArray\obj\Debug\net7.0\TweedimensioneleArray.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\TweedimensioneleArray\TweedimensioneleArray\bin\Debug\net7.0\TweedimensioneleArray.exe
+C:\Users\joris\source\repos\TweedimensioneleArray\TweedimensioneleArray\bin\Debug\net7.0\TweedimensioneleArray.deps.json
+C:\Users\joris\source\repos\TweedimensioneleArray\TweedimensioneleArray\bin\Debug\net7.0\TweedimensioneleArray.runtimeconfig.json
+C:\Users\joris\source\repos\TweedimensioneleArray\TweedimensioneleArray\bin\Debug\net7.0\TweedimensioneleArray.dll
+C:\Users\joris\source\repos\TweedimensioneleArray\TweedimensioneleArray\bin\Debug\net7.0\TweedimensioneleArray.pdb
+C:\Users\joris\source\repos\TweedimensioneleArray\TweedimensioneleArray\obj\Debug\net7.0\TweedimensioneleArray.dll
+C:\Users\joris\source\repos\TweedimensioneleArray\TweedimensioneleArray\obj\Debug\net7.0\refint\TweedimensioneleArray.dll
+C:\Users\joris\source\repos\TweedimensioneleArray\TweedimensioneleArray\obj\Debug\net7.0\TweedimensioneleArray.pdb
+C:\Users\joris\source\repos\TweedimensioneleArray\TweedimensioneleArray\obj\Debug\net7.0\TweedimensioneleArray.genruntimeconfig.cache
+C:\Users\joris\source\repos\TweedimensioneleArray\TweedimensioneleArray\obj\Debug\net7.0\ref\TweedimensioneleArray.dll

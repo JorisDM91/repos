@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\ForLoop1tem20\ForLoop1tem20\bin\Debug\net7.0\ForLoop1tem20.exe
+C:\Users\joris\source\repos\ForLoop1tem20\ForLoop1tem20\bin\Debug\net7.0\ForLoop1tem20.deps.json
+C:\Users\joris\source\repos\ForLoop1tem20\ForLoop1tem20\bin\Debug\net7.0\ForLoop1tem20.runtimeconfig.json
+C:\Users\joris\source\repos\ForLoop1tem20\ForLoop1tem20\bin\Debug\net7.0\ForLoop1tem20.dll
+C:\Users\joris\source\repos\ForLoop1tem20\ForLoop1tem20\bin\Debug\net7.0\ForLoop1tem20.pdb
+C:\Users\joris\source\repos\ForLoop1tem20\ForLoop1tem20\obj\Debug\net7.0\ForLoop1tem20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\ForLoop1tem20\ForLoop1tem20\obj\Debug\net7.0\ForLoop1tem20.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\ForLoop1tem20\ForLoop1tem20\obj\Debug\net7.0\ForLoop1tem20.AssemblyInfo.cs
+C:\Users\joris\source\repos\ForLoop1tem20\ForLoop1tem20\obj\Debug\net7.0\ForLoop1tem20.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\ForLoop1tem20\ForLoop1tem20\obj\Debug\net7.0\ForLoop1tem20.dll
+C:\Users\joris\source\repos\ForLoop1tem20\ForLoop1tem20\obj\Debug\net7.0\refint\ForLoop1tem20.dll
+C:\Users\joris\source\repos\ForLoop1tem20\ForLoop1tem20\obj\Debug\net7.0\ForLoop1tem20.pdb
+C:\Users\joris\source\repos\ForLoop1tem20\ForLoop1tem20\obj\Debug\net7.0\ForLoop1tem20.genruntimeconfig.cache
+C:\Users\joris\source\repos\ForLoop1tem20\ForLoop1tem20\obj\Debug\net7.0\ref\ForLoop1tem20.dll

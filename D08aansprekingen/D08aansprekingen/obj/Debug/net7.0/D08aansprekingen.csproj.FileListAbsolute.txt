@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D08aansprekingen\D08aansprekingen\bin\Debug\net7.0\D08aansprekingen.exe
+C:\Users\joris\source\repos\D08aansprekingen\D08aansprekingen\bin\Debug\net7.0\D08aansprekingen.deps.json
+C:\Users\joris\source\repos\D08aansprekingen\D08aansprekingen\bin\Debug\net7.0\D08aansprekingen.runtimeconfig.json
+C:\Users\joris\source\repos\D08aansprekingen\D08aansprekingen\bin\Debug\net7.0\D08aansprekingen.dll
+C:\Users\joris\source\repos\D08aansprekingen\D08aansprekingen\bin\Debug\net7.0\D08aansprekingen.pdb
+C:\Users\joris\source\repos\D08aansprekingen\D08aansprekingen\obj\Debug\net7.0\D08aansprekingen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D08aansprekingen\D08aansprekingen\obj\Debug\net7.0\D08aansprekingen.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D08aansprekingen\D08aansprekingen\obj\Debug\net7.0\D08aansprekingen.AssemblyInfo.cs
+C:\Users\joris\source\repos\D08aansprekingen\D08aansprekingen\obj\Debug\net7.0\D08aansprekingen.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D08aansprekingen\D08aansprekingen\obj\Debug\net7.0\D08aansprekingen.dll
+C:\Users\joris\source\repos\D08aansprekingen\D08aansprekingen\obj\Debug\net7.0\refint\D08aansprekingen.dll
+C:\Users\joris\source\repos\D08aansprekingen\D08aansprekingen\obj\Debug\net7.0\D08aansprekingen.pdb
+C:\Users\joris\source\repos\D08aansprekingen\D08aansprekingen\obj\Debug\net7.0\D08aansprekingen.genruntimeconfig.cache
+C:\Users\joris\source\repos\D08aansprekingen\D08aansprekingen\obj\Debug\net7.0\ref\D08aansprekingen.dll

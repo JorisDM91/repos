@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\ArrayStringWerkdagenIndex\ArrayStringWerkdagenIndex\bin\Debug\net7.0\ArrayStringWerkdagenIndex.exe
+C:\Users\joris\source\repos\ArrayStringWerkdagenIndex\ArrayStringWerkdagenIndex\bin\Debug\net7.0\ArrayStringWerkdagenIndex.deps.json
+C:\Users\joris\source\repos\ArrayStringWerkdagenIndex\ArrayStringWerkdagenIndex\bin\Debug\net7.0\ArrayStringWerkdagenIndex.runtimeconfig.json
+C:\Users\joris\source\repos\ArrayStringWerkdagenIndex\ArrayStringWerkdagenIndex\bin\Debug\net7.0\ArrayStringWerkdagenIndex.dll
+C:\Users\joris\source\repos\ArrayStringWerkdagenIndex\ArrayStringWerkdagenIndex\bin\Debug\net7.0\ArrayStringWerkdagenIndex.pdb
+C:\Users\joris\source\repos\ArrayStringWerkdagenIndex\ArrayStringWerkdagenIndex\obj\Debug\net7.0\ArrayStringWerkdagenIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\ArrayStringWerkdagenIndex\ArrayStringWerkdagenIndex\obj\Debug\net7.0\ArrayStringWerkdagenIndex.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\ArrayStringWerkdagenIndex\ArrayStringWerkdagenIndex\obj\Debug\net7.0\ArrayStringWerkdagenIndex.AssemblyInfo.cs
+C:\Users\joris\source\repos\ArrayStringWerkdagenIndex\ArrayStringWerkdagenIndex\obj\Debug\net7.0\ArrayStringWerkdagenIndex.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\ArrayStringWerkdagenIndex\ArrayStringWerkdagenIndex\obj\Debug\net7.0\ArrayStringWerkdagenIndex.dll
+C:\Users\joris\source\repos\ArrayStringWerkdagenIndex\ArrayStringWerkdagenIndex\obj\Debug\net7.0\refint\ArrayStringWerkdagenIndex.dll
+C:\Users\joris\source\repos\ArrayStringWerkdagenIndex\ArrayStringWerkdagenIndex\obj\Debug\net7.0\ArrayStringWerkdagenIndex.pdb
+C:\Users\joris\source\repos\ArrayStringWerkdagenIndex\ArrayStringWerkdagenIndex\obj\Debug\net7.0\ArrayStringWerkdagenIndex.genruntimeconfig.cache
+C:\Users\joris\source\repos\ArrayStringWerkdagenIndex\ArrayStringWerkdagenIndex\obj\Debug\net7.0\ref\ArrayStringWerkdagenIndex.dll

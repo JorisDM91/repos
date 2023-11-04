@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\ForTafelVan7\ForTafelVan7\bin\Debug\net7.0\ForTafelVan7.exe
+C:\Users\joris\source\repos\ForTafelVan7\ForTafelVan7\bin\Debug\net7.0\ForTafelVan7.deps.json
+C:\Users\joris\source\repos\ForTafelVan7\ForTafelVan7\bin\Debug\net7.0\ForTafelVan7.runtimeconfig.json
+C:\Users\joris\source\repos\ForTafelVan7\ForTafelVan7\bin\Debug\net7.0\ForTafelVan7.dll
+C:\Users\joris\source\repos\ForTafelVan7\ForTafelVan7\bin\Debug\net7.0\ForTafelVan7.pdb
+C:\Users\joris\source\repos\ForTafelVan7\ForTafelVan7\obj\Debug\net7.0\ForTafelVan7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\ForTafelVan7\ForTafelVan7\obj\Debug\net7.0\ForTafelVan7.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\ForTafelVan7\ForTafelVan7\obj\Debug\net7.0\ForTafelVan7.AssemblyInfo.cs
+C:\Users\joris\source\repos\ForTafelVan7\ForTafelVan7\obj\Debug\net7.0\ForTafelVan7.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\ForTafelVan7\ForTafelVan7\obj\Debug\net7.0\ForTafelVan7.dll
+C:\Users\joris\source\repos\ForTafelVan7\ForTafelVan7\obj\Debug\net7.0\refint\ForTafelVan7.dll
+C:\Users\joris\source\repos\ForTafelVan7\ForTafelVan7\obj\Debug\net7.0\ForTafelVan7.pdb
+C:\Users\joris\source\repos\ForTafelVan7\ForTafelVan7\obj\Debug\net7.0\ForTafelVan7.genruntimeconfig.cache
+C:\Users\joris\source\repos\ForTafelVan7\ForTafelVan7\obj\Debug\net7.0\ref\ForTafelVan7.dll

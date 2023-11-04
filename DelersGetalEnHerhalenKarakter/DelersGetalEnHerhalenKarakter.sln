@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelersGetalEnHerhalenKarakter", "DelersGetalEnHerhalenKarakter\DelersGetalEnHerhalenKarakter.csproj", "{5281DB66-968A-4322-A073-E196F7D3968F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5281DB66-968A-4322-A073-E196F7D3968F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5281DB66-968A-4322-A073-E196F7D3968F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5281DB66-968A-4322-A073-E196F7D3968F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5281DB66-968A-4322-A073-E196F7D3968F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B181E766-CC7F-4B3C-8B18-044CFBBBF901}
+	EndGlobalSection
+EndGlobal

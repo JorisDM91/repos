@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D08omgekeerdevolgorde\D08omgekeerdevolgorde\bin\Debug\net7.0\D08omgekeerdevolgorde.exe
+C:\Users\joris\source\repos\D08omgekeerdevolgorde\D08omgekeerdevolgorde\bin\Debug\net7.0\D08omgekeerdevolgorde.deps.json
+C:\Users\joris\source\repos\D08omgekeerdevolgorde\D08omgekeerdevolgorde\bin\Debug\net7.0\D08omgekeerdevolgorde.runtimeconfig.json
+C:\Users\joris\source\repos\D08omgekeerdevolgorde\D08omgekeerdevolgorde\bin\Debug\net7.0\D08omgekeerdevolgorde.dll
+C:\Users\joris\source\repos\D08omgekeerdevolgorde\D08omgekeerdevolgorde\bin\Debug\net7.0\D08omgekeerdevolgorde.pdb
+C:\Users\joris\source\repos\D08omgekeerdevolgorde\D08omgekeerdevolgorde\obj\Debug\net7.0\D08omgekeerdevolgorde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D08omgekeerdevolgorde\D08omgekeerdevolgorde\obj\Debug\net7.0\D08omgekeerdevolgorde.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D08omgekeerdevolgorde\D08omgekeerdevolgorde\obj\Debug\net7.0\D08omgekeerdevolgorde.AssemblyInfo.cs
+C:\Users\joris\source\repos\D08omgekeerdevolgorde\D08omgekeerdevolgorde\obj\Debug\net7.0\D08omgekeerdevolgorde.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D08omgekeerdevolgorde\D08omgekeerdevolgorde\obj\Debug\net7.0\D08omgekeerdevolgorde.dll
+C:\Users\joris\source\repos\D08omgekeerdevolgorde\D08omgekeerdevolgorde\obj\Debug\net7.0\refint\D08omgekeerdevolgorde.dll
+C:\Users\joris\source\repos\D08omgekeerdevolgorde\D08omgekeerdevolgorde\obj\Debug\net7.0\D08omgekeerdevolgorde.pdb
+C:\Users\joris\source\repos\D08omgekeerdevolgorde\D08omgekeerdevolgorde\obj\Debug\net7.0\D08omgekeerdevolgorde.genruntimeconfig.cache
+C:\Users\joris\source\repos\D08omgekeerdevolgorde\D08omgekeerdevolgorde\obj\Debug\net7.0\ref\D08omgekeerdevolgorde.dll

@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D04bmi\D04bmi\bin\Debug\net7.0\D04bmi.exe
+C:\Users\joris\source\repos\D04bmi\D04bmi\bin\Debug\net7.0\D04bmi.deps.json
+C:\Users\joris\source\repos\D04bmi\D04bmi\bin\Debug\net7.0\D04bmi.runtimeconfig.json
+C:\Users\joris\source\repos\D04bmi\D04bmi\bin\Debug\net7.0\D04bmi.dll
+C:\Users\joris\source\repos\D04bmi\D04bmi\bin\Debug\net7.0\D04bmi.pdb
+C:\Users\joris\source\repos\D04bmi\D04bmi\obj\Debug\net7.0\D04bmi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D04bmi\D04bmi\obj\Debug\net7.0\D04bmi.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D04bmi\D04bmi\obj\Debug\net7.0\D04bmi.AssemblyInfo.cs
+C:\Users\joris\source\repos\D04bmi\D04bmi\obj\Debug\net7.0\D04bmi.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D04bmi\D04bmi\obj\Debug\net7.0\D04bmi.dll
+C:\Users\joris\source\repos\D04bmi\D04bmi\obj\Debug\net7.0\refint\D04bmi.dll
+C:\Users\joris\source\repos\D04bmi\D04bmi\obj\Debug\net7.0\D04bmi.pdb
+C:\Users\joris\source\repos\D04bmi\D04bmi\obj\Debug\net7.0\D04bmi.genruntimeconfig.cache
+C:\Users\joris\source\repos\D04bmi\D04bmi\obj\Debug\net7.0\ref\D04bmi.dll

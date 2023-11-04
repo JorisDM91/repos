@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D08netto\D08netto\bin\Debug\net7.0\D08netto.exe
+C:\Users\joris\source\repos\D08netto\D08netto\bin\Debug\net7.0\D08netto.deps.json
+C:\Users\joris\source\repos\D08netto\D08netto\bin\Debug\net7.0\D08netto.runtimeconfig.json
+C:\Users\joris\source\repos\D08netto\D08netto\bin\Debug\net7.0\D08netto.dll
+C:\Users\joris\source\repos\D08netto\D08netto\bin\Debug\net7.0\D08netto.pdb
+C:\Users\joris\source\repos\D08netto\D08netto\obj\Debug\net7.0\D08netto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D08netto\D08netto\obj\Debug\net7.0\D08netto.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D08netto\D08netto\obj\Debug\net7.0\D08netto.AssemblyInfo.cs
+C:\Users\joris\source\repos\D08netto\D08netto\obj\Debug\net7.0\D08netto.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D08netto\D08netto\obj\Debug\net7.0\D08netto.dll
+C:\Users\joris\source\repos\D08netto\D08netto\obj\Debug\net7.0\refint\D08netto.dll
+C:\Users\joris\source\repos\D08netto\D08netto\obj\Debug\net7.0\D08netto.pdb
+C:\Users\joris\source\repos\D08netto\D08netto\obj\Debug\net7.0\D08netto.genruntimeconfig.cache
+C:\Users\joris\source\repos\D08netto\D08netto\obj\Debug\net7.0\ref\D08netto.dll

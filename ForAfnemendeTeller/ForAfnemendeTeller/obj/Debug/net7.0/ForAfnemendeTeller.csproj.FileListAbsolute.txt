@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\ForAfnemendeTeller\ForAfnemendeTeller\bin\Debug\net7.0\ForAfnemendeTeller.exe
+C:\Users\joris\source\repos\ForAfnemendeTeller\ForAfnemendeTeller\bin\Debug\net7.0\ForAfnemendeTeller.deps.json
+C:\Users\joris\source\repos\ForAfnemendeTeller\ForAfnemendeTeller\bin\Debug\net7.0\ForAfnemendeTeller.runtimeconfig.json
+C:\Users\joris\source\repos\ForAfnemendeTeller\ForAfnemendeTeller\bin\Debug\net7.0\ForAfnemendeTeller.dll
+C:\Users\joris\source\repos\ForAfnemendeTeller\ForAfnemendeTeller\bin\Debug\net7.0\ForAfnemendeTeller.pdb
+C:\Users\joris\source\repos\ForAfnemendeTeller\ForAfnemendeTeller\obj\Debug\net7.0\ForAfnemendeTeller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\ForAfnemendeTeller\ForAfnemendeTeller\obj\Debug\net7.0\ForAfnemendeTeller.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\ForAfnemendeTeller\ForAfnemendeTeller\obj\Debug\net7.0\ForAfnemendeTeller.AssemblyInfo.cs
+C:\Users\joris\source\repos\ForAfnemendeTeller\ForAfnemendeTeller\obj\Debug\net7.0\ForAfnemendeTeller.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\ForAfnemendeTeller\ForAfnemendeTeller\obj\Debug\net7.0\ForAfnemendeTeller.dll
+C:\Users\joris\source\repos\ForAfnemendeTeller\ForAfnemendeTeller\obj\Debug\net7.0\refint\ForAfnemendeTeller.dll
+C:\Users\joris\source\repos\ForAfnemendeTeller\ForAfnemendeTeller\obj\Debug\net7.0\ForAfnemendeTeller.pdb
+C:\Users\joris\source\repos\ForAfnemendeTeller\ForAfnemendeTeller\obj\Debug\net7.0\ForAfnemendeTeller.genruntimeconfig.cache
+C:\Users\joris\source\repos\ForAfnemendeTeller\ForAfnemendeTeller\obj\Debug\net7.0\ref\ForAfnemendeTeller.dll

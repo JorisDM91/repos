@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "D05getalradengebruiker/1.0.0": {
+        "runtime": {
+          "D05getalradengebruiker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "D05getalradengebruiker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

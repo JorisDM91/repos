@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\WerkcollegeD5-D6oef13Algoritme\WerkcollegeD5-D6oef13Algoritme\bin\Debug\net7.0\WerkcollegeD5-D6oef13Algoritme.exe
+C:\Users\joris\source\repos\WerkcollegeD5-D6oef13Algoritme\WerkcollegeD5-D6oef13Algoritme\bin\Debug\net7.0\WerkcollegeD5-D6oef13Algoritme.deps.json
+C:\Users\joris\source\repos\WerkcollegeD5-D6oef13Algoritme\WerkcollegeD5-D6oef13Algoritme\bin\Debug\net7.0\WerkcollegeD5-D6oef13Algoritme.runtimeconfig.json
+C:\Users\joris\source\repos\WerkcollegeD5-D6oef13Algoritme\WerkcollegeD5-D6oef13Algoritme\bin\Debug\net7.0\WerkcollegeD5-D6oef13Algoritme.dll
+C:\Users\joris\source\repos\WerkcollegeD5-D6oef13Algoritme\WerkcollegeD5-D6oef13Algoritme\bin\Debug\net7.0\WerkcollegeD5-D6oef13Algoritme.pdb
+C:\Users\joris\source\repos\WerkcollegeD5-D6oef13Algoritme\WerkcollegeD5-D6oef13Algoritme\obj\Debug\net7.0\WerkcollegeD5-D6oef13Algoritme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\WerkcollegeD5-D6oef13Algoritme\WerkcollegeD5-D6oef13Algoritme\obj\Debug\net7.0\WerkcollegeD5-D6oef13Algoritme.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\WerkcollegeD5-D6oef13Algoritme\WerkcollegeD5-D6oef13Algoritme\obj\Debug\net7.0\WerkcollegeD5-D6oef13Algoritme.AssemblyInfo.cs
+C:\Users\joris\source\repos\WerkcollegeD5-D6oef13Algoritme\WerkcollegeD5-D6oef13Algoritme\obj\Debug\net7.0\WerkcollegeD5-D6oef13Algoritme.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\WerkcollegeD5-D6oef13Algoritme\WerkcollegeD5-D6oef13Algoritme\obj\Debug\net7.0\WerkcollegeD5-D6oef13Algoritme.dll
+C:\Users\joris\source\repos\WerkcollegeD5-D6oef13Algoritme\WerkcollegeD5-D6oef13Algoritme\obj\Debug\net7.0\refint\WerkcollegeD5-D6oef13Algoritme.dll
+C:\Users\joris\source\repos\WerkcollegeD5-D6oef13Algoritme\WerkcollegeD5-D6oef13Algoritme\obj\Debug\net7.0\WerkcollegeD5-D6oef13Algoritme.pdb
+C:\Users\joris\source\repos\WerkcollegeD5-D6oef13Algoritme\WerkcollegeD5-D6oef13Algoritme\obj\Debug\net7.0\WerkcollegeD5-D6oef13Algoritme.genruntimeconfig.cache
+C:\Users\joris\source\repos\WerkcollegeD5-D6oef13Algoritme\WerkcollegeD5-D6oef13Algoritme\obj\Debug\net7.0\ref\WerkcollegeD5-D6oef13Algoritme.dll

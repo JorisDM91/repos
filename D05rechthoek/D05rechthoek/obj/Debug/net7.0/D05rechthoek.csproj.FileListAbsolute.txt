@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D05rechthoek\D05rechthoek\bin\Debug\net7.0\D05rechthoek.exe
+C:\Users\joris\source\repos\D05rechthoek\D05rechthoek\bin\Debug\net7.0\D05rechthoek.deps.json
+C:\Users\joris\source\repos\D05rechthoek\D05rechthoek\bin\Debug\net7.0\D05rechthoek.runtimeconfig.json
+C:\Users\joris\source\repos\D05rechthoek\D05rechthoek\bin\Debug\net7.0\D05rechthoek.dll
+C:\Users\joris\source\repos\D05rechthoek\D05rechthoek\bin\Debug\net7.0\D05rechthoek.pdb
+C:\Users\joris\source\repos\D05rechthoek\D05rechthoek\obj\Debug\net7.0\D05rechthoek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D05rechthoek\D05rechthoek\obj\Debug\net7.0\D05rechthoek.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D05rechthoek\D05rechthoek\obj\Debug\net7.0\D05rechthoek.AssemblyInfo.cs
+C:\Users\joris\source\repos\D05rechthoek\D05rechthoek\obj\Debug\net7.0\D05rechthoek.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D05rechthoek\D05rechthoek\obj\Debug\net7.0\D05rechthoek.dll
+C:\Users\joris\source\repos\D05rechthoek\D05rechthoek\obj\Debug\net7.0\refint\D05rechthoek.dll
+C:\Users\joris\source\repos\D05rechthoek\D05rechthoek\obj\Debug\net7.0\D05rechthoek.pdb
+C:\Users\joris\source\repos\D05rechthoek\D05rechthoek\obj\Debug\net7.0\D05rechthoek.genruntimeconfig.cache
+C:\Users\joris\source\repos\D05rechthoek\D05rechthoek\obj\Debug\net7.0\ref\D05rechthoek.dll

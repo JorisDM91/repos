@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D09aantalkarakters\D09aantalkarakters\bin\Debug\net7.0\D09aantalkarakters.exe
+C:\Users\joris\source\repos\D09aantalkarakters\D09aantalkarakters\bin\Debug\net7.0\D09aantalkarakters.deps.json
+C:\Users\joris\source\repos\D09aantalkarakters\D09aantalkarakters\bin\Debug\net7.0\D09aantalkarakters.runtimeconfig.json
+C:\Users\joris\source\repos\D09aantalkarakters\D09aantalkarakters\bin\Debug\net7.0\D09aantalkarakters.dll
+C:\Users\joris\source\repos\D09aantalkarakters\D09aantalkarakters\bin\Debug\net7.0\D09aantalkarakters.pdb
+C:\Users\joris\source\repos\D09aantalkarakters\D09aantalkarakters\obj\Debug\net7.0\D09aantalkarakters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D09aantalkarakters\D09aantalkarakters\obj\Debug\net7.0\D09aantalkarakters.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D09aantalkarakters\D09aantalkarakters\obj\Debug\net7.0\D09aantalkarakters.AssemblyInfo.cs
+C:\Users\joris\source\repos\D09aantalkarakters\D09aantalkarakters\obj\Debug\net7.0\D09aantalkarakters.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D09aantalkarakters\D09aantalkarakters\obj\Debug\net7.0\D09aantalkarakters.dll
+C:\Users\joris\source\repos\D09aantalkarakters\D09aantalkarakters\obj\Debug\net7.0\refint\D09aantalkarakters.dll
+C:\Users\joris\source\repos\D09aantalkarakters\D09aantalkarakters\obj\Debug\net7.0\D09aantalkarakters.pdb
+C:\Users\joris\source\repos\D09aantalkarakters\D09aantalkarakters\obj\Debug\net7.0\D09aantalkarakters.genruntimeconfig.cache
+C:\Users\joris\source\repos\D09aantalkarakters\D09aantalkarakters\obj\Debug\net7.0\ref\D09aantalkarakters.dll

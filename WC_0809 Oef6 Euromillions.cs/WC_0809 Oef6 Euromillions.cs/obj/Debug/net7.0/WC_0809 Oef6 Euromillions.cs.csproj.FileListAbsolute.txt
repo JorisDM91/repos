@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\WC_0809 Oef6 Euromillions.cs\WC_0809 Oef6 Euromillions.cs\obj\Debug\net7.0\WC_0809 Oef6 Euromillions.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\WC_0809 Oef6 Euromillions.cs\WC_0809 Oef6 Euromillions.cs\obj\Debug\net7.0\WC_0809 Oef6 Euromillions.cs.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\WC_0809 Oef6 Euromillions.cs\WC_0809 Oef6 Euromillions.cs\obj\Debug\net7.0\WC_0809 Oef6 Euromillions.cs.AssemblyInfo.cs
+C:\Users\joris\source\repos\WC_0809 Oef6 Euromillions.cs\WC_0809 Oef6 Euromillions.cs\obj\Debug\net7.0\WC_0809 Oef6 Euromillions.cs.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\WC_0809 Oef6 Euromillions.cs\WC_0809 Oef6 Euromillions.cs\bin\Debug\net7.0\WC_0809 Oef6 Euromillions.cs.exe
+C:\Users\joris\source\repos\WC_0809 Oef6 Euromillions.cs\WC_0809 Oef6 Euromillions.cs\bin\Debug\net7.0\WC_0809 Oef6 Euromillions.cs.deps.json
+C:\Users\joris\source\repos\WC_0809 Oef6 Euromillions.cs\WC_0809 Oef6 Euromillions.cs\bin\Debug\net7.0\WC_0809 Oef6 Euromillions.cs.runtimeconfig.json
+C:\Users\joris\source\repos\WC_0809 Oef6 Euromillions.cs\WC_0809 Oef6 Euromillions.cs\bin\Debug\net7.0\WC_0809 Oef6 Euromillions.cs.dll
+C:\Users\joris\source\repos\WC_0809 Oef6 Euromillions.cs\WC_0809 Oef6 Euromillions.cs\bin\Debug\net7.0\WC_0809 Oef6 Euromillions.cs.pdb
+C:\Users\joris\source\repos\WC_0809 Oef6 Euromillions.cs\WC_0809 Oef6 Euromillions.cs\obj\Debug\net7.0\WC_0809 Oef6 Euromillions.cs.dll
+C:\Users\joris\source\repos\WC_0809 Oef6 Euromillions.cs\WC_0809 Oef6 Euromillions.cs\obj\Debug\net7.0\refint\WC_0809 Oef6 Euromillions.cs.dll
+C:\Users\joris\source\repos\WC_0809 Oef6 Euromillions.cs\WC_0809 Oef6 Euromillions.cs\obj\Debug\net7.0\WC_0809 Oef6 Euromillions.cs.pdb
+C:\Users\joris\source\repos\WC_0809 Oef6 Euromillions.cs\WC_0809 Oef6 Euromillions.cs\obj\Debug\net7.0\WC_0809 Oef6 Euromillions.cs.genruntimeconfig.cache
+C:\Users\joris\source\repos\WC_0809 Oef6 Euromillions.cs\WC_0809 Oef6 Euromillions.cs\obj\Debug\net7.0\ref\WC_0809 Oef6 Euromillions.cs.dll

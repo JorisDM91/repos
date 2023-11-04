@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D03kleinerMathMin\D03kleinerMathMin\bin\Debug\net7.0\D03kleinerMathMin.exe
+C:\Users\joris\source\repos\D03kleinerMathMin\D03kleinerMathMin\bin\Debug\net7.0\D03kleinerMathMin.deps.json
+C:\Users\joris\source\repos\D03kleinerMathMin\D03kleinerMathMin\bin\Debug\net7.0\D03kleinerMathMin.runtimeconfig.json
+C:\Users\joris\source\repos\D03kleinerMathMin\D03kleinerMathMin\bin\Debug\net7.0\D03kleinerMathMin.dll
+C:\Users\joris\source\repos\D03kleinerMathMin\D03kleinerMathMin\bin\Debug\net7.0\D03kleinerMathMin.pdb
+C:\Users\joris\source\repos\D03kleinerMathMin\D03kleinerMathMin\obj\Debug\net7.0\D03kleinerMathMin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D03kleinerMathMin\D03kleinerMathMin\obj\Debug\net7.0\D03kleinerMathMin.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D03kleinerMathMin\D03kleinerMathMin\obj\Debug\net7.0\D03kleinerMathMin.AssemblyInfo.cs
+C:\Users\joris\source\repos\D03kleinerMathMin\D03kleinerMathMin\obj\Debug\net7.0\D03kleinerMathMin.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D03kleinerMathMin\D03kleinerMathMin\obj\Debug\net7.0\D03kleinerMathMin.dll
+C:\Users\joris\source\repos\D03kleinerMathMin\D03kleinerMathMin\obj\Debug\net7.0\refint\D03kleinerMathMin.dll
+C:\Users\joris\source\repos\D03kleinerMathMin\D03kleinerMathMin\obj\Debug\net7.0\D03kleinerMathMin.pdb
+C:\Users\joris\source\repos\D03kleinerMathMin\D03kleinerMathMin\obj\Debug\net7.0\D03kleinerMathMin.genruntimeconfig.cache
+C:\Users\joris\source\repos\D03kleinerMathMin\D03kleinerMathMin\obj\Debug\net7.0\ref\D03kleinerMathMin.dll

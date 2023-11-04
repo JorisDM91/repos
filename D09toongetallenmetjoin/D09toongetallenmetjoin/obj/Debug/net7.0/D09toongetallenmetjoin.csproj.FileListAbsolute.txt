@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D09toongetallenmetjoin\D09toongetallenmetjoin\bin\Debug\net7.0\D09toongetallenmetjoin.exe
+C:\Users\joris\source\repos\D09toongetallenmetjoin\D09toongetallenmetjoin\bin\Debug\net7.0\D09toongetallenmetjoin.deps.json
+C:\Users\joris\source\repos\D09toongetallenmetjoin\D09toongetallenmetjoin\bin\Debug\net7.0\D09toongetallenmetjoin.runtimeconfig.json
+C:\Users\joris\source\repos\D09toongetallenmetjoin\D09toongetallenmetjoin\bin\Debug\net7.0\D09toongetallenmetjoin.dll
+C:\Users\joris\source\repos\D09toongetallenmetjoin\D09toongetallenmetjoin\bin\Debug\net7.0\D09toongetallenmetjoin.pdb
+C:\Users\joris\source\repos\D09toongetallenmetjoin\D09toongetallenmetjoin\obj\Debug\net7.0\D09toongetallenmetjoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D09toongetallenmetjoin\D09toongetallenmetjoin\obj\Debug\net7.0\D09toongetallenmetjoin.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D09toongetallenmetjoin\D09toongetallenmetjoin\obj\Debug\net7.0\D09toongetallenmetjoin.AssemblyInfo.cs
+C:\Users\joris\source\repos\D09toongetallenmetjoin\D09toongetallenmetjoin\obj\Debug\net7.0\D09toongetallenmetjoin.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D09toongetallenmetjoin\D09toongetallenmetjoin\obj\Debug\net7.0\D09toongetallenmetjoin.dll
+C:\Users\joris\source\repos\D09toongetallenmetjoin\D09toongetallenmetjoin\obj\Debug\net7.0\refint\D09toongetallenmetjoin.dll
+C:\Users\joris\source\repos\D09toongetallenmetjoin\D09toongetallenmetjoin\obj\Debug\net7.0\D09toongetallenmetjoin.pdb
+C:\Users\joris\source\repos\D09toongetallenmetjoin\D09toongetallenmetjoin\obj\Debug\net7.0\D09toongetallenmetjoin.genruntimeconfig.cache
+C:\Users\joris\source\repos\D09toongetallenmetjoin\D09toongetallenmetjoin\obj\Debug\net7.0\ref\D09toongetallenmetjoin.dll

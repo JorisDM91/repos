@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D09toonscore\D09toonscore\bin\Debug\net7.0\D09toonscore.exe
+C:\Users\joris\source\repos\D09toonscore\D09toonscore\bin\Debug\net7.0\D09toonscore.deps.json
+C:\Users\joris\source\repos\D09toonscore\D09toonscore\bin\Debug\net7.0\D09toonscore.runtimeconfig.json
+C:\Users\joris\source\repos\D09toonscore\D09toonscore\bin\Debug\net7.0\D09toonscore.dll
+C:\Users\joris\source\repos\D09toonscore\D09toonscore\bin\Debug\net7.0\D09toonscore.pdb
+C:\Users\joris\source\repos\D09toonscore\D09toonscore\obj\Debug\net7.0\D09toonscore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D09toonscore\D09toonscore\obj\Debug\net7.0\D09toonscore.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D09toonscore\D09toonscore\obj\Debug\net7.0\D09toonscore.AssemblyInfo.cs
+C:\Users\joris\source\repos\D09toonscore\D09toonscore\obj\Debug\net7.0\D09toonscore.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D09toonscore\D09toonscore\obj\Debug\net7.0\D09toonscore.dll
+C:\Users\joris\source\repos\D09toonscore\D09toonscore\obj\Debug\net7.0\refint\D09toonscore.dll
+C:\Users\joris\source\repos\D09toonscore\D09toonscore\obj\Debug\net7.0\D09toonscore.pdb
+C:\Users\joris\source\repos\D09toonscore\D09toonscore\obj\Debug\net7.0\D09toonscore.genruntimeconfig.cache
+C:\Users\joris\source\repos\D09toonscore\D09toonscore\obj\Debug\net7.0\ref\D09toonscore.dll

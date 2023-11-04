@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\FORArrayUitlezenZenders\FORArrayUitlezenZenders\bin\Debug\net7.0\FORArrayUitlezenZenders.exe
+C:\Users\joris\source\repos\FORArrayUitlezenZenders\FORArrayUitlezenZenders\bin\Debug\net7.0\FORArrayUitlezenZenders.deps.json
+C:\Users\joris\source\repos\FORArrayUitlezenZenders\FORArrayUitlezenZenders\bin\Debug\net7.0\FORArrayUitlezenZenders.runtimeconfig.json
+C:\Users\joris\source\repos\FORArrayUitlezenZenders\FORArrayUitlezenZenders\bin\Debug\net7.0\FORArrayUitlezenZenders.dll
+C:\Users\joris\source\repos\FORArrayUitlezenZenders\FORArrayUitlezenZenders\bin\Debug\net7.0\FORArrayUitlezenZenders.pdb
+C:\Users\joris\source\repos\FORArrayUitlezenZenders\FORArrayUitlezenZenders\obj\Debug\net7.0\FORArrayUitlezenZenders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\FORArrayUitlezenZenders\FORArrayUitlezenZenders\obj\Debug\net7.0\FORArrayUitlezenZenders.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\FORArrayUitlezenZenders\FORArrayUitlezenZenders\obj\Debug\net7.0\FORArrayUitlezenZenders.AssemblyInfo.cs
+C:\Users\joris\source\repos\FORArrayUitlezenZenders\FORArrayUitlezenZenders\obj\Debug\net7.0\FORArrayUitlezenZenders.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\FORArrayUitlezenZenders\FORArrayUitlezenZenders\obj\Debug\net7.0\FORArrayUitlezenZenders.dll
+C:\Users\joris\source\repos\FORArrayUitlezenZenders\FORArrayUitlezenZenders\obj\Debug\net7.0\refint\FORArrayUitlezenZenders.dll
+C:\Users\joris\source\repos\FORArrayUitlezenZenders\FORArrayUitlezenZenders\obj\Debug\net7.0\FORArrayUitlezenZenders.pdb
+C:\Users\joris\source\repos\FORArrayUitlezenZenders\FORArrayUitlezenZenders\obj\Debug\net7.0\FORArrayUitlezenZenders.genruntimeconfig.cache
+C:\Users\joris\source\repos\FORArrayUitlezenZenders\FORArrayUitlezenZenders\obj\Debug\net7.0\ref\FORArrayUitlezenZenders.dll

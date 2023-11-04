@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D08twister\D08twister\bin\Debug\net7.0\D08twister.exe
+C:\Users\joris\source\repos\D08twister\D08twister\bin\Debug\net7.0\D08twister.deps.json
+C:\Users\joris\source\repos\D08twister\D08twister\bin\Debug\net7.0\D08twister.runtimeconfig.json
+C:\Users\joris\source\repos\D08twister\D08twister\bin\Debug\net7.0\D08twister.dll
+C:\Users\joris\source\repos\D08twister\D08twister\bin\Debug\net7.0\D08twister.pdb
+C:\Users\joris\source\repos\D08twister\D08twister\obj\Debug\net7.0\D08twister.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D08twister\D08twister\obj\Debug\net7.0\D08twister.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D08twister\D08twister\obj\Debug\net7.0\D08twister.AssemblyInfo.cs
+C:\Users\joris\source\repos\D08twister\D08twister\obj\Debug\net7.0\D08twister.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D08twister\D08twister\obj\Debug\net7.0\D08twister.dll
+C:\Users\joris\source\repos\D08twister\D08twister\obj\Debug\net7.0\refint\D08twister.dll
+C:\Users\joris\source\repos\D08twister\D08twister\obj\Debug\net7.0\D08twister.pdb
+C:\Users\joris\source\repos\D08twister\D08twister\obj\Debug\net7.0\D08twister.genruntimeconfig.cache
+C:\Users\joris\source\repos\D08twister\D08twister\obj\Debug\net7.0\ref\D08twister.dll

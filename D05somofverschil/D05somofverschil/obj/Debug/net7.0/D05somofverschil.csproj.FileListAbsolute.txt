@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D05somofverschil\D05somofverschil\bin\Debug\net7.0\D05somofverschil.exe
+C:\Users\joris\source\repos\D05somofverschil\D05somofverschil\bin\Debug\net7.0\D05somofverschil.deps.json
+C:\Users\joris\source\repos\D05somofverschil\D05somofverschil\bin\Debug\net7.0\D05somofverschil.runtimeconfig.json
+C:\Users\joris\source\repos\D05somofverschil\D05somofverschil\bin\Debug\net7.0\D05somofverschil.dll
+C:\Users\joris\source\repos\D05somofverschil\D05somofverschil\bin\Debug\net7.0\D05somofverschil.pdb
+C:\Users\joris\source\repos\D05somofverschil\D05somofverschil\obj\Debug\net7.0\D05somofverschil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D05somofverschil\D05somofverschil\obj\Debug\net7.0\D05somofverschil.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D05somofverschil\D05somofverschil\obj\Debug\net7.0\D05somofverschil.AssemblyInfo.cs
+C:\Users\joris\source\repos\D05somofverschil\D05somofverschil\obj\Debug\net7.0\D05somofverschil.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D05somofverschil\D05somofverschil\obj\Debug\net7.0\D05somofverschil.dll
+C:\Users\joris\source\repos\D05somofverschil\D05somofverschil\obj\Debug\net7.0\refint\D05somofverschil.dll
+C:\Users\joris\source\repos\D05somofverschil\D05somofverschil\obj\Debug\net7.0\D05somofverschil.pdb
+C:\Users\joris\source\repos\D05somofverschil\D05somofverschil\obj\Debug\net7.0\D05somofverschil.genruntimeconfig.cache
+C:\Users\joris\source\repos\D05somofverschil\D05somofverschil\obj\Debug\net7.0\ref\D05somofverschil.dll

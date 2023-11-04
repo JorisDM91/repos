@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D09censuur\D09censuur\bin\Debug\net7.0\D09censuur.exe
+C:\Users\joris\source\repos\D09censuur\D09censuur\bin\Debug\net7.0\D09censuur.deps.json
+C:\Users\joris\source\repos\D09censuur\D09censuur\bin\Debug\net7.0\D09censuur.runtimeconfig.json
+C:\Users\joris\source\repos\D09censuur\D09censuur\bin\Debug\net7.0\D09censuur.dll
+C:\Users\joris\source\repos\D09censuur\D09censuur\bin\Debug\net7.0\D09censuur.pdb
+C:\Users\joris\source\repos\D09censuur\D09censuur\obj\Debug\net7.0\D09censuur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D09censuur\D09censuur\obj\Debug\net7.0\D09censuur.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D09censuur\D09censuur\obj\Debug\net7.0\D09censuur.AssemblyInfo.cs
+C:\Users\joris\source\repos\D09censuur\D09censuur\obj\Debug\net7.0\D09censuur.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D09censuur\D09censuur\obj\Debug\net7.0\D09censuur.dll
+C:\Users\joris\source\repos\D09censuur\D09censuur\obj\Debug\net7.0\refint\D09censuur.dll
+C:\Users\joris\source\repos\D09censuur\D09censuur\obj\Debug\net7.0\D09censuur.pdb
+C:\Users\joris\source\repos\D09censuur\D09censuur\obj\Debug\net7.0\D09censuur.genruntimeconfig.cache
+C:\Users\joris\source\repos\D09censuur\D09censuur\obj\Debug\net7.0\ref\D09censuur.dll

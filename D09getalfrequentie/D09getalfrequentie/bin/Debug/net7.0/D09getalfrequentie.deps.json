@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "D09getalfrequentie/1.0.0": {
+        "runtime": {
+          "D09getalfrequentie.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "D09getalfrequentie/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

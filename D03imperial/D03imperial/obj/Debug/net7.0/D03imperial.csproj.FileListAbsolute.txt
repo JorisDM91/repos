@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D03imperial\D03imperial\bin\Debug\net7.0\D03imperial.exe
+C:\Users\joris\source\repos\D03imperial\D03imperial\bin\Debug\net7.0\D03imperial.deps.json
+C:\Users\joris\source\repos\D03imperial\D03imperial\bin\Debug\net7.0\D03imperial.runtimeconfig.json
+C:\Users\joris\source\repos\D03imperial\D03imperial\bin\Debug\net7.0\D03imperial.dll
+C:\Users\joris\source\repos\D03imperial\D03imperial\bin\Debug\net7.0\D03imperial.pdb
+C:\Users\joris\source\repos\D03imperial\D03imperial\obj\Debug\net7.0\D03imperial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D03imperial\D03imperial\obj\Debug\net7.0\D03imperial.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D03imperial\D03imperial\obj\Debug\net7.0\D03imperial.AssemblyInfo.cs
+C:\Users\joris\source\repos\D03imperial\D03imperial\obj\Debug\net7.0\D03imperial.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D03imperial\D03imperial\obj\Debug\net7.0\D03imperial.dll
+C:\Users\joris\source\repos\D03imperial\D03imperial\obj\Debug\net7.0\refint\D03imperial.dll
+C:\Users\joris\source\repos\D03imperial\D03imperial\obj\Debug\net7.0\D03imperial.pdb
+C:\Users\joris\source\repos\D03imperial\D03imperial\obj\Debug\net7.0\D03imperial.genruntimeconfig.cache
+C:\Users\joris\source\repos\D03imperial\D03imperial\obj\Debug\net7.0\ref\D03imperial.dll

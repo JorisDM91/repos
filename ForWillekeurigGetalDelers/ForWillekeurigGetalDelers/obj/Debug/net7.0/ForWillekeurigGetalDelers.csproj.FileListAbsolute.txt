@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\ForWillekeurigGetalDelers\ForWillekeurigGetalDelers\bin\Debug\net7.0\ForWillekeurigGetalDelers.exe
+C:\Users\joris\source\repos\ForWillekeurigGetalDelers\ForWillekeurigGetalDelers\bin\Debug\net7.0\ForWillekeurigGetalDelers.deps.json
+C:\Users\joris\source\repos\ForWillekeurigGetalDelers\ForWillekeurigGetalDelers\bin\Debug\net7.0\ForWillekeurigGetalDelers.runtimeconfig.json
+C:\Users\joris\source\repos\ForWillekeurigGetalDelers\ForWillekeurigGetalDelers\bin\Debug\net7.0\ForWillekeurigGetalDelers.dll
+C:\Users\joris\source\repos\ForWillekeurigGetalDelers\ForWillekeurigGetalDelers\bin\Debug\net7.0\ForWillekeurigGetalDelers.pdb
+C:\Users\joris\source\repos\ForWillekeurigGetalDelers\ForWillekeurigGetalDelers\obj\Debug\net7.0\ForWillekeurigGetalDelers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\ForWillekeurigGetalDelers\ForWillekeurigGetalDelers\obj\Debug\net7.0\ForWillekeurigGetalDelers.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\ForWillekeurigGetalDelers\ForWillekeurigGetalDelers\obj\Debug\net7.0\ForWillekeurigGetalDelers.AssemblyInfo.cs
+C:\Users\joris\source\repos\ForWillekeurigGetalDelers\ForWillekeurigGetalDelers\obj\Debug\net7.0\ForWillekeurigGetalDelers.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\ForWillekeurigGetalDelers\ForWillekeurigGetalDelers\obj\Debug\net7.0\ForWillekeurigGetalDelers.dll
+C:\Users\joris\source\repos\ForWillekeurigGetalDelers\ForWillekeurigGetalDelers\obj\Debug\net7.0\refint\ForWillekeurigGetalDelers.dll
+C:\Users\joris\source\repos\ForWillekeurigGetalDelers\ForWillekeurigGetalDelers\obj\Debug\net7.0\ForWillekeurigGetalDelers.pdb
+C:\Users\joris\source\repos\ForWillekeurigGetalDelers\ForWillekeurigGetalDelers\obj\Debug\net7.0\ForWillekeurigGetalDelers.genruntimeconfig.cache
+C:\Users\joris\source\repos\ForWillekeurigGetalDelers\ForWillekeurigGetalDelers\obj\Debug\net7.0\ref\ForWillekeurigGetalDelers.dll

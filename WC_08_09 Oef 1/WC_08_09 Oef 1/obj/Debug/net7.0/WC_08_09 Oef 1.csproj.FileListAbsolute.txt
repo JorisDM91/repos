@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\WC_08_09 Oef 1\WC_08_09 Oef 1\bin\Debug\net7.0\WC_08_09 Oef 1.exe
+C:\Users\joris\source\repos\WC_08_09 Oef 1\WC_08_09 Oef 1\bin\Debug\net7.0\WC_08_09 Oef 1.deps.json
+C:\Users\joris\source\repos\WC_08_09 Oef 1\WC_08_09 Oef 1\bin\Debug\net7.0\WC_08_09 Oef 1.runtimeconfig.json
+C:\Users\joris\source\repos\WC_08_09 Oef 1\WC_08_09 Oef 1\bin\Debug\net7.0\WC_08_09 Oef 1.dll
+C:\Users\joris\source\repos\WC_08_09 Oef 1\WC_08_09 Oef 1\bin\Debug\net7.0\WC_08_09 Oef 1.pdb
+C:\Users\joris\source\repos\WC_08_09 Oef 1\WC_08_09 Oef 1\obj\Debug\net7.0\WC_08_09 Oef 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\WC_08_09 Oef 1\WC_08_09 Oef 1\obj\Debug\net7.0\WC_08_09 Oef 1.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\WC_08_09 Oef 1\WC_08_09 Oef 1\obj\Debug\net7.0\WC_08_09 Oef 1.AssemblyInfo.cs
+C:\Users\joris\source\repos\WC_08_09 Oef 1\WC_08_09 Oef 1\obj\Debug\net7.0\WC_08_09 Oef 1.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\WC_08_09 Oef 1\WC_08_09 Oef 1\obj\Debug\net7.0\WC_08_09 Oef 1.dll
+C:\Users\joris\source\repos\WC_08_09 Oef 1\WC_08_09 Oef 1\obj\Debug\net7.0\refint\WC_08_09 Oef 1.dll
+C:\Users\joris\source\repos\WC_08_09 Oef 1\WC_08_09 Oef 1\obj\Debug\net7.0\WC_08_09 Oef 1.pdb
+C:\Users\joris\source\repos\WC_08_09 Oef 1\WC_08_09 Oef 1\obj\Debug\net7.0\WC_08_09 Oef 1.genruntimeconfig.cache
+C:\Users\joris\source\repos\WC_08_09 Oef 1\WC_08_09 Oef 1\obj\Debug\net7.0\ref\WC_08_09 Oef 1.dll

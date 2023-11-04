@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D07veelvoudenvan9\D07veelvoudenvan9\bin\Debug\net7.0\D07veelvoudenvan9.exe
+C:\Users\joris\source\repos\D07veelvoudenvan9\D07veelvoudenvan9\bin\Debug\net7.0\D07veelvoudenvan9.deps.json
+C:\Users\joris\source\repos\D07veelvoudenvan9\D07veelvoudenvan9\bin\Debug\net7.0\D07veelvoudenvan9.runtimeconfig.json
+C:\Users\joris\source\repos\D07veelvoudenvan9\D07veelvoudenvan9\bin\Debug\net7.0\D07veelvoudenvan9.dll
+C:\Users\joris\source\repos\D07veelvoudenvan9\D07veelvoudenvan9\bin\Debug\net7.0\D07veelvoudenvan9.pdb
+C:\Users\joris\source\repos\D07veelvoudenvan9\D07veelvoudenvan9\obj\Debug\net7.0\D07veelvoudenvan9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D07veelvoudenvan9\D07veelvoudenvan9\obj\Debug\net7.0\D07veelvoudenvan9.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D07veelvoudenvan9\D07veelvoudenvan9\obj\Debug\net7.0\D07veelvoudenvan9.AssemblyInfo.cs
+C:\Users\joris\source\repos\D07veelvoudenvan9\D07veelvoudenvan9\obj\Debug\net7.0\D07veelvoudenvan9.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D07veelvoudenvan9\D07veelvoudenvan9\obj\Debug\net7.0\D07veelvoudenvan9.dll
+C:\Users\joris\source\repos\D07veelvoudenvan9\D07veelvoudenvan9\obj\Debug\net7.0\refint\D07veelvoudenvan9.dll
+C:\Users\joris\source\repos\D07veelvoudenvan9\D07veelvoudenvan9\obj\Debug\net7.0\D07veelvoudenvan9.pdb
+C:\Users\joris\source\repos\D07veelvoudenvan9\D07veelvoudenvan9\obj\Debug\net7.0\D07veelvoudenvan9.genruntimeconfig.cache
+C:\Users\joris\source\repos\D07veelvoudenvan9\D07veelvoudenvan9\obj\Debug\net7.0\ref\D07veelvoudenvan9.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "WC_0809 Oef6 Euromillions.cs/1.0.0": {
+        "runtime": {
+          "WC_0809 Oef6 Euromillions.cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WC_0809 Oef6 Euromillions.cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "RaadHetGetal/1.0.0": {
+        "runtime": {
+          "RaadHetGetal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RaadHetGetal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

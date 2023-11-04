@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\ForAlleLettersAlfabet\ForAlleLettersAlfabet\bin\Debug\net7.0\ForAlleLettersAlfabet.exe
+C:\Users\joris\source\repos\ForAlleLettersAlfabet\ForAlleLettersAlfabet\bin\Debug\net7.0\ForAlleLettersAlfabet.deps.json
+C:\Users\joris\source\repos\ForAlleLettersAlfabet\ForAlleLettersAlfabet\bin\Debug\net7.0\ForAlleLettersAlfabet.runtimeconfig.json
+C:\Users\joris\source\repos\ForAlleLettersAlfabet\ForAlleLettersAlfabet\bin\Debug\net7.0\ForAlleLettersAlfabet.dll
+C:\Users\joris\source\repos\ForAlleLettersAlfabet\ForAlleLettersAlfabet\bin\Debug\net7.0\ForAlleLettersAlfabet.pdb
+C:\Users\joris\source\repos\ForAlleLettersAlfabet\ForAlleLettersAlfabet\obj\Debug\net7.0\ForAlleLettersAlfabet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\ForAlleLettersAlfabet\ForAlleLettersAlfabet\obj\Debug\net7.0\ForAlleLettersAlfabet.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\ForAlleLettersAlfabet\ForAlleLettersAlfabet\obj\Debug\net7.0\ForAlleLettersAlfabet.AssemblyInfo.cs
+C:\Users\joris\source\repos\ForAlleLettersAlfabet\ForAlleLettersAlfabet\obj\Debug\net7.0\ForAlleLettersAlfabet.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\ForAlleLettersAlfabet\ForAlleLettersAlfabet\obj\Debug\net7.0\ForAlleLettersAlfabet.dll
+C:\Users\joris\source\repos\ForAlleLettersAlfabet\ForAlleLettersAlfabet\obj\Debug\net7.0\refint\ForAlleLettersAlfabet.dll
+C:\Users\joris\source\repos\ForAlleLettersAlfabet\ForAlleLettersAlfabet\obj\Debug\net7.0\ForAlleLettersAlfabet.pdb
+C:\Users\joris\source\repos\ForAlleLettersAlfabet\ForAlleLettersAlfabet\obj\Debug\net7.0\ForAlleLettersAlfabet.genruntimeconfig.cache
+C:\Users\joris\source\repos\ForAlleLettersAlfabet\ForAlleLettersAlfabet\obj\Debug\net7.0\ref\ForAlleLettersAlfabet.dll

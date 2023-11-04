@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\WerkcollegeD5-D6oef8.Kilometers\WerkcollegeD5-D6oef8.Kilometers\bin\Debug\net7.0\WerkcollegeD5-D6oef8.Kilometers.exe
+C:\Users\joris\source\repos\WerkcollegeD5-D6oef8.Kilometers\WerkcollegeD5-D6oef8.Kilometers\bin\Debug\net7.0\WerkcollegeD5-D6oef8.Kilometers.deps.json
+C:\Users\joris\source\repos\WerkcollegeD5-D6oef8.Kilometers\WerkcollegeD5-D6oef8.Kilometers\bin\Debug\net7.0\WerkcollegeD5-D6oef8.Kilometers.runtimeconfig.json
+C:\Users\joris\source\repos\WerkcollegeD5-D6oef8.Kilometers\WerkcollegeD5-D6oef8.Kilometers\bin\Debug\net7.0\WerkcollegeD5-D6oef8.Kilometers.dll
+C:\Users\joris\source\repos\WerkcollegeD5-D6oef8.Kilometers\WerkcollegeD5-D6oef8.Kilometers\bin\Debug\net7.0\WerkcollegeD5-D6oef8.Kilometers.pdb
+C:\Users\joris\source\repos\WerkcollegeD5-D6oef8.Kilometers\WerkcollegeD5-D6oef8.Kilometers\obj\Debug\net7.0\WerkcollegeD5-D6oef8.Kilometers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\WerkcollegeD5-D6oef8.Kilometers\WerkcollegeD5-D6oef8.Kilometers\obj\Debug\net7.0\WerkcollegeD5-D6oef8.Kilometers.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\WerkcollegeD5-D6oef8.Kilometers\WerkcollegeD5-D6oef8.Kilometers\obj\Debug\net7.0\WerkcollegeD5-D6oef8.Kilometers.AssemblyInfo.cs
+C:\Users\joris\source\repos\WerkcollegeD5-D6oef8.Kilometers\WerkcollegeD5-D6oef8.Kilometers\obj\Debug\net7.0\WerkcollegeD5-D6oef8.Kilometers.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\WerkcollegeD5-D6oef8.Kilometers\WerkcollegeD5-D6oef8.Kilometers\obj\Debug\net7.0\WerkcollegeD5-D6oef8.Kilometers.dll
+C:\Users\joris\source\repos\WerkcollegeD5-D6oef8.Kilometers\WerkcollegeD5-D6oef8.Kilometers\obj\Debug\net7.0\refint\WerkcollegeD5-D6oef8.Kilometers.dll
+C:\Users\joris\source\repos\WerkcollegeD5-D6oef8.Kilometers\WerkcollegeD5-D6oef8.Kilometers\obj\Debug\net7.0\WerkcollegeD5-D6oef8.Kilometers.pdb
+C:\Users\joris\source\repos\WerkcollegeD5-D6oef8.Kilometers\WerkcollegeD5-D6oef8.Kilometers\obj\Debug\net7.0\WerkcollegeD5-D6oef8.Kilometers.genruntimeconfig.cache
+C:\Users\joris\source\repos\WerkcollegeD5-D6oef8.Kilometers\WerkcollegeD5-D6oef8.Kilometers\obj\Debug\net7.0\ref\WerkcollegeD5-D6oef8.Kilometers.dll

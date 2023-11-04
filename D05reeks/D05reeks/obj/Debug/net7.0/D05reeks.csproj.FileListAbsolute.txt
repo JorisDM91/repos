@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D05reeks\D05reeks\bin\Debug\net7.0\D05reeks.exe
+C:\Users\joris\source\repos\D05reeks\D05reeks\bin\Debug\net7.0\D05reeks.deps.json
+C:\Users\joris\source\repos\D05reeks\D05reeks\bin\Debug\net7.0\D05reeks.runtimeconfig.json
+C:\Users\joris\source\repos\D05reeks\D05reeks\bin\Debug\net7.0\D05reeks.dll
+C:\Users\joris\source\repos\D05reeks\D05reeks\bin\Debug\net7.0\D05reeks.pdb
+C:\Users\joris\source\repos\D05reeks\D05reeks\obj\Debug\net7.0\D05reeks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D05reeks\D05reeks\obj\Debug\net7.0\D05reeks.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D05reeks\D05reeks\obj\Debug\net7.0\D05reeks.AssemblyInfo.cs
+C:\Users\joris\source\repos\D05reeks\D05reeks\obj\Debug\net7.0\D05reeks.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D05reeks\D05reeks\obj\Debug\net7.0\D05reeks.dll
+C:\Users\joris\source\repos\D05reeks\D05reeks\obj\Debug\net7.0\refint\D05reeks.dll
+C:\Users\joris\source\repos\D05reeks\D05reeks\obj\Debug\net7.0\D05reeks.pdb
+C:\Users\joris\source\repos\D05reeks\D05reeks\obj\Debug\net7.0\D05reeks.genruntimeconfig.cache
+C:\Users\joris\source\repos\D05reeks\D05reeks\obj\Debug\net7.0\ref\D05reeks.dll

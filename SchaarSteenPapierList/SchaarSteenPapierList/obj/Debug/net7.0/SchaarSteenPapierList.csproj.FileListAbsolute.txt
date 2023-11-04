@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\SchaarSteenPapierList\SchaarSteenPapierList\bin\Debug\net7.0\SchaarSteenPapierList.exe
+C:\Users\joris\source\repos\SchaarSteenPapierList\SchaarSteenPapierList\bin\Debug\net7.0\SchaarSteenPapierList.deps.json
+C:\Users\joris\source\repos\SchaarSteenPapierList\SchaarSteenPapierList\bin\Debug\net7.0\SchaarSteenPapierList.runtimeconfig.json
+C:\Users\joris\source\repos\SchaarSteenPapierList\SchaarSteenPapierList\bin\Debug\net7.0\SchaarSteenPapierList.dll
+C:\Users\joris\source\repos\SchaarSteenPapierList\SchaarSteenPapierList\bin\Debug\net7.0\SchaarSteenPapierList.pdb
+C:\Users\joris\source\repos\SchaarSteenPapierList\SchaarSteenPapierList\obj\Debug\net7.0\SchaarSteenPapierList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\SchaarSteenPapierList\SchaarSteenPapierList\obj\Debug\net7.0\SchaarSteenPapierList.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\SchaarSteenPapierList\SchaarSteenPapierList\obj\Debug\net7.0\SchaarSteenPapierList.AssemblyInfo.cs
+C:\Users\joris\source\repos\SchaarSteenPapierList\SchaarSteenPapierList\obj\Debug\net7.0\SchaarSteenPapierList.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\SchaarSteenPapierList\SchaarSteenPapierList\obj\Debug\net7.0\SchaarSteenPapierList.dll
+C:\Users\joris\source\repos\SchaarSteenPapierList\SchaarSteenPapierList\obj\Debug\net7.0\refint\SchaarSteenPapierList.dll
+C:\Users\joris\source\repos\SchaarSteenPapierList\SchaarSteenPapierList\obj\Debug\net7.0\SchaarSteenPapierList.pdb
+C:\Users\joris\source\repos\SchaarSteenPapierList\SchaarSteenPapierList\obj\Debug\net7.0\SchaarSteenPapierList.genruntimeconfig.cache
+C:\Users\joris\source\repos\SchaarSteenPapierList\SchaarSteenPapierList\obj\Debug\net7.0\ref\SchaarSteenPapierList.dll

@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D09getalfrequentie\D09getalfrequentie\bin\Debug\net7.0\D09getalfrequentie.exe
+C:\Users\joris\source\repos\D09getalfrequentie\D09getalfrequentie\bin\Debug\net7.0\D09getalfrequentie.deps.json
+C:\Users\joris\source\repos\D09getalfrequentie\D09getalfrequentie\bin\Debug\net7.0\D09getalfrequentie.runtimeconfig.json
+C:\Users\joris\source\repos\D09getalfrequentie\D09getalfrequentie\bin\Debug\net7.0\D09getalfrequentie.dll
+C:\Users\joris\source\repos\D09getalfrequentie\D09getalfrequentie\bin\Debug\net7.0\D09getalfrequentie.pdb
+C:\Users\joris\source\repos\D09getalfrequentie\D09getalfrequentie\obj\Debug\net7.0\D09getalfrequentie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D09getalfrequentie\D09getalfrequentie\obj\Debug\net7.0\D09getalfrequentie.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D09getalfrequentie\D09getalfrequentie\obj\Debug\net7.0\D09getalfrequentie.AssemblyInfo.cs
+C:\Users\joris\source\repos\D09getalfrequentie\D09getalfrequentie\obj\Debug\net7.0\D09getalfrequentie.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D09getalfrequentie\D09getalfrequentie\obj\Debug\net7.0\D09getalfrequentie.dll
+C:\Users\joris\source\repos\D09getalfrequentie\D09getalfrequentie\obj\Debug\net7.0\refint\D09getalfrequentie.dll
+C:\Users\joris\source\repos\D09getalfrequentie\D09getalfrequentie\obj\Debug\net7.0\D09getalfrequentie.pdb
+C:\Users\joris\source\repos\D09getalfrequentie\D09getalfrequentie\obj\Debug\net7.0\D09getalfrequentie.genruntimeconfig.cache
+C:\Users\joris\source\repos\D09getalfrequentie\D09getalfrequentie\obj\Debug\net7.0\ref\D09getalfrequentie.dll

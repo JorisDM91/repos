@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D09zoekdier\D09zoekdier\bin\Debug\net7.0\D09zoekdier.exe
+C:\Users\joris\source\repos\D09zoekdier\D09zoekdier\bin\Debug\net7.0\D09zoekdier.deps.json
+C:\Users\joris\source\repos\D09zoekdier\D09zoekdier\bin\Debug\net7.0\D09zoekdier.runtimeconfig.json
+C:\Users\joris\source\repos\D09zoekdier\D09zoekdier\bin\Debug\net7.0\D09zoekdier.dll
+C:\Users\joris\source\repos\D09zoekdier\D09zoekdier\bin\Debug\net7.0\D09zoekdier.pdb
+C:\Users\joris\source\repos\D09zoekdier\D09zoekdier\obj\Debug\net7.0\D09zoekdier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D09zoekdier\D09zoekdier\obj\Debug\net7.0\D09zoekdier.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D09zoekdier\D09zoekdier\obj\Debug\net7.0\D09zoekdier.AssemblyInfo.cs
+C:\Users\joris\source\repos\D09zoekdier\D09zoekdier\obj\Debug\net7.0\D09zoekdier.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D09zoekdier\D09zoekdier\obj\Debug\net7.0\D09zoekdier.dll
+C:\Users\joris\source\repos\D09zoekdier\D09zoekdier\obj\Debug\net7.0\refint\D09zoekdier.dll
+C:\Users\joris\source\repos\D09zoekdier\D09zoekdier\obj\Debug\net7.0\D09zoekdier.pdb
+C:\Users\joris\source\repos\D09zoekdier\D09zoekdier\obj\Debug\net7.0\D09zoekdier.genruntimeconfig.cache
+C:\Users\joris\source\repos\D09zoekdier\D09zoekdier\obj\Debug\net7.0\ref\D09zoekdier.dll

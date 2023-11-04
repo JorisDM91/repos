@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D08dagnummer\D08dagnummer\bin\Debug\net7.0\D08dagnummer.exe
+C:\Users\joris\source\repos\D08dagnummer\D08dagnummer\bin\Debug\net7.0\D08dagnummer.deps.json
+C:\Users\joris\source\repos\D08dagnummer\D08dagnummer\bin\Debug\net7.0\D08dagnummer.runtimeconfig.json
+C:\Users\joris\source\repos\D08dagnummer\D08dagnummer\bin\Debug\net7.0\D08dagnummer.dll
+C:\Users\joris\source\repos\D08dagnummer\D08dagnummer\bin\Debug\net7.0\D08dagnummer.pdb
+C:\Users\joris\source\repos\D08dagnummer\D08dagnummer\obj\Debug\net7.0\D08dagnummer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D08dagnummer\D08dagnummer\obj\Debug\net7.0\D08dagnummer.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D08dagnummer\D08dagnummer\obj\Debug\net7.0\D08dagnummer.AssemblyInfo.cs
+C:\Users\joris\source\repos\D08dagnummer\D08dagnummer\obj\Debug\net7.0\D08dagnummer.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D08dagnummer\D08dagnummer\obj\Debug\net7.0\D08dagnummer.dll
+C:\Users\joris\source\repos\D08dagnummer\D08dagnummer\obj\Debug\net7.0\refint\D08dagnummer.dll
+C:\Users\joris\source\repos\D08dagnummer\D08dagnummer\obj\Debug\net7.0\D08dagnummer.pdb
+C:\Users\joris\source\repos\D08dagnummer\D08dagnummer\obj\Debug\net7.0\D08dagnummer.genruntimeconfig.cache
+C:\Users\joris\source\repos\D08dagnummer\D08dagnummer\obj\Debug\net7.0\ref\D08dagnummer.dll

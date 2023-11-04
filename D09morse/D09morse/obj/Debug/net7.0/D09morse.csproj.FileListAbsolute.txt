@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D09morse\D09morse\bin\Debug\net7.0\D09morse.exe
+C:\Users\joris\source\repos\D09morse\D09morse\bin\Debug\net7.0\D09morse.deps.json
+C:\Users\joris\source\repos\D09morse\D09morse\bin\Debug\net7.0\D09morse.runtimeconfig.json
+C:\Users\joris\source\repos\D09morse\D09morse\bin\Debug\net7.0\D09morse.dll
+C:\Users\joris\source\repos\D09morse\D09morse\bin\Debug\net7.0\D09morse.pdb
+C:\Users\joris\source\repos\D09morse\D09morse\obj\Debug\net7.0\D09morse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D09morse\D09morse\obj\Debug\net7.0\D09morse.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D09morse\D09morse\obj\Debug\net7.0\D09morse.AssemblyInfo.cs
+C:\Users\joris\source\repos\D09morse\D09morse\obj\Debug\net7.0\D09morse.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D09morse\D09morse\obj\Debug\net7.0\D09morse.dll
+C:\Users\joris\source\repos\D09morse\D09morse\obj\Debug\net7.0\refint\D09morse.dll
+C:\Users\joris\source\repos\D09morse\D09morse\obj\Debug\net7.0\D09morse.pdb
+C:\Users\joris\source\repos\D09morse\D09morse\obj\Debug\net7.0\D09morse.genruntimeconfig.cache
+C:\Users\joris\source\repos\D09morse\D09morse\obj\Debug\net7.0\ref\D09morse.dll

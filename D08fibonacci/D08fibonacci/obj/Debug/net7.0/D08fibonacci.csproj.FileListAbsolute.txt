@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D08fibonacci\D08fibonacci\bin\Debug\net7.0\D08fibonacci.exe
+C:\Users\joris\source\repos\D08fibonacci\D08fibonacci\bin\Debug\net7.0\D08fibonacci.deps.json
+C:\Users\joris\source\repos\D08fibonacci\D08fibonacci\bin\Debug\net7.0\D08fibonacci.runtimeconfig.json
+C:\Users\joris\source\repos\D08fibonacci\D08fibonacci\bin\Debug\net7.0\D08fibonacci.dll
+C:\Users\joris\source\repos\D08fibonacci\D08fibonacci\bin\Debug\net7.0\D08fibonacci.pdb
+C:\Users\joris\source\repos\D08fibonacci\D08fibonacci\obj\Debug\net7.0\D08fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D08fibonacci\D08fibonacci\obj\Debug\net7.0\D08fibonacci.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D08fibonacci\D08fibonacci\obj\Debug\net7.0\D08fibonacci.AssemblyInfo.cs
+C:\Users\joris\source\repos\D08fibonacci\D08fibonacci\obj\Debug\net7.0\D08fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D08fibonacci\D08fibonacci\obj\Debug\net7.0\D08fibonacci.dll
+C:\Users\joris\source\repos\D08fibonacci\D08fibonacci\obj\Debug\net7.0\refint\D08fibonacci.dll
+C:\Users\joris\source\repos\D08fibonacci\D08fibonacci\obj\Debug\net7.0\D08fibonacci.pdb
+C:\Users\joris\source\repos\D08fibonacci\D08fibonacci\obj\Debug\net7.0\D08fibonacci.genruntimeconfig.cache
+C:\Users\joris\source\repos\D08fibonacci\D08fibonacci\obj\Debug\net7.0\ref\D08fibonacci.dll

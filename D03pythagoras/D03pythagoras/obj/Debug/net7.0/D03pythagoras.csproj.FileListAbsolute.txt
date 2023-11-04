@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D03pythagoras\D03pythagoras\bin\Debug\net7.0\D03pythagoras.exe
+C:\Users\joris\source\repos\D03pythagoras\D03pythagoras\bin\Debug\net7.0\D03pythagoras.deps.json
+C:\Users\joris\source\repos\D03pythagoras\D03pythagoras\bin\Debug\net7.0\D03pythagoras.runtimeconfig.json
+C:\Users\joris\source\repos\D03pythagoras\D03pythagoras\bin\Debug\net7.0\D03pythagoras.dll
+C:\Users\joris\source\repos\D03pythagoras\D03pythagoras\bin\Debug\net7.0\D03pythagoras.pdb
+C:\Users\joris\source\repos\D03pythagoras\D03pythagoras\obj\Debug\net7.0\D03pythagoras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D03pythagoras\D03pythagoras\obj\Debug\net7.0\D03pythagoras.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D03pythagoras\D03pythagoras\obj\Debug\net7.0\D03pythagoras.AssemblyInfo.cs
+C:\Users\joris\source\repos\D03pythagoras\D03pythagoras\obj\Debug\net7.0\D03pythagoras.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D03pythagoras\D03pythagoras\obj\Debug\net7.0\D03pythagoras.dll
+C:\Users\joris\source\repos\D03pythagoras\D03pythagoras\obj\Debug\net7.0\refint\D03pythagoras.dll
+C:\Users\joris\source\repos\D03pythagoras\D03pythagoras\obj\Debug\net7.0\D03pythagoras.pdb
+C:\Users\joris\source\repos\D03pythagoras\D03pythagoras\obj\Debug\net7.0\D03pythagoras.genruntimeconfig.cache
+C:\Users\joris\source\repos\D03pythagoras\D03pythagoras\obj\Debug\net7.0\ref\D03pythagoras.dll

@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\MethodBerekenAantalStappen\MethodBerekenAantalStappen\bin\Debug\net7.0\MethodBerekenAantalStappen.exe
+C:\Users\joris\source\repos\MethodBerekenAantalStappen\MethodBerekenAantalStappen\bin\Debug\net7.0\MethodBerekenAantalStappen.deps.json
+C:\Users\joris\source\repos\MethodBerekenAantalStappen\MethodBerekenAantalStappen\bin\Debug\net7.0\MethodBerekenAantalStappen.runtimeconfig.json
+C:\Users\joris\source\repos\MethodBerekenAantalStappen\MethodBerekenAantalStappen\bin\Debug\net7.0\MethodBerekenAantalStappen.dll
+C:\Users\joris\source\repos\MethodBerekenAantalStappen\MethodBerekenAantalStappen\bin\Debug\net7.0\MethodBerekenAantalStappen.pdb
+C:\Users\joris\source\repos\MethodBerekenAantalStappen\MethodBerekenAantalStappen\obj\Debug\net7.0\MethodBerekenAantalStappen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\MethodBerekenAantalStappen\MethodBerekenAantalStappen\obj\Debug\net7.0\MethodBerekenAantalStappen.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\MethodBerekenAantalStappen\MethodBerekenAantalStappen\obj\Debug\net7.0\MethodBerekenAantalStappen.AssemblyInfo.cs
+C:\Users\joris\source\repos\MethodBerekenAantalStappen\MethodBerekenAantalStappen\obj\Debug\net7.0\MethodBerekenAantalStappen.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\MethodBerekenAantalStappen\MethodBerekenAantalStappen\obj\Debug\net7.0\MethodBerekenAantalStappen.dll
+C:\Users\joris\source\repos\MethodBerekenAantalStappen\MethodBerekenAantalStappen\obj\Debug\net7.0\refint\MethodBerekenAantalStappen.dll
+C:\Users\joris\source\repos\MethodBerekenAantalStappen\MethodBerekenAantalStappen\obj\Debug\net7.0\MethodBerekenAantalStappen.pdb
+C:\Users\joris\source\repos\MethodBerekenAantalStappen\MethodBerekenAantalStappen\obj\Debug\net7.0\MethodBerekenAantalStappen.genruntimeconfig.cache
+C:\Users\joris\source\repos\MethodBerekenAantalStappen\MethodBerekenAantalStappen\obj\Debug\net7.0\ref\MethodBerekenAantalStappen.dll

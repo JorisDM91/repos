@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D08dagen\D08dagen\bin\Debug\net7.0\D08dagen.exe
+C:\Users\joris\source\repos\D08dagen\D08dagen\bin\Debug\net7.0\D08dagen.deps.json
+C:\Users\joris\source\repos\D08dagen\D08dagen\bin\Debug\net7.0\D08dagen.runtimeconfig.json
+C:\Users\joris\source\repos\D08dagen\D08dagen\bin\Debug\net7.0\D08dagen.dll
+C:\Users\joris\source\repos\D08dagen\D08dagen\bin\Debug\net7.0\D08dagen.pdb
+C:\Users\joris\source\repos\D08dagen\D08dagen\obj\Debug\net7.0\D08dagen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D08dagen\D08dagen\obj\Debug\net7.0\D08dagen.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D08dagen\D08dagen\obj\Debug\net7.0\D08dagen.AssemblyInfo.cs
+C:\Users\joris\source\repos\D08dagen\D08dagen\obj\Debug\net7.0\D08dagen.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D08dagen\D08dagen\obj\Debug\net7.0\D08dagen.dll
+C:\Users\joris\source\repos\D08dagen\D08dagen\obj\Debug\net7.0\refint\D08dagen.dll
+C:\Users\joris\source\repos\D08dagen\D08dagen\obj\Debug\net7.0\D08dagen.pdb
+C:\Users\joris\source\repos\D08dagen\D08dagen\obj\Debug\net7.0\D08dagen.genruntimeconfig.cache
+C:\Users\joris\source\repos\D08dagen\D08dagen\obj\Debug\net7.0\ref\D08dagen.dll

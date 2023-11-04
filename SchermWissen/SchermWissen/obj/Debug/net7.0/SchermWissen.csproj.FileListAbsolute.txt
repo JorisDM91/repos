@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\SchermWissen\SchermWissen\bin\Debug\net7.0\SchermWissen.exe
+C:\Users\joris\source\repos\SchermWissen\SchermWissen\bin\Debug\net7.0\SchermWissen.deps.json
+C:\Users\joris\source\repos\SchermWissen\SchermWissen\bin\Debug\net7.0\SchermWissen.runtimeconfig.json
+C:\Users\joris\source\repos\SchermWissen\SchermWissen\bin\Debug\net7.0\SchermWissen.dll
+C:\Users\joris\source\repos\SchermWissen\SchermWissen\bin\Debug\net7.0\SchermWissen.pdb
+C:\Users\joris\source\repos\SchermWissen\SchermWissen\obj\Debug\net7.0\SchermWissen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\SchermWissen\SchermWissen\obj\Debug\net7.0\SchermWissen.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\SchermWissen\SchermWissen\obj\Debug\net7.0\SchermWissen.AssemblyInfo.cs
+C:\Users\joris\source\repos\SchermWissen\SchermWissen\obj\Debug\net7.0\SchermWissen.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\SchermWissen\SchermWissen\obj\Debug\net7.0\SchermWissen.dll
+C:\Users\joris\source\repos\SchermWissen\SchermWissen\obj\Debug\net7.0\refint\SchermWissen.dll
+C:\Users\joris\source\repos\SchermWissen\SchermWissen\obj\Debug\net7.0\SchermWissen.pdb
+C:\Users\joris\source\repos\SchermWissen\SchermWissen\obj\Debug\net7.0\SchermWissen.genruntimeconfig.cache
+C:\Users\joris\source\repos\SchermWissen\SchermWissen\obj\Debug\net7.0\ref\SchermWissen.dll

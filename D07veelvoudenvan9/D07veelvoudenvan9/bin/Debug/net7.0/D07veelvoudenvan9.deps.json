@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "D07veelvoudenvan9/1.0.0": {
+        "runtime": {
+          "D07veelvoudenvan9.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "D07veelvoudenvan9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

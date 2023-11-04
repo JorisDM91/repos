@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\WerkcollegeD05WCSchildwacht\WerkcollegeD05WCSchildwacht\bin\Debug\net7.0\WerkcollegeD05WCSchildwacht.exe
+C:\Users\joris\source\repos\WerkcollegeD05WCSchildwacht\WerkcollegeD05WCSchildwacht\bin\Debug\net7.0\WerkcollegeD05WCSchildwacht.deps.json
+C:\Users\joris\source\repos\WerkcollegeD05WCSchildwacht\WerkcollegeD05WCSchildwacht\bin\Debug\net7.0\WerkcollegeD05WCSchildwacht.runtimeconfig.json
+C:\Users\joris\source\repos\WerkcollegeD05WCSchildwacht\WerkcollegeD05WCSchildwacht\bin\Debug\net7.0\WerkcollegeD05WCSchildwacht.dll
+C:\Users\joris\source\repos\WerkcollegeD05WCSchildwacht\WerkcollegeD05WCSchildwacht\bin\Debug\net7.0\WerkcollegeD05WCSchildwacht.pdb
+C:\Users\joris\source\repos\WerkcollegeD05WCSchildwacht\WerkcollegeD05WCSchildwacht\obj\Debug\net7.0\WerkcollegeD05WCSchildwacht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\WerkcollegeD05WCSchildwacht\WerkcollegeD05WCSchildwacht\obj\Debug\net7.0\WerkcollegeD05WCSchildwacht.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\WerkcollegeD05WCSchildwacht\WerkcollegeD05WCSchildwacht\obj\Debug\net7.0\WerkcollegeD05WCSchildwacht.AssemblyInfo.cs
+C:\Users\joris\source\repos\WerkcollegeD05WCSchildwacht\WerkcollegeD05WCSchildwacht\obj\Debug\net7.0\WerkcollegeD05WCSchildwacht.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\WerkcollegeD05WCSchildwacht\WerkcollegeD05WCSchildwacht\obj\Debug\net7.0\WerkcollegeD05WCSchildwacht.dll
+C:\Users\joris\source\repos\WerkcollegeD05WCSchildwacht\WerkcollegeD05WCSchildwacht\obj\Debug\net7.0\refint\WerkcollegeD05WCSchildwacht.dll
+C:\Users\joris\source\repos\WerkcollegeD05WCSchildwacht\WerkcollegeD05WCSchildwacht\obj\Debug\net7.0\WerkcollegeD05WCSchildwacht.pdb
+C:\Users\joris\source\repos\WerkcollegeD05WCSchildwacht\WerkcollegeD05WCSchildwacht\obj\Debug\net7.0\WerkcollegeD05WCSchildwacht.genruntimeconfig.cache
+C:\Users\joris\source\repos\WerkcollegeD05WCSchildwacht\WerkcollegeD05WCSchildwacht\obj\Debug\net7.0\ref\WerkcollegeD05WCSchildwacht.dll

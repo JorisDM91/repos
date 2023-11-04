@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D03traceerpersecondewijzer\D03traceerpersecondewijzer\bin\Debug\net7.0\D03traceerpersecondewijzer.exe
+C:\Users\joris\source\repos\D03traceerpersecondewijzer\D03traceerpersecondewijzer\bin\Debug\net7.0\D03traceerpersecondewijzer.deps.json
+C:\Users\joris\source\repos\D03traceerpersecondewijzer\D03traceerpersecondewijzer\bin\Debug\net7.0\D03traceerpersecondewijzer.runtimeconfig.json
+C:\Users\joris\source\repos\D03traceerpersecondewijzer\D03traceerpersecondewijzer\bin\Debug\net7.0\D03traceerpersecondewijzer.dll
+C:\Users\joris\source\repos\D03traceerpersecondewijzer\D03traceerpersecondewijzer\bin\Debug\net7.0\D03traceerpersecondewijzer.pdb
+C:\Users\joris\source\repos\D03traceerpersecondewijzer\D03traceerpersecondewijzer\obj\Debug\net7.0\D03traceerpersecondewijzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D03traceerpersecondewijzer\D03traceerpersecondewijzer\obj\Debug\net7.0\D03traceerpersecondewijzer.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D03traceerpersecondewijzer\D03traceerpersecondewijzer\obj\Debug\net7.0\D03traceerpersecondewijzer.AssemblyInfo.cs
+C:\Users\joris\source\repos\D03traceerpersecondewijzer\D03traceerpersecondewijzer\obj\Debug\net7.0\D03traceerpersecondewijzer.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D03traceerpersecondewijzer\D03traceerpersecondewijzer\obj\Debug\net7.0\D03traceerpersecondewijzer.dll
+C:\Users\joris\source\repos\D03traceerpersecondewijzer\D03traceerpersecondewijzer\obj\Debug\net7.0\refint\D03traceerpersecondewijzer.dll
+C:\Users\joris\source\repos\D03traceerpersecondewijzer\D03traceerpersecondewijzer\obj\Debug\net7.0\D03traceerpersecondewijzer.pdb
+C:\Users\joris\source\repos\D03traceerpersecondewijzer\D03traceerpersecondewijzer\obj\Debug\net7.0\D03traceerpersecondewijzer.genruntimeconfig.cache
+C:\Users\joris\source\repos\D03traceerpersecondewijzer\D03traceerpersecondewijzer\obj\Debug\net7.0\ref\D03traceerpersecondewijzer.dll

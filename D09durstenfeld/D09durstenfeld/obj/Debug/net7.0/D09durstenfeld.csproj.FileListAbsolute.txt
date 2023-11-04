@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D09durstenfeld\D09durstenfeld\bin\Debug\net7.0\D09durstenfeld.exe
+C:\Users\joris\source\repos\D09durstenfeld\D09durstenfeld\bin\Debug\net7.0\D09durstenfeld.deps.json
+C:\Users\joris\source\repos\D09durstenfeld\D09durstenfeld\bin\Debug\net7.0\D09durstenfeld.runtimeconfig.json
+C:\Users\joris\source\repos\D09durstenfeld\D09durstenfeld\bin\Debug\net7.0\D09durstenfeld.dll
+C:\Users\joris\source\repos\D09durstenfeld\D09durstenfeld\bin\Debug\net7.0\D09durstenfeld.pdb
+C:\Users\joris\source\repos\D09durstenfeld\D09durstenfeld\obj\Debug\net7.0\D09durstenfeld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D09durstenfeld\D09durstenfeld\obj\Debug\net7.0\D09durstenfeld.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D09durstenfeld\D09durstenfeld\obj\Debug\net7.0\D09durstenfeld.AssemblyInfo.cs
+C:\Users\joris\source\repos\D09durstenfeld\D09durstenfeld\obj\Debug\net7.0\D09durstenfeld.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D09durstenfeld\D09durstenfeld\obj\Debug\net7.0\D09durstenfeld.dll
+C:\Users\joris\source\repos\D09durstenfeld\D09durstenfeld\obj\Debug\net7.0\refint\D09durstenfeld.dll
+C:\Users\joris\source\repos\D09durstenfeld\D09durstenfeld\obj\Debug\net7.0\D09durstenfeld.pdb
+C:\Users\joris\source\repos\D09durstenfeld\D09durstenfeld\obj\Debug\net7.0\D09durstenfeld.genruntimeconfig.cache
+C:\Users\joris\source\repos\D09durstenfeld\D09durstenfeld\obj\Debug\net7.0\ref\D09durstenfeld.dll

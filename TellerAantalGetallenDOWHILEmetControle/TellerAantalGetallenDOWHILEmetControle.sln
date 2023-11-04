@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TellerAantalGetallenDOWHILEmetControle", "TellerAantalGetallenDOWHILEmetControle\TellerAantalGetallenDOWHILEmetControle.csproj", "{E59715A1-C364-47C5-A6EF-93622AC19553}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E59715A1-C364-47C5-A6EF-93622AC19553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E59715A1-C364-47C5-A6EF-93622AC19553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E59715A1-C364-47C5-A6EF-93622AC19553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E59715A1-C364-47C5-A6EF-93622AC19553}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F989F71-F297-4BB5-98FA-511C0CB70906}
+	EndGlobalSection
+EndGlobal

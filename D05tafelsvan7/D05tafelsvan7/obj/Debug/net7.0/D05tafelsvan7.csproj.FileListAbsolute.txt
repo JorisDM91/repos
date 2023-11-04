@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D05tafelsvan7\D05tafelsvan7\bin\Debug\net7.0\D05tafelsvan7.exe
+C:\Users\joris\source\repos\D05tafelsvan7\D05tafelsvan7\bin\Debug\net7.0\D05tafelsvan7.deps.json
+C:\Users\joris\source\repos\D05tafelsvan7\D05tafelsvan7\bin\Debug\net7.0\D05tafelsvan7.runtimeconfig.json
+C:\Users\joris\source\repos\D05tafelsvan7\D05tafelsvan7\bin\Debug\net7.0\D05tafelsvan7.dll
+C:\Users\joris\source\repos\D05tafelsvan7\D05tafelsvan7\bin\Debug\net7.0\D05tafelsvan7.pdb
+C:\Users\joris\source\repos\D05tafelsvan7\D05tafelsvan7\obj\Debug\net7.0\D05tafelsvan7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D05tafelsvan7\D05tafelsvan7\obj\Debug\net7.0\D05tafelsvan7.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D05tafelsvan7\D05tafelsvan7\obj\Debug\net7.0\D05tafelsvan7.AssemblyInfo.cs
+C:\Users\joris\source\repos\D05tafelsvan7\D05tafelsvan7\obj\Debug\net7.0\D05tafelsvan7.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D05tafelsvan7\D05tafelsvan7\obj\Debug\net7.0\D05tafelsvan7.dll
+C:\Users\joris\source\repos\D05tafelsvan7\D05tafelsvan7\obj\Debug\net7.0\refint\D05tafelsvan7.dll
+C:\Users\joris\source\repos\D05tafelsvan7\D05tafelsvan7\obj\Debug\net7.0\D05tafelsvan7.pdb
+C:\Users\joris\source\repos\D05tafelsvan7\D05tafelsvan7\obj\Debug\net7.0\D05tafelsvan7.genruntimeconfig.cache
+C:\Users\joris\source\repos\D05tafelsvan7\D05tafelsvan7\obj\Debug\net7.0\ref\D05tafelsvan7.dll

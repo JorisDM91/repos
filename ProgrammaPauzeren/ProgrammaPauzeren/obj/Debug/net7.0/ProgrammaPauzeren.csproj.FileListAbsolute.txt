@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\ProgrammaPauzeren\ProgrammaPauzeren\bin\Debug\net7.0\ProgrammaPauzeren.exe
+C:\Users\joris\source\repos\ProgrammaPauzeren\ProgrammaPauzeren\bin\Debug\net7.0\ProgrammaPauzeren.deps.json
+C:\Users\joris\source\repos\ProgrammaPauzeren\ProgrammaPauzeren\bin\Debug\net7.0\ProgrammaPauzeren.runtimeconfig.json
+C:\Users\joris\source\repos\ProgrammaPauzeren\ProgrammaPauzeren\bin\Debug\net7.0\ProgrammaPauzeren.dll
+C:\Users\joris\source\repos\ProgrammaPauzeren\ProgrammaPauzeren\bin\Debug\net7.0\ProgrammaPauzeren.pdb
+C:\Users\joris\source\repos\ProgrammaPauzeren\ProgrammaPauzeren\obj\Debug\net7.0\ProgrammaPauzeren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\ProgrammaPauzeren\ProgrammaPauzeren\obj\Debug\net7.0\ProgrammaPauzeren.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\ProgrammaPauzeren\ProgrammaPauzeren\obj\Debug\net7.0\ProgrammaPauzeren.AssemblyInfo.cs
+C:\Users\joris\source\repos\ProgrammaPauzeren\ProgrammaPauzeren\obj\Debug\net7.0\ProgrammaPauzeren.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\ProgrammaPauzeren\ProgrammaPauzeren\obj\Debug\net7.0\ProgrammaPauzeren.dll
+C:\Users\joris\source\repos\ProgrammaPauzeren\ProgrammaPauzeren\obj\Debug\net7.0\refint\ProgrammaPauzeren.dll
+C:\Users\joris\source\repos\ProgrammaPauzeren\ProgrammaPauzeren\obj\Debug\net7.0\ProgrammaPauzeren.pdb
+C:\Users\joris\source\repos\ProgrammaPauzeren\ProgrammaPauzeren\obj\Debug\net7.0\ProgrammaPauzeren.genruntimeconfig.cache
+C:\Users\joris\source\repos\ProgrammaPauzeren\ProgrammaPauzeren\obj\Debug\net7.0\ref\ProgrammaPauzeren.dll

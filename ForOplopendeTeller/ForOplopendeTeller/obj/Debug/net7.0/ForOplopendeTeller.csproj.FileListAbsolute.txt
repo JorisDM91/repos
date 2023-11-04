@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\ForOplopendeTeller\ForOplopendeTeller\bin\Debug\net7.0\ForOplopendeTeller.exe
+C:\Users\joris\source\repos\ForOplopendeTeller\ForOplopendeTeller\bin\Debug\net7.0\ForOplopendeTeller.deps.json
+C:\Users\joris\source\repos\ForOplopendeTeller\ForOplopendeTeller\bin\Debug\net7.0\ForOplopendeTeller.runtimeconfig.json
+C:\Users\joris\source\repos\ForOplopendeTeller\ForOplopendeTeller\bin\Debug\net7.0\ForOplopendeTeller.dll
+C:\Users\joris\source\repos\ForOplopendeTeller\ForOplopendeTeller\bin\Debug\net7.0\ForOplopendeTeller.pdb
+C:\Users\joris\source\repos\ForOplopendeTeller\ForOplopendeTeller\obj\Debug\net7.0\ForOplopendeTeller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\ForOplopendeTeller\ForOplopendeTeller\obj\Debug\net7.0\ForOplopendeTeller.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\ForOplopendeTeller\ForOplopendeTeller\obj\Debug\net7.0\ForOplopendeTeller.AssemblyInfo.cs
+C:\Users\joris\source\repos\ForOplopendeTeller\ForOplopendeTeller\obj\Debug\net7.0\ForOplopendeTeller.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\ForOplopendeTeller\ForOplopendeTeller\obj\Debug\net7.0\ForOplopendeTeller.dll
+C:\Users\joris\source\repos\ForOplopendeTeller\ForOplopendeTeller\obj\Debug\net7.0\refint\ForOplopendeTeller.dll
+C:\Users\joris\source\repos\ForOplopendeTeller\ForOplopendeTeller\obj\Debug\net7.0\ForOplopendeTeller.pdb
+C:\Users\joris\source\repos\ForOplopendeTeller\ForOplopendeTeller\obj\Debug\net7.0\ForOplopendeTeller.genruntimeconfig.cache
+C:\Users\joris\source\repos\ForOplopendeTeller\ForOplopendeTeller\obj\Debug\net7.0\ref\ForOplopendeTeller.dll

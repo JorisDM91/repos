@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D06voorspeloutput\D06voorspeloutput\bin\Debug\net7.0\D06voorspeloutput.exe
+C:\Users\joris\source\repos\D06voorspeloutput\D06voorspeloutput\bin\Debug\net7.0\D06voorspeloutput.deps.json
+C:\Users\joris\source\repos\D06voorspeloutput\D06voorspeloutput\bin\Debug\net7.0\D06voorspeloutput.runtimeconfig.json
+C:\Users\joris\source\repos\D06voorspeloutput\D06voorspeloutput\bin\Debug\net7.0\D06voorspeloutput.dll
+C:\Users\joris\source\repos\D06voorspeloutput\D06voorspeloutput\bin\Debug\net7.0\D06voorspeloutput.pdb
+C:\Users\joris\source\repos\D06voorspeloutput\D06voorspeloutput\obj\Debug\net7.0\D06voorspeloutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D06voorspeloutput\D06voorspeloutput\obj\Debug\net7.0\D06voorspeloutput.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D06voorspeloutput\D06voorspeloutput\obj\Debug\net7.0\D06voorspeloutput.AssemblyInfo.cs
+C:\Users\joris\source\repos\D06voorspeloutput\D06voorspeloutput\obj\Debug\net7.0\D06voorspeloutput.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D06voorspeloutput\D06voorspeloutput\obj\Debug\net7.0\D06voorspeloutput.dll
+C:\Users\joris\source\repos\D06voorspeloutput\D06voorspeloutput\obj\Debug\net7.0\refint\D06voorspeloutput.dll
+C:\Users\joris\source\repos\D06voorspeloutput\D06voorspeloutput\obj\Debug\net7.0\D06voorspeloutput.pdb
+C:\Users\joris\source\repos\D06voorspeloutput\D06voorspeloutput\obj\Debug\net7.0\D06voorspeloutput.genruntimeconfig.cache
+C:\Users\joris\source\repos\D06voorspeloutput\D06voorspeloutput\obj\Debug\net7.0\ref\D06voorspeloutput.dll

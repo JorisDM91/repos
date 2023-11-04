@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D06getallentussen20en30\D06getallentussen20en30\bin\Debug\net7.0\D06getallentussen20en30.exe
+C:\Users\joris\source\repos\D06getallentussen20en30\D06getallentussen20en30\bin\Debug\net7.0\D06getallentussen20en30.deps.json
+C:\Users\joris\source\repos\D06getallentussen20en30\D06getallentussen20en30\bin\Debug\net7.0\D06getallentussen20en30.runtimeconfig.json
+C:\Users\joris\source\repos\D06getallentussen20en30\D06getallentussen20en30\bin\Debug\net7.0\D06getallentussen20en30.dll
+C:\Users\joris\source\repos\D06getallentussen20en30\D06getallentussen20en30\bin\Debug\net7.0\D06getallentussen20en30.pdb
+C:\Users\joris\source\repos\D06getallentussen20en30\D06getallentussen20en30\obj\Debug\net7.0\D06getallentussen20en30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D06getallentussen20en30\D06getallentussen20en30\obj\Debug\net7.0\D06getallentussen20en30.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D06getallentussen20en30\D06getallentussen20en30\obj\Debug\net7.0\D06getallentussen20en30.AssemblyInfo.cs
+C:\Users\joris\source\repos\D06getallentussen20en30\D06getallentussen20en30\obj\Debug\net7.0\D06getallentussen20en30.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D06getallentussen20en30\D06getallentussen20en30\obj\Debug\net7.0\D06getallentussen20en30.dll
+C:\Users\joris\source\repos\D06getallentussen20en30\D06getallentussen20en30\obj\Debug\net7.0\refint\D06getallentussen20en30.dll
+C:\Users\joris\source\repos\D06getallentussen20en30\D06getallentussen20en30\obj\Debug\net7.0\D06getallentussen20en30.pdb
+C:\Users\joris\source\repos\D06getallentussen20en30\D06getallentussen20en30\obj\Debug\net7.0\D06getallentussen20en30.genruntimeconfig.cache
+C:\Users\joris\source\repos\D06getallentussen20en30\D06getallentussen20en30\obj\Debug\net7.0\ref\D06getallentussen20en30.dll

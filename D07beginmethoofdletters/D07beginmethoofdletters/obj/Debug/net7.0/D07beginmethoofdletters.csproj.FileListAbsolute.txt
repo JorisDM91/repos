@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D07beginmethoofdletters\D07beginmethoofdletters\bin\Debug\net7.0\D07beginmethoofdletters.exe
+C:\Users\joris\source\repos\D07beginmethoofdletters\D07beginmethoofdletters\bin\Debug\net7.0\D07beginmethoofdletters.deps.json
+C:\Users\joris\source\repos\D07beginmethoofdletters\D07beginmethoofdletters\bin\Debug\net7.0\D07beginmethoofdletters.runtimeconfig.json
+C:\Users\joris\source\repos\D07beginmethoofdletters\D07beginmethoofdletters\bin\Debug\net7.0\D07beginmethoofdletters.dll
+C:\Users\joris\source\repos\D07beginmethoofdletters\D07beginmethoofdletters\bin\Debug\net7.0\D07beginmethoofdletters.pdb
+C:\Users\joris\source\repos\D07beginmethoofdletters\D07beginmethoofdletters\obj\Debug\net7.0\D07beginmethoofdletters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D07beginmethoofdletters\D07beginmethoofdletters\obj\Debug\net7.0\D07beginmethoofdletters.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D07beginmethoofdletters\D07beginmethoofdletters\obj\Debug\net7.0\D07beginmethoofdletters.AssemblyInfo.cs
+C:\Users\joris\source\repos\D07beginmethoofdletters\D07beginmethoofdletters\obj\Debug\net7.0\D07beginmethoofdletters.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D07beginmethoofdletters\D07beginmethoofdletters\obj\Debug\net7.0\D07beginmethoofdletters.dll
+C:\Users\joris\source\repos\D07beginmethoofdletters\D07beginmethoofdletters\obj\Debug\net7.0\refint\D07beginmethoofdletters.dll
+C:\Users\joris\source\repos\D07beginmethoofdletters\D07beginmethoofdletters\obj\Debug\net7.0\D07beginmethoofdletters.pdb
+C:\Users\joris\source\repos\D07beginmethoofdletters\D07beginmethoofdletters\obj\Debug\net7.0\D07beginmethoofdletters.genruntimeconfig.cache
+C:\Users\joris\source\repos\D07beginmethoofdletters\D07beginmethoofdletters\obj\Debug\net7.0\ref\D07beginmethoofdletters.dll

@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D05Vierkant\D05Vierkant\bin\Debug\net7.0\D05Vierkant.exe
+C:\Users\joris\source\repos\D05Vierkant\D05Vierkant\bin\Debug\net7.0\D05Vierkant.deps.json
+C:\Users\joris\source\repos\D05Vierkant\D05Vierkant\bin\Debug\net7.0\D05Vierkant.runtimeconfig.json
+C:\Users\joris\source\repos\D05Vierkant\D05Vierkant\bin\Debug\net7.0\D05Vierkant.dll
+C:\Users\joris\source\repos\D05Vierkant\D05Vierkant\bin\Debug\net7.0\D05Vierkant.pdb
+C:\Users\joris\source\repos\D05Vierkant\D05Vierkant\obj\Debug\net7.0\D05Vierkant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D05Vierkant\D05Vierkant\obj\Debug\net7.0\D05Vierkant.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D05Vierkant\D05Vierkant\obj\Debug\net7.0\D05Vierkant.AssemblyInfo.cs
+C:\Users\joris\source\repos\D05Vierkant\D05Vierkant\obj\Debug\net7.0\D05Vierkant.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D05Vierkant\D05Vierkant\obj\Debug\net7.0\D05Vierkant.dll
+C:\Users\joris\source\repos\D05Vierkant\D05Vierkant\obj\Debug\net7.0\refint\D05Vierkant.dll
+C:\Users\joris\source\repos\D05Vierkant\D05Vierkant\obj\Debug\net7.0\D05Vierkant.pdb
+C:\Users\joris\source\repos\D05Vierkant\D05Vierkant\obj\Debug\net7.0\D05Vierkant.genruntimeconfig.cache
+C:\Users\joris\source\repos\D05Vierkant\D05Vierkant\obj\Debug\net7.0\ref\D05Vierkant.dll

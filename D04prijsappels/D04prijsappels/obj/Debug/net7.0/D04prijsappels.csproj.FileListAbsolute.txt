@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D04prijsappels\D04prijsappels\bin\Debug\net7.0\D04prijsappels.exe
+C:\Users\joris\source\repos\D04prijsappels\D04prijsappels\bin\Debug\net7.0\D04prijsappels.deps.json
+C:\Users\joris\source\repos\D04prijsappels\D04prijsappels\bin\Debug\net7.0\D04prijsappels.runtimeconfig.json
+C:\Users\joris\source\repos\D04prijsappels\D04prijsappels\bin\Debug\net7.0\D04prijsappels.dll
+C:\Users\joris\source\repos\D04prijsappels\D04prijsappels\bin\Debug\net7.0\D04prijsappels.pdb
+C:\Users\joris\source\repos\D04prijsappels\D04prijsappels\obj\Debug\net7.0\D04prijsappels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D04prijsappels\D04prijsappels\obj\Debug\net7.0\D04prijsappels.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D04prijsappels\D04prijsappels\obj\Debug\net7.0\D04prijsappels.AssemblyInfo.cs
+C:\Users\joris\source\repos\D04prijsappels\D04prijsappels\obj\Debug\net7.0\D04prijsappels.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D04prijsappels\D04prijsappels\obj\Debug\net7.0\D04prijsappels.dll
+C:\Users\joris\source\repos\D04prijsappels\D04prijsappels\obj\Debug\net7.0\refint\D04prijsappels.dll
+C:\Users\joris\source\repos\D04prijsappels\D04prijsappels\obj\Debug\net7.0\D04prijsappels.pdb
+C:\Users\joris\source\repos\D04prijsappels\D04prijsappels\obj\Debug\net7.0\D04prijsappels.genruntimeconfig.cache
+C:\Users\joris\source\repos\D04prijsappels\D04prijsappels\obj\Debug\net7.0\ref\D04prijsappels.dll

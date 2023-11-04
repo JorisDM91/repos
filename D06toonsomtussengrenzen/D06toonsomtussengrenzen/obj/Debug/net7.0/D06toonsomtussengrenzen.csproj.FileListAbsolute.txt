@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D06toonsomtussengrenzen\D06toonsomtussengrenzen\bin\Debug\net7.0\D06toonsomtussengrenzen.exe
+C:\Users\joris\source\repos\D06toonsomtussengrenzen\D06toonsomtussengrenzen\bin\Debug\net7.0\D06toonsomtussengrenzen.deps.json
+C:\Users\joris\source\repos\D06toonsomtussengrenzen\D06toonsomtussengrenzen\bin\Debug\net7.0\D06toonsomtussengrenzen.runtimeconfig.json
+C:\Users\joris\source\repos\D06toonsomtussengrenzen\D06toonsomtussengrenzen\bin\Debug\net7.0\D06toonsomtussengrenzen.dll
+C:\Users\joris\source\repos\D06toonsomtussengrenzen\D06toonsomtussengrenzen\bin\Debug\net7.0\D06toonsomtussengrenzen.pdb
+C:\Users\joris\source\repos\D06toonsomtussengrenzen\D06toonsomtussengrenzen\obj\Debug\net7.0\D06toonsomtussengrenzen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D06toonsomtussengrenzen\D06toonsomtussengrenzen\obj\Debug\net7.0\D06toonsomtussengrenzen.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D06toonsomtussengrenzen\D06toonsomtussengrenzen\obj\Debug\net7.0\D06toonsomtussengrenzen.AssemblyInfo.cs
+C:\Users\joris\source\repos\D06toonsomtussengrenzen\D06toonsomtussengrenzen\obj\Debug\net7.0\D06toonsomtussengrenzen.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D06toonsomtussengrenzen\D06toonsomtussengrenzen\obj\Debug\net7.0\D06toonsomtussengrenzen.dll
+C:\Users\joris\source\repos\D06toonsomtussengrenzen\D06toonsomtussengrenzen\obj\Debug\net7.0\refint\D06toonsomtussengrenzen.dll
+C:\Users\joris\source\repos\D06toonsomtussengrenzen\D06toonsomtussengrenzen\obj\Debug\net7.0\D06toonsomtussengrenzen.pdb
+C:\Users\joris\source\repos\D06toonsomtussengrenzen\D06toonsomtussengrenzen\obj\Debug\net7.0\D06toonsomtussengrenzen.genruntimeconfig.cache
+C:\Users\joris\source\repos\D06toonsomtussengrenzen\D06toonsomtussengrenzen\obj\Debug\net7.0\ref\D06toonsomtussengrenzen.dll

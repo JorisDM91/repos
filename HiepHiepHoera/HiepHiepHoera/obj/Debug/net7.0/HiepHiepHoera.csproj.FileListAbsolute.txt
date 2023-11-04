@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\HiepHiepHoera\HiepHiepHoera\bin\Debug\net7.0\HiepHiepHoera.exe
+C:\Users\joris\source\repos\HiepHiepHoera\HiepHiepHoera\bin\Debug\net7.0\HiepHiepHoera.deps.json
+C:\Users\joris\source\repos\HiepHiepHoera\HiepHiepHoera\bin\Debug\net7.0\HiepHiepHoera.runtimeconfig.json
+C:\Users\joris\source\repos\HiepHiepHoera\HiepHiepHoera\bin\Debug\net7.0\HiepHiepHoera.dll
+C:\Users\joris\source\repos\HiepHiepHoera\HiepHiepHoera\bin\Debug\net7.0\HiepHiepHoera.pdb
+C:\Users\joris\source\repos\HiepHiepHoera\HiepHiepHoera\obj\Debug\net7.0\HiepHiepHoera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\HiepHiepHoera\HiepHiepHoera\obj\Debug\net7.0\HiepHiepHoera.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\HiepHiepHoera\HiepHiepHoera\obj\Debug\net7.0\HiepHiepHoera.AssemblyInfo.cs
+C:\Users\joris\source\repos\HiepHiepHoera\HiepHiepHoera\obj\Debug\net7.0\HiepHiepHoera.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\HiepHiepHoera\HiepHiepHoera\obj\Debug\net7.0\HiepHiepHoera.dll
+C:\Users\joris\source\repos\HiepHiepHoera\HiepHiepHoera\obj\Debug\net7.0\refint\HiepHiepHoera.dll
+C:\Users\joris\source\repos\HiepHiepHoera\HiepHiepHoera\obj\Debug\net7.0\HiepHiepHoera.pdb
+C:\Users\joris\source\repos\HiepHiepHoera\HiepHiepHoera\obj\Debug\net7.0\HiepHiepHoera.genruntimeconfig.cache
+C:\Users\joris\source\repos\HiepHiepHoera\HiepHiepHoera\obj\Debug\net7.0\ref\HiepHiepHoera.dll

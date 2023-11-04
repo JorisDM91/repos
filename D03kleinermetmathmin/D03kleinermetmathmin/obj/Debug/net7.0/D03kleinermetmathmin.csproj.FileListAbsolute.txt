@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D03kleinermetmathmin\D03kleinermetmathmin\bin\Debug\net7.0\D03kleinermetmathmin.exe
+C:\Users\joris\source\repos\D03kleinermetmathmin\D03kleinermetmathmin\bin\Debug\net7.0\D03kleinermetmathmin.deps.json
+C:\Users\joris\source\repos\D03kleinermetmathmin\D03kleinermetmathmin\bin\Debug\net7.0\D03kleinermetmathmin.runtimeconfig.json
+C:\Users\joris\source\repos\D03kleinermetmathmin\D03kleinermetmathmin\bin\Debug\net7.0\D03kleinermetmathmin.dll
+C:\Users\joris\source\repos\D03kleinermetmathmin\D03kleinermetmathmin\bin\Debug\net7.0\D03kleinermetmathmin.pdb
+C:\Users\joris\source\repos\D03kleinermetmathmin\D03kleinermetmathmin\obj\Debug\net7.0\D03kleinermetmathmin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D03kleinermetmathmin\D03kleinermetmathmin\obj\Debug\net7.0\D03kleinermetmathmin.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D03kleinermetmathmin\D03kleinermetmathmin\obj\Debug\net7.0\D03kleinermetmathmin.AssemblyInfo.cs
+C:\Users\joris\source\repos\D03kleinermetmathmin\D03kleinermetmathmin\obj\Debug\net7.0\D03kleinermetmathmin.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D03kleinermetmathmin\D03kleinermetmathmin\obj\Debug\net7.0\D03kleinermetmathmin.dll
+C:\Users\joris\source\repos\D03kleinermetmathmin\D03kleinermetmathmin\obj\Debug\net7.0\refint\D03kleinermetmathmin.dll
+C:\Users\joris\source\repos\D03kleinermetmathmin\D03kleinermetmathmin\obj\Debug\net7.0\D03kleinermetmathmin.pdb
+C:\Users\joris\source\repos\D03kleinermetmathmin\D03kleinermetmathmin\obj\Debug\net7.0\D03kleinermetmathmin.genruntimeconfig.cache
+C:\Users\joris\source\repos\D03kleinermetmathmin\D03kleinermetmathmin\obj\Debug\net7.0\ref\D03kleinermetmathmin.dll

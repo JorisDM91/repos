@@ -1,0 +1,4 @@
+C:\Users\joris\source\repos\MethodOefeningen\MethodOefeningen\obj\Debug\net7.0\MethodOefeningen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\MethodOefeningen\MethodOefeningen\obj\Debug\net7.0\MethodOefeningen.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\MethodOefeningen\MethodOefeningen\obj\Debug\net7.0\MethodOefeningen.AssemblyInfo.cs
+C:\Users\joris\source\repos\MethodOefeningen\MethodOefeningen\obj\Debug\net7.0\MethodOefeningen.csproj.CoreCompileInputs.cache

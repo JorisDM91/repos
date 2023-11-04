@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\ArrayFrequency\ArrayFrequency\bin\Debug\net7.0\ArrayFrequency.exe
+C:\Users\joris\source\repos\ArrayFrequency\ArrayFrequency\bin\Debug\net7.0\ArrayFrequency.deps.json
+C:\Users\joris\source\repos\ArrayFrequency\ArrayFrequency\bin\Debug\net7.0\ArrayFrequency.runtimeconfig.json
+C:\Users\joris\source\repos\ArrayFrequency\ArrayFrequency\bin\Debug\net7.0\ArrayFrequency.dll
+C:\Users\joris\source\repos\ArrayFrequency\ArrayFrequency\bin\Debug\net7.0\ArrayFrequency.pdb
+C:\Users\joris\source\repos\ArrayFrequency\ArrayFrequency\obj\Debug\net7.0\ArrayFrequency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\ArrayFrequency\ArrayFrequency\obj\Debug\net7.0\ArrayFrequency.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\ArrayFrequency\ArrayFrequency\obj\Debug\net7.0\ArrayFrequency.AssemblyInfo.cs
+C:\Users\joris\source\repos\ArrayFrequency\ArrayFrequency\obj\Debug\net7.0\ArrayFrequency.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\ArrayFrequency\ArrayFrequency\obj\Debug\net7.0\ArrayFrequency.dll
+C:\Users\joris\source\repos\ArrayFrequency\ArrayFrequency\obj\Debug\net7.0\refint\ArrayFrequency.dll
+C:\Users\joris\source\repos\ArrayFrequency\ArrayFrequency\obj\Debug\net7.0\ArrayFrequency.pdb
+C:\Users\joris\source\repos\ArrayFrequency\ArrayFrequency\obj\Debug\net7.0\ArrayFrequency.genruntimeconfig.cache
+C:\Users\joris\source\repos\ArrayFrequency\ArrayFrequency\obj\Debug\net7.0\ref\ArrayFrequency.dll

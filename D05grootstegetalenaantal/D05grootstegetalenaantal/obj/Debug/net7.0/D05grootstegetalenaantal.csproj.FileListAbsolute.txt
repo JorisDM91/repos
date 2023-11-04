@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D05grootstegetalenaantal\D05grootstegetalenaantal\bin\Debug\net7.0\D05grootstegetalenaantal.exe
+C:\Users\joris\source\repos\D05grootstegetalenaantal\D05grootstegetalenaantal\bin\Debug\net7.0\D05grootstegetalenaantal.deps.json
+C:\Users\joris\source\repos\D05grootstegetalenaantal\D05grootstegetalenaantal\bin\Debug\net7.0\D05grootstegetalenaantal.runtimeconfig.json
+C:\Users\joris\source\repos\D05grootstegetalenaantal\D05grootstegetalenaantal\bin\Debug\net7.0\D05grootstegetalenaantal.dll
+C:\Users\joris\source\repos\D05grootstegetalenaantal\D05grootstegetalenaantal\bin\Debug\net7.0\D05grootstegetalenaantal.pdb
+C:\Users\joris\source\repos\D05grootstegetalenaantal\D05grootstegetalenaantal\obj\Debug\net7.0\D05grootstegetalenaantal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D05grootstegetalenaantal\D05grootstegetalenaantal\obj\Debug\net7.0\D05grootstegetalenaantal.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D05grootstegetalenaantal\D05grootstegetalenaantal\obj\Debug\net7.0\D05grootstegetalenaantal.AssemblyInfo.cs
+C:\Users\joris\source\repos\D05grootstegetalenaantal\D05grootstegetalenaantal\obj\Debug\net7.0\D05grootstegetalenaantal.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D05grootstegetalenaantal\D05grootstegetalenaantal\obj\Debug\net7.0\D05grootstegetalenaantal.dll
+C:\Users\joris\source\repos\D05grootstegetalenaantal\D05grootstegetalenaantal\obj\Debug\net7.0\refint\D05grootstegetalenaantal.dll
+C:\Users\joris\source\repos\D05grootstegetalenaantal\D05grootstegetalenaantal\obj\Debug\net7.0\D05grootstegetalenaantal.pdb
+C:\Users\joris\source\repos\D05grootstegetalenaantal\D05grootstegetalenaantal\obj\Debug\net7.0\D05grootstegetalenaantal.genruntimeconfig.cache
+C:\Users\joris\source\repos\D05grootstegetalenaantal\D05grootstegetalenaantal\obj\Debug\net7.0\ref\D05grootstegetalenaantal.dll

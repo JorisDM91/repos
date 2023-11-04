@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\WhileGrootsteKleinste\WhileGrootsteKleinste\bin\Debug\net7.0\WhileGrootsteKleinste.exe
+C:\Users\joris\source\repos\WhileGrootsteKleinste\WhileGrootsteKleinste\bin\Debug\net7.0\WhileGrootsteKleinste.deps.json
+C:\Users\joris\source\repos\WhileGrootsteKleinste\WhileGrootsteKleinste\bin\Debug\net7.0\WhileGrootsteKleinste.runtimeconfig.json
+C:\Users\joris\source\repos\WhileGrootsteKleinste\WhileGrootsteKleinste\bin\Debug\net7.0\WhileGrootsteKleinste.dll
+C:\Users\joris\source\repos\WhileGrootsteKleinste\WhileGrootsteKleinste\bin\Debug\net7.0\WhileGrootsteKleinste.pdb
+C:\Users\joris\source\repos\WhileGrootsteKleinste\WhileGrootsteKleinste\obj\Debug\net7.0\WhileGrootsteKleinste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\WhileGrootsteKleinste\WhileGrootsteKleinste\obj\Debug\net7.0\WhileGrootsteKleinste.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\WhileGrootsteKleinste\WhileGrootsteKleinste\obj\Debug\net7.0\WhileGrootsteKleinste.AssemblyInfo.cs
+C:\Users\joris\source\repos\WhileGrootsteKleinste\WhileGrootsteKleinste\obj\Debug\net7.0\WhileGrootsteKleinste.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\WhileGrootsteKleinste\WhileGrootsteKleinste\obj\Debug\net7.0\WhileGrootsteKleinste.dll
+C:\Users\joris\source\repos\WhileGrootsteKleinste\WhileGrootsteKleinste\obj\Debug\net7.0\refint\WhileGrootsteKleinste.dll
+C:\Users\joris\source\repos\WhileGrootsteKleinste\WhileGrootsteKleinste\obj\Debug\net7.0\WhileGrootsteKleinste.pdb
+C:\Users\joris\source\repos\WhileGrootsteKleinste\WhileGrootsteKleinste\obj\Debug\net7.0\WhileGrootsteKleinste.genruntimeconfig.cache
+C:\Users\joris\source\repos\WhileGrootsteKleinste\WhileGrootsteKleinste\obj\Debug\net7.0\ref\WhileGrootsteKleinste.dll

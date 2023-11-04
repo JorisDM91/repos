@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D05gemiddelde\D05gemiddelde\bin\Debug\net7.0\D05gemiddelde.exe
+C:\Users\joris\source\repos\D05gemiddelde\D05gemiddelde\bin\Debug\net7.0\D05gemiddelde.deps.json
+C:\Users\joris\source\repos\D05gemiddelde\D05gemiddelde\bin\Debug\net7.0\D05gemiddelde.runtimeconfig.json
+C:\Users\joris\source\repos\D05gemiddelde\D05gemiddelde\bin\Debug\net7.0\D05gemiddelde.dll
+C:\Users\joris\source\repos\D05gemiddelde\D05gemiddelde\bin\Debug\net7.0\D05gemiddelde.pdb
+C:\Users\joris\source\repos\D05gemiddelde\D05gemiddelde\obj\Debug\net7.0\D05gemiddelde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D05gemiddelde\D05gemiddelde\obj\Debug\net7.0\D05gemiddelde.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D05gemiddelde\D05gemiddelde\obj\Debug\net7.0\D05gemiddelde.AssemblyInfo.cs
+C:\Users\joris\source\repos\D05gemiddelde\D05gemiddelde\obj\Debug\net7.0\D05gemiddelde.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D05gemiddelde\D05gemiddelde\obj\Debug\net7.0\D05gemiddelde.dll
+C:\Users\joris\source\repos\D05gemiddelde\D05gemiddelde\obj\Debug\net7.0\refint\D05gemiddelde.dll
+C:\Users\joris\source\repos\D05gemiddelde\D05gemiddelde\obj\Debug\net7.0\D05gemiddelde.pdb
+C:\Users\joris\source\repos\D05gemiddelde\D05gemiddelde\obj\Debug\net7.0\D05gemiddelde.genruntimeconfig.cache
+C:\Users\joris\source\repos\D05gemiddelde\D05gemiddelde\obj\Debug\net7.0\ref\D05gemiddelde.dll

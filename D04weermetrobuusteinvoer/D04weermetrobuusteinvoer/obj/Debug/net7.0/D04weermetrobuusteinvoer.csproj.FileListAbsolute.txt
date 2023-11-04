@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D04weermetrobuusteinvoer\D04weermetrobuusteinvoer\obj\Debug\net7.0\D04weermetrobuusteinvoer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D04weermetrobuusteinvoer\D04weermetrobuusteinvoer\obj\Debug\net7.0\D04weermetrobuusteinvoer.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D04weermetrobuusteinvoer\D04weermetrobuusteinvoer\obj\Debug\net7.0\D04weermetrobuusteinvoer.AssemblyInfo.cs
+C:\Users\joris\source\repos\D04weermetrobuusteinvoer\D04weermetrobuusteinvoer\obj\Debug\net7.0\D04weermetrobuusteinvoer.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D04weermetrobuusteinvoer\D04weermetrobuusteinvoer\bin\Debug\net7.0\D04weermetrobuusteinvoer.exe
+C:\Users\joris\source\repos\D04weermetrobuusteinvoer\D04weermetrobuusteinvoer\bin\Debug\net7.0\D04weermetrobuusteinvoer.deps.json
+C:\Users\joris\source\repos\D04weermetrobuusteinvoer\D04weermetrobuusteinvoer\bin\Debug\net7.0\D04weermetrobuusteinvoer.runtimeconfig.json
+C:\Users\joris\source\repos\D04weermetrobuusteinvoer\D04weermetrobuusteinvoer\bin\Debug\net7.0\D04weermetrobuusteinvoer.dll
+C:\Users\joris\source\repos\D04weermetrobuusteinvoer\D04weermetrobuusteinvoer\bin\Debug\net7.0\D04weermetrobuusteinvoer.pdb
+C:\Users\joris\source\repos\D04weermetrobuusteinvoer\D04weermetrobuusteinvoer\obj\Debug\net7.0\D04weermetrobuusteinvoer.dll
+C:\Users\joris\source\repos\D04weermetrobuusteinvoer\D04weermetrobuusteinvoer\obj\Debug\net7.0\refint\D04weermetrobuusteinvoer.dll
+C:\Users\joris\source\repos\D04weermetrobuusteinvoer\D04weermetrobuusteinvoer\obj\Debug\net7.0\D04weermetrobuusteinvoer.pdb
+C:\Users\joris\source\repos\D04weermetrobuusteinvoer\D04weermetrobuusteinvoer\obj\Debug\net7.0\D04weermetrobuusteinvoer.genruntimeconfig.cache
+C:\Users\joris\source\repos\D04weermetrobuusteinvoer\D04weermetrobuusteinvoer\obj\Debug\net7.0\ref\D04weermetrobuusteinvoer.dll

@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D08omgekeerdevolgordehoeveel\D08omgekeerdevolgordehoeveel\bin\Debug\net7.0\D08omgekeerdevolgordehoeveel.exe
+C:\Users\joris\source\repos\D08omgekeerdevolgordehoeveel\D08omgekeerdevolgordehoeveel\bin\Debug\net7.0\D08omgekeerdevolgordehoeveel.deps.json
+C:\Users\joris\source\repos\D08omgekeerdevolgordehoeveel\D08omgekeerdevolgordehoeveel\bin\Debug\net7.0\D08omgekeerdevolgordehoeveel.runtimeconfig.json
+C:\Users\joris\source\repos\D08omgekeerdevolgordehoeveel\D08omgekeerdevolgordehoeveel\bin\Debug\net7.0\D08omgekeerdevolgordehoeveel.dll
+C:\Users\joris\source\repos\D08omgekeerdevolgordehoeveel\D08omgekeerdevolgordehoeveel\bin\Debug\net7.0\D08omgekeerdevolgordehoeveel.pdb
+C:\Users\joris\source\repos\D08omgekeerdevolgordehoeveel\D08omgekeerdevolgordehoeveel\obj\Debug\net7.0\D08omgekeerdevolgordehoeveel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D08omgekeerdevolgordehoeveel\D08omgekeerdevolgordehoeveel\obj\Debug\net7.0\D08omgekeerdevolgordehoeveel.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D08omgekeerdevolgordehoeveel\D08omgekeerdevolgordehoeveel\obj\Debug\net7.0\D08omgekeerdevolgordehoeveel.AssemblyInfo.cs
+C:\Users\joris\source\repos\D08omgekeerdevolgordehoeveel\D08omgekeerdevolgordehoeveel\obj\Debug\net7.0\D08omgekeerdevolgordehoeveel.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D08omgekeerdevolgordehoeveel\D08omgekeerdevolgordehoeveel\obj\Debug\net7.0\D08omgekeerdevolgordehoeveel.dll
+C:\Users\joris\source\repos\D08omgekeerdevolgordehoeveel\D08omgekeerdevolgordehoeveel\obj\Debug\net7.0\refint\D08omgekeerdevolgordehoeveel.dll
+C:\Users\joris\source\repos\D08omgekeerdevolgordehoeveel\D08omgekeerdevolgordehoeveel\obj\Debug\net7.0\D08omgekeerdevolgordehoeveel.pdb
+C:\Users\joris\source\repos\D08omgekeerdevolgordehoeveel\D08omgekeerdevolgordehoeveel\obj\Debug\net7.0\D08omgekeerdevolgordehoeveel.genruntimeconfig.cache
+C:\Users\joris\source\repos\D08omgekeerdevolgordehoeveel\D08omgekeerdevolgordehoeveel\obj\Debug\net7.0\ref\D08omgekeerdevolgordehoeveel.dll

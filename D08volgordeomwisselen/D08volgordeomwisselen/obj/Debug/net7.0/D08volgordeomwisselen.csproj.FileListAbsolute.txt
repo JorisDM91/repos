@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D08volgordeomwisselen\D08volgordeomwisselen\bin\Debug\net7.0\D08volgordeomwisselen.exe
+C:\Users\joris\source\repos\D08volgordeomwisselen\D08volgordeomwisselen\bin\Debug\net7.0\D08volgordeomwisselen.deps.json
+C:\Users\joris\source\repos\D08volgordeomwisselen\D08volgordeomwisselen\bin\Debug\net7.0\D08volgordeomwisselen.runtimeconfig.json
+C:\Users\joris\source\repos\D08volgordeomwisselen\D08volgordeomwisselen\bin\Debug\net7.0\D08volgordeomwisselen.dll
+C:\Users\joris\source\repos\D08volgordeomwisselen\D08volgordeomwisselen\bin\Debug\net7.0\D08volgordeomwisselen.pdb
+C:\Users\joris\source\repos\D08volgordeomwisselen\D08volgordeomwisselen\obj\Debug\net7.0\D08volgordeomwisselen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D08volgordeomwisselen\D08volgordeomwisselen\obj\Debug\net7.0\D08volgordeomwisselen.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D08volgordeomwisselen\D08volgordeomwisselen\obj\Debug\net7.0\D08volgordeomwisselen.AssemblyInfo.cs
+C:\Users\joris\source\repos\D08volgordeomwisselen\D08volgordeomwisselen\obj\Debug\net7.0\D08volgordeomwisselen.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D08volgordeomwisselen\D08volgordeomwisselen\obj\Debug\net7.0\D08volgordeomwisselen.dll
+C:\Users\joris\source\repos\D08volgordeomwisselen\D08volgordeomwisselen\obj\Debug\net7.0\refint\D08volgordeomwisselen.dll
+C:\Users\joris\source\repos\D08volgordeomwisselen\D08volgordeomwisselen\obj\Debug\net7.0\D08volgordeomwisselen.pdb
+C:\Users\joris\source\repos\D08volgordeomwisselen\D08volgordeomwisselen\obj\Debug\net7.0\D08volgordeomwisselen.genruntimeconfig.cache
+C:\Users\joris\source\repos\D08volgordeomwisselen\D08volgordeomwisselen\obj\Debug\net7.0\ref\D08volgordeomwisselen.dll

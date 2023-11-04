@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D03getalraden\D03getalraden\bin\Debug\net7.0\D03getalraden.exe
+C:\Users\joris\source\repos\D03getalraden\D03getalraden\bin\Debug\net7.0\D03getalraden.deps.json
+C:\Users\joris\source\repos\D03getalraden\D03getalraden\bin\Debug\net7.0\D03getalraden.runtimeconfig.json
+C:\Users\joris\source\repos\D03getalraden\D03getalraden\bin\Debug\net7.0\D03getalraden.dll
+C:\Users\joris\source\repos\D03getalraden\D03getalraden\bin\Debug\net7.0\D03getalraden.pdb
+C:\Users\joris\source\repos\D03getalraden\D03getalraden\obj\Debug\net7.0\D03getalraden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D03getalraden\D03getalraden\obj\Debug\net7.0\D03getalraden.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D03getalraden\D03getalraden\obj\Debug\net7.0\D03getalraden.AssemblyInfo.cs
+C:\Users\joris\source\repos\D03getalraden\D03getalraden\obj\Debug\net7.0\D03getalraden.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D03getalraden\D03getalraden\obj\Debug\net7.0\D03getalraden.dll
+C:\Users\joris\source\repos\D03getalraden\D03getalraden\obj\Debug\net7.0\refint\D03getalraden.dll
+C:\Users\joris\source\repos\D03getalraden\D03getalraden\obj\Debug\net7.0\D03getalraden.pdb
+C:\Users\joris\source\repos\D03getalraden\D03getalraden\obj\Debug\net7.0\D03getalraden.genruntimeconfig.cache
+C:\Users\joris\source\repos\D03getalraden\D03getalraden\obj\Debug\net7.0\ref\D03getalraden.dll

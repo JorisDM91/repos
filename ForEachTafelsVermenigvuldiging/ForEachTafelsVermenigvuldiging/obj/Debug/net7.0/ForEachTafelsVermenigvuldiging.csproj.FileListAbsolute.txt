@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\ForEachTafelsVermenigvuldiging\ForEachTafelsVermenigvuldiging\bin\Debug\net7.0\ForEachTafelsVermenigvuldiging.exe
+C:\Users\joris\source\repos\ForEachTafelsVermenigvuldiging\ForEachTafelsVermenigvuldiging\bin\Debug\net7.0\ForEachTafelsVermenigvuldiging.deps.json
+C:\Users\joris\source\repos\ForEachTafelsVermenigvuldiging\ForEachTafelsVermenigvuldiging\bin\Debug\net7.0\ForEachTafelsVermenigvuldiging.runtimeconfig.json
+C:\Users\joris\source\repos\ForEachTafelsVermenigvuldiging\ForEachTafelsVermenigvuldiging\bin\Debug\net7.0\ForEachTafelsVermenigvuldiging.dll
+C:\Users\joris\source\repos\ForEachTafelsVermenigvuldiging\ForEachTafelsVermenigvuldiging\bin\Debug\net7.0\ForEachTafelsVermenigvuldiging.pdb
+C:\Users\joris\source\repos\ForEachTafelsVermenigvuldiging\ForEachTafelsVermenigvuldiging\obj\Debug\net7.0\ForEachTafelsVermenigvuldiging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\ForEachTafelsVermenigvuldiging\ForEachTafelsVermenigvuldiging\obj\Debug\net7.0\ForEachTafelsVermenigvuldiging.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\ForEachTafelsVermenigvuldiging\ForEachTafelsVermenigvuldiging\obj\Debug\net7.0\ForEachTafelsVermenigvuldiging.AssemblyInfo.cs
+C:\Users\joris\source\repos\ForEachTafelsVermenigvuldiging\ForEachTafelsVermenigvuldiging\obj\Debug\net7.0\ForEachTafelsVermenigvuldiging.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\ForEachTafelsVermenigvuldiging\ForEachTafelsVermenigvuldiging\obj\Debug\net7.0\ForEachTafelsVermenigvuldiging.dll
+C:\Users\joris\source\repos\ForEachTafelsVermenigvuldiging\ForEachTafelsVermenigvuldiging\obj\Debug\net7.0\refint\ForEachTafelsVermenigvuldiging.dll
+C:\Users\joris\source\repos\ForEachTafelsVermenigvuldiging\ForEachTafelsVermenigvuldiging\obj\Debug\net7.0\ForEachTafelsVermenigvuldiging.pdb
+C:\Users\joris\source\repos\ForEachTafelsVermenigvuldiging\ForEachTafelsVermenigvuldiging\obj\Debug\net7.0\ForEachTafelsVermenigvuldiging.genruntimeconfig.cache
+C:\Users\joris\source\repos\ForEachTafelsVermenigvuldiging\ForEachTafelsVermenigvuldiging\obj\Debug\net7.0\ref\ForEachTafelsVermenigvuldiging.dll

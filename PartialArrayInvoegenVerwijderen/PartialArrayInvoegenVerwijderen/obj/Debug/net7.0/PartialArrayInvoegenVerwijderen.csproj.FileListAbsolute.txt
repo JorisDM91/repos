@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\PartialArrayInvoegenVerwijderen\PartialArrayInvoegenVerwijderen\bin\Debug\net7.0\PartialArrayInvoegenVerwijderen.exe
+C:\Users\joris\source\repos\PartialArrayInvoegenVerwijderen\PartialArrayInvoegenVerwijderen\bin\Debug\net7.0\PartialArrayInvoegenVerwijderen.deps.json
+C:\Users\joris\source\repos\PartialArrayInvoegenVerwijderen\PartialArrayInvoegenVerwijderen\bin\Debug\net7.0\PartialArrayInvoegenVerwijderen.runtimeconfig.json
+C:\Users\joris\source\repos\PartialArrayInvoegenVerwijderen\PartialArrayInvoegenVerwijderen\bin\Debug\net7.0\PartialArrayInvoegenVerwijderen.dll
+C:\Users\joris\source\repos\PartialArrayInvoegenVerwijderen\PartialArrayInvoegenVerwijderen\bin\Debug\net7.0\PartialArrayInvoegenVerwijderen.pdb
+C:\Users\joris\source\repos\PartialArrayInvoegenVerwijderen\PartialArrayInvoegenVerwijderen\obj\Debug\net7.0\PartialArrayInvoegenVerwijderen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\PartialArrayInvoegenVerwijderen\PartialArrayInvoegenVerwijderen\obj\Debug\net7.0\PartialArrayInvoegenVerwijderen.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\PartialArrayInvoegenVerwijderen\PartialArrayInvoegenVerwijderen\obj\Debug\net7.0\PartialArrayInvoegenVerwijderen.AssemblyInfo.cs
+C:\Users\joris\source\repos\PartialArrayInvoegenVerwijderen\PartialArrayInvoegenVerwijderen\obj\Debug\net7.0\PartialArrayInvoegenVerwijderen.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\PartialArrayInvoegenVerwijderen\PartialArrayInvoegenVerwijderen\obj\Debug\net7.0\PartialArrayInvoegenVerwijderen.dll
+C:\Users\joris\source\repos\PartialArrayInvoegenVerwijderen\PartialArrayInvoegenVerwijderen\obj\Debug\net7.0\refint\PartialArrayInvoegenVerwijderen.dll
+C:\Users\joris\source\repos\PartialArrayInvoegenVerwijderen\PartialArrayInvoegenVerwijderen\obj\Debug\net7.0\PartialArrayInvoegenVerwijderen.pdb
+C:\Users\joris\source\repos\PartialArrayInvoegenVerwijderen\PartialArrayInvoegenVerwijderen\obj\Debug\net7.0\PartialArrayInvoegenVerwijderen.genruntimeconfig.cache
+C:\Users\joris\source\repos\PartialArrayInvoegenVerwijderen\PartialArrayInvoegenVerwijderen\obj\Debug\net7.0\ref\PartialArrayInvoegenVerwijderen.dll

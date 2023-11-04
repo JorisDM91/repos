@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D09censuuruitbreiding\D09censuuruitbreiding\bin\Debug\net7.0\D09censuuruitbreiding.exe
+C:\Users\joris\source\repos\D09censuuruitbreiding\D09censuuruitbreiding\bin\Debug\net7.0\D09censuuruitbreiding.deps.json
+C:\Users\joris\source\repos\D09censuuruitbreiding\D09censuuruitbreiding\bin\Debug\net7.0\D09censuuruitbreiding.runtimeconfig.json
+C:\Users\joris\source\repos\D09censuuruitbreiding\D09censuuruitbreiding\bin\Debug\net7.0\D09censuuruitbreiding.dll
+C:\Users\joris\source\repos\D09censuuruitbreiding\D09censuuruitbreiding\bin\Debug\net7.0\D09censuuruitbreiding.pdb
+C:\Users\joris\source\repos\D09censuuruitbreiding\D09censuuruitbreiding\obj\Debug\net7.0\D09censuuruitbreiding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D09censuuruitbreiding\D09censuuruitbreiding\obj\Debug\net7.0\D09censuuruitbreiding.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D09censuuruitbreiding\D09censuuruitbreiding\obj\Debug\net7.0\D09censuuruitbreiding.AssemblyInfo.cs
+C:\Users\joris\source\repos\D09censuuruitbreiding\D09censuuruitbreiding\obj\Debug\net7.0\D09censuuruitbreiding.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D09censuuruitbreiding\D09censuuruitbreiding\obj\Debug\net7.0\D09censuuruitbreiding.dll
+C:\Users\joris\source\repos\D09censuuruitbreiding\D09censuuruitbreiding\obj\Debug\net7.0\refint\D09censuuruitbreiding.dll
+C:\Users\joris\source\repos\D09censuuruitbreiding\D09censuuruitbreiding\obj\Debug\net7.0\D09censuuruitbreiding.pdb
+C:\Users\joris\source\repos\D09censuuruitbreiding\D09censuuruitbreiding\obj\Debug\net7.0\D09censuuruitbreiding.genruntimeconfig.cache
+C:\Users\joris\source\repos\D09censuuruitbreiding\D09censuuruitbreiding\obj\Debug\net7.0\ref\D09censuuruitbreiding.dll

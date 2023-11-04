@@ -1,0 +1,14 @@
+C:\Users\joris\source\repos\D06somevenoneven\D06somevenoneven\bin\Debug\net7.0\D06somevenoneven.exe
+C:\Users\joris\source\repos\D06somevenoneven\D06somevenoneven\bin\Debug\net7.0\D06somevenoneven.deps.json
+C:\Users\joris\source\repos\D06somevenoneven\D06somevenoneven\bin\Debug\net7.0\D06somevenoneven.runtimeconfig.json
+C:\Users\joris\source\repos\D06somevenoneven\D06somevenoneven\bin\Debug\net7.0\D06somevenoneven.dll
+C:\Users\joris\source\repos\D06somevenoneven\D06somevenoneven\bin\Debug\net7.0\D06somevenoneven.pdb
+C:\Users\joris\source\repos\D06somevenoneven\D06somevenoneven\obj\Debug\net7.0\D06somevenoneven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris\source\repos\D06somevenoneven\D06somevenoneven\obj\Debug\net7.0\D06somevenoneven.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\D06somevenoneven\D06somevenoneven\obj\Debug\net7.0\D06somevenoneven.AssemblyInfo.cs
+C:\Users\joris\source\repos\D06somevenoneven\D06somevenoneven\obj\Debug\net7.0\D06somevenoneven.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\D06somevenoneven\D06somevenoneven\obj\Debug\net7.0\D06somevenoneven.dll
+C:\Users\joris\source\repos\D06somevenoneven\D06somevenoneven\obj\Debug\net7.0\refint\D06somevenoneven.dll
+C:\Users\joris\source\repos\D06somevenoneven\D06somevenoneven\obj\Debug\net7.0\D06somevenoneven.pdb
+C:\Users\joris\source\repos\D06somevenoneven\D06somevenoneven\obj\Debug\net7.0\D06somevenoneven.genruntimeconfig.cache
+C:\Users\joris\source\repos\D06somevenoneven\D06somevenoneven\obj\Debug\net7.0\ref\D06somevenoneven.dll
